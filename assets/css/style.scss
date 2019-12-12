@@ -11,18 +11,23 @@
 }
 
 #header_wrap .inner {
-    padding: 50px 10px 1px 10px;
+    padding-bottom: 1px;
 }
 
 .navbar {
-    margin: 10px 0 3px 0;
+    margin-bottom: 0;
+    margin-top: 0;
 }
 
-#project_title {
-    color: #0000ff;
-    text-shadow: none;
-    font-size: 2.0em;
+.navbar a {
+    color: black;
 }
+
+// #project_title {
+    // color: #0000ff;
+    // text-shadow: none;
+    // font-size: 2.0em;
+// }
 
 #main_content_wrap {
     background: #ffffff;
@@ -42,14 +47,21 @@ td {
     border: none;
 }
 
-.heading {
+.logo{
   display: flex;
 }
 
-.heading img {
-  margin-right: 10px;
+.logo img {
   display: block;
 }
 
-.heading h3 {padding-top: 1em;}
-.heading p {margin: 0;}
+.logo h3 {
+    padding: 1em 0.5em 0em 0.4em;
+    margin-bottom: -0.1em;
+    vertical-align: baseline;
+    letter-spacing: 1px;
+}
+.logo p {
+    padding: 0em 0.5em 1em 0.5em;
+    margin-top: 0;
+}

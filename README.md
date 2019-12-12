@@ -14,17 +14,13 @@ You’ll always find a friendly face around Darwin, so don’t be scared to just
 
 Please find the [General meeting's motions](https://drive.google.com/drive/folders/11tTTNB7E3WyPY07JaFyHgYwTBm2QyFzi?usp=sharing) here.
 
-EC Minutes:
-https://drive.google.com/drive/folders/1SOZxWncAs0WJbqdfSN1R20soiIxtdSCD?usp=sharing
+[EC Minutes](https://drive.google.com/drive/folders/1SOZxWncAs0WJbqdfSN1R20soiIxtdSCD?usp=sharing)
 
-EC resolutions:
-https://drive.google.com/drive/folders/1fjGT1VK8naco_KlAP8lleJe-v71hSfLb?usp=sharing
+[EC resolutions](https://drive.google.com/drive/folders/1fjGT1VK8naco_KlAP8lleJe-v71hSfLb?usp=sharing)
 
-GM Minutes
-https://drive.google.com/drive/folders/19PYVshwgP5STIgzL1XjRbcRmy392xsVb?usp=sharing
+[GM Minutes](https://drive.google.com/drive/folders/19PYVshwgP5STIgzL1XjRbcRmy392xsVb?usp=sharing)
 
-GM Motions:
-https://drive.google.com/drive/folders/11tTTNB7E3WyPY07JaFyHgYwTBm2QyFzi?usp=sharing
+[GM Motions](https://drive.google.com/drive/folders/11tTTNB7E3WyPY07JaFyHgYwTBm2QyFzi?usp=sharing)
 
 
 ## Meet the DCSA
@@ -32,7 +28,7 @@ https://drive.google.com/drive/folders/11tTTNB7E3WyPY07JaFyHgYwTBm2QyFzi?usp=sha
 <table>
 <tr>
     <td>
-        <img src="images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px" height="400px"/>
+        <img src="images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/>
     </td>
     <td style="vertical-align: middle">
         <strong>President</strong><br/>
@@ -45,7 +41,7 @@ The President is the representative of the DCSA to College, voicing the opinions
 
 <tr>
     <td>
-        <img src="images/DCSA/DCSA-Secretary.jpg" alt="[Secretary's picture]" width="300px" height="400px"/>
+        <img src="images/DCSA/DCSA-Secretary.jpg" alt="[Secretary's picture]" width="300px"/>
     </td>
     <td style="vertical-align: middle">
         <strong>Secretary</strong><br/>
@@ -58,7 +54,7 @@ The Secretary is the administrator of the committee and Vice President. Alongsid
 
 <tr>
     <td>
-        <img src="images/DCSA/DCSA-Treasurer.jpg" alt="[Treasurer's picture]" width="300px" height="400px"/>
+        <img src="images/DCSA/DCSA-Treasurer.jpg" alt="[Treasurer's picture]" width="300px"/>
     </td>
     <td style="vertical-align: middle">
         <strong>Treasurer</strong><br/>
@@ -76,7 +72,7 @@ The Treasurer is in charge of all the finances in the DCSA, reports how much is 
 <table>
 <tr>
     <td>
-        <img src="images/DCSA/Barcom.jpg" alt="[Barcom's picture]" width="300px" height="400px"/>
+        <img src="images/DCSA/Barcom.jpg" alt="[Barcom's picture]" width="300px"/>
     </td>
     <td style="vertical-align: middle">
         <strong>Bar Committee Chair</strong><br/>
@@ -89,7 +85,7 @@ The Barcomm Chair is not voted on to the DCSA Executive Committee, as with all o
 
 <tr>
     <td>
-        <img src="images/DCSA/DCSA-Family.jpg" alt="[Family Officer's picture]" width="300px" height="400px"/>
+        <img src="images/DCSA/DCSA-Family.jpg" alt="[Family Officer's picture]" width="300px"/>
     </td>
     <td style="vertical-align: middle">
         <strong>President of the Families Society</strong><br/>
@@ -105,4 +101,4 @@ The President of the Families Society is not voted on to the DCSA Executive Comm
 
 # Constitution and Schedule and Regulations
 
-https://drive.google.com/drive/folders/1YTp015nqyTUjO1NJg8bwB_aFXKm0IE2C?usp=sharing
+[DCSA Constitution and Schedule and Regulations](https://drive.google.com/drive/folders/1YTp015nqyTUjO1NJg8bwB_aFXKm0IE2C?usp=sharing)
