@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
+title: DCSA - Darwin College Students' Association
+description: Homepage of the Darwin College Students' Association
+baseurl: /
+show_downloads: false
+google_analytics:

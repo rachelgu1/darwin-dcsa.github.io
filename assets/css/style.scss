@@ -1,0 +1,55 @@
+---
+---
+
+@import "{{ site.theme }}";
+.rpad {padding-right: 1em;}
+
+/* Your custom css rules goes after this */
+#header_wrap {
+    background: #ffffff;
+    border: none;
+}
+
+#header_wrap .inner {
+    padding: 50px 10px 1px 10px;
+}
+
+.navbar {
+    margin: 10px 0 3px 0;
+}
+
+#project_title {
+    color: #0000ff;
+    text-shadow: none;
+    font-size: 2.0em;
+}
+
+#main_content_wrap {
+    background: #ffffff;
+    // border-top: none;
+    // border-bottom: none;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+table {
+    border: none;
+}
+
+td {
+    border: none;
+}
+
+.heading {
+  display: flex;
+}
+
+.heading img {
+  margin-right: 10px;
+  display: block;
+}
+
+.heading h3 {padding-top: 1em;}
+.heading p {margin: 0;}
