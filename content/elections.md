@@ -1,3 +1,7 @@
+---
+permalink: /elections/
+---
+
 # Elections
 
 when and how is the DCSA EC committee elected. Example manifestos of previous years.

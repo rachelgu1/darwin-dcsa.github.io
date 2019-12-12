@@ -1,3 +1,7 @@
+---
+permalink: /contact/
+---
+
 # How to contact us
 
 # Data protection policy

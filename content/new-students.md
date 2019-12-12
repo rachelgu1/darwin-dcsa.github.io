@@ -1,3 +1,7 @@
+---
+permalink: /new-students/
+---
+
 # New students
 
 [Welcome booklet](https://drive.google.com/drive/folders/1YWlWgd3Vif-PWFDuuanZD-YBLBO4CPuL?usp=sharing)

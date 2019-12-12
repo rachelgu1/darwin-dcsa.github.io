@@ -1,0 +1,5 @@
+---
+permalink: /facilities/
+---
+
+# Facilities
