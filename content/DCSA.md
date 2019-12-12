@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /index/
 ---
 
 # Welcome to Darwin
