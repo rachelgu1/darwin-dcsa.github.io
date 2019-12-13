@@ -28,7 +28,7 @@ Please find the [General meeting's motions](https://drive.google.com/drive/folde
 <table>
 <tr>
     <td>
-        <img src="images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/>
+        <a href="images/DCSA/DCSA-President.jpg"><img src="images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>President</strong><br/>
@@ -41,7 +41,7 @@ The President is the representative of the DCSA to College, voicing the opinions
 
 <tr>
     <td>
-        <img src="images/DCSA/DCSA-Secretary.jpg" alt="[Secretary's picture]" width="300px"/>
+        <a href="images/DCSA/DCSA-Secretary.jpg"><img src="images/DCSA/DCSA-Secretary.jpg" alt="[Secretary's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Secretary</strong><br/>
@@ -54,7 +54,7 @@ The Secretary is the administrator of the committee and Vice President. Alongsid
 
 <tr>
     <td>
-        <img src="images/DCSA/DCSA-Treasurer.jpg" alt="[Treasurer's picture]" width="300px"/>
+        <a href="images/DCSA/DCSA-Treasurer.jpg"><img src="images/DCSA/DCSA-Treasurer.jpg" alt="[Treasurer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Treasurer</strong><br/>
@@ -65,6 +65,32 @@ The Treasurer is in charge of all the finances in the DCSA, reports how much is 
         </p>
     </td></tr>
 
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-College-Council-II.jpg"><img src="images/DCSA/DCSA-College-Council-II.jpg" alt="[College Council's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>College Council Representative I</strong><br/>
+        dcsa_council_reps @ darwin.cam.ac.uk<br/>
+        Christopher DAVIS<br/>
+        <p align="justify">
+The College Council Reps are elected by the students to represent the College in College Council meetings and sit ex officio on the DCSA Executive Committee (meaning their Primary Office is the College Council). They bring any matters to the College Council and the DCSA and try to ensure that the needs of all parties in College are being met.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-External.jpg"><img src="images/DCSA/DCSA-External.jpg" alt="[External Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>External Officer</strong><br/>
+         dcsa_external @ darwin.cam.ac.uk<br/>
+         Daniel KOTTMANN<br/>
+        <p align="justify">
+The External Officer is responsible for organising Formal swaps with other Colleges and for hosting other Colleges when they visit Darwin for Formal swap. They also represent the DCSA at CUSU meetings.
+        </p>
+    </td></tr>
+
 </table>
 
 ### Ex officio officers
@@ -72,7 +98,8 @@ The Treasurer is in charge of all the finances in the DCSA, reports how much is 
 <table>
 <tr>
     <td>
-        <img src="images/DCSA/Barcom.jpg" alt="[Barcom's picture]" width="300px"/>
+         <a href="images/DCSA/Barcom.jpg"><img src="images/DCSA/Barcom.jpg" alt="[Barcom's picture]"
+         width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Bar Committee Chair</strong><br/>
@@ -85,7 +112,7 @@ The Barcomm Chair is not voted on to the DCSA Executive Committee, as with all o
 
 <tr>
     <td>
-        <img src="images/DCSA/DCSA-Family.jpg" alt="[Family Officer's picture]" width="300px"/>
+       <a href="images/DCSA/DCSA-Families.jpg"><img src="images/DCSA/DCSA-Family.jpg" alt="[Family Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>President of the Families Society</strong><br/>
