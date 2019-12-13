@@ -6,6 +6,8 @@ permalink: /sports-societies/
 
 # TODO how to show the list with president/treasurer? -> link to excel sheet?
 
+# TODO get a list from the Treasurer with ALL registered societies in a given year
+
 [Aerial Arts](#aerial-arts):<br/>
 Ruby Coates (rc715) & Daniel Buhl (dkb34) (on [Facebook](https://www.facebook.com/groups/DCAerialArts/))
 
