@@ -2,5 +2,5 @@
 permalink: /welfare/
 ---
 
-# Welfare issues
+# Welfare
 
