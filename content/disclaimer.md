@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /disclaimer/
 ---
 
 # How to contact us
