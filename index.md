@@ -171,7 +171,7 @@ The College Council Reps are elected by the students to represent the College in
     <td style="vertical-align: middle">
         <strong>Communications Officer</strong><br/>
          dcsa_coms @ darwin.cam.ac.uk<br/>
-         Michael SCHNEIDEr<br/>
+         Michael SCHNEIDER<br/>
         <p align="justify">
 The Comms Officer is responsible for sending out the Whatsup emails, helping to maintain the website, and to otherwise attend to the DCSA communication needs. The Comms Officer sits on the Information Services Committee.
         </p>
