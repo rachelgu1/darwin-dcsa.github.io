@@ -25,6 +25,7 @@ Please find the [General meeting's motions](https://drive.google.com/drive/folde
 
 ## Meet the DCSA Executive Committee
 
+<!-- Trinity -->
 <table>
 <tr>
     <td>
@@ -65,9 +66,81 @@ The Treasurer is in charge of all the finances in the DCSA, reports how much is 
         </p>
     </td></tr>
 
+<!-- Welfare and other -->
 <tr>
     <td>
-        <a href="images/DCSA/DCSA-College-Council-II.jpg"><img src="images/DCSA/DCSA-College-Council-II.jpg" alt="[College Council's picture]" width="300px"/></a>
+        <a href="images/DCSA/DCSA-Welfare-Women.jpg"><img src="images/DCSA/DCSA-Welfare-Women.jpg" alt="[Women Welfare Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Women’s Welfare Officer</strong><br/>
+		dcsa_welfare @ darwin.cam.ac.uk<br/>
+		dcsa_womens_welfare @ darwin.cam.ac.uk<br/>
+        Alice FAIRNIE<br/>
+        <p align="justify">
+The Women’s Welfare Officer is the student contact for students who or in need of help or advice. They advise students on how to deal with their problems and who they should contact to get the help they require. The Women’s Welfare Officer is responsible for representing and furthering the needs of female students. Along with the Men's Welfare Officer, they will organise welfare events throughout the year.
+       </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Welfare-Men.jpg"><img src="images/DCSA/DCSA-Welfare-Men.jpg" alt="[Men Welfare Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Men’s Welfare Officer</strong><br/>
+		dcsa_welfare @ darwin.cam.ac.uk<br/>
+		dcsa_mens_welfare @ darwin.cam.ac.uk<br/>
+        Patrick MORTIMER<br/>
+        <p align="justify">
+The Men’s Welfare Officer is the student contact for students who or in need of help or advice. They advise students on how to deal with their problems and who they should contact to get the help they require. The Men’s Welfare Officer is responsible for representing and furthering the needs of male students. Along with the Women's Welfare Officer, they will organise welfare events throughout the year.
+       </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Women.jpg"><img src="images/DCSA/DCSA-Women.jpg" alt="[Women's Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Women's Officer</strong><br/>
+		dcsa_women @ darwin.cam.ac.uk<br/>
+		Meg Majumder<br/>
+        <br/>
+        <p align="justify">
+text missing
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-LGBTQ.jpg"><img src="images/DCSA/DCSA-LGBTQ.jpg" alt="[LGBTQ Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>LGBTQ+ Officer</strong><br/>
+		dcsa_lgbtq @ darwin.cam.ac.uk<br/>
+        Arthur DAVIS<br/>
+        <p align="justify">
+The LGBTQ+ Officer is responsible for representing and furthering the needs of LGBTQ students, whilst also providing
+help in a similar manner to the Welfare Officers. They try to involve LGBTQ+ students in college events and organise
+events aimed at LGBTQ+ students.
+        </p>
+    </td></tr>
+
+<!-- Alphabetical -->
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Admiral.jpg"><img src="images/DCSA/DCSA-Admiral.jpg" alt="[Admiral's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Admiral of the Punts</strong><br/>
+		dcsa_punts @ darwin.cam.ac.uk<br/>
+		James MACDONALD<br/>
+        <p align="justify">
+The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, and the equipment which comes along with them. They are the President of the Punt Club and manage the membership, the finanical and administrative work, and the maintenance of the vessels. They work with several trusted punt captains to ensure the work is done.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-College-Council-I.jpg"><img src="images/DCSA/DCSA-College-Council-I.jpg" alt="[College Council I picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>College Council Representative I</strong><br/>
@@ -75,6 +148,72 @@ The Treasurer is in charge of all the finances in the DCSA, reports how much is 
         Christopher DAVIS<br/>
         <p align="justify">
 The College Council Reps are elected by the students to represent the College in College Council meetings and sit ex officio on the DCSA Executive Committee (meaning their Primary Office is the College Council). They bring any matters to the College Council and the DCSA and try to ensure that the needs of all parties in College are being met.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Communications.jpg"><img src="images/DCSA/DCSA-Communications.jpg" alt="[Communications Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Communications Officer</strong><br/>
+         dcsa_coms @ darwin.cam.ac.uk<br/>
+         Michael SCHNEIDEr<br/>
+        <p align="justify">
+The Comms Officer is responsible for sending out the Whatsup emails, helping to maintain the website, and to otherwise attend to the DCSA communication needs. The Comms Officer sits on the Information Services Committee.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Ents-I.jpg"><img src="images/DCSA/DCSA-Ents-I.jpg" alt="[Ents Officer's I picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+		<strong>Entertainment Officer I</strong><br/>
+		dcsa_ents @ darwin.cam.ac.uk<br/>
+		Mimy PHAM<br/>
+        <p align="justify">
+The Ents Officers coordinate, organise, and promote the Darwin BOPs, held roughly three times a term. They are responsible for the music, decorations, security, and all the other financial and administrative work that comes with it.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Ents-II.jpg"><img src="images/DCSA/DCSA-Ents-II.jpg" alt="[Ents Officer's II picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+		<strong>Entertainment Officer II</strong><br/>
+		dcsa_ents @ darwin.cam.ac.uk<br/>
+		Louise DE THOMASSON<br/>
+        <p align="justify">
+The Ents Officers coordinate, organise, and promote the Darwin BOPs, held roughly three times a term. They are responsible for the music, decorations, security, and all the other financial and administrative work that comes with it.
+        </p>
+    </td></tr>
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Environment-Ethics.jpg"><img src="images/DCSA/DCSA-Environment-Ethics.jpg" alt="[Environment and Ethics Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Environmental and Ethical Affairs Officer</strong><br/>
+         dcsa_green @ darwin.cam.ac.uk<br/>
+         Conor Cooper<br/>
+        <p align="justify">
+The Environmental and Ethical Affairs Officer is responsible for the coordination and implementation of environmental
+and ethical issues and organises college events promoting awareness of these issues. They manage the student
+vegetable garden and they can sit on the Buildings and Grounds Committee if requested.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Events.jpg"><img src="images/DCSA/DCSA-Events.jpg" alt="[Events Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Events Officer</strong><br/>
+         dcsa_events @ darwin.cam.ac.uk<br/>
+         Chanon PORNRUNGROJ<br/>
+        <p align="justify">
+The Events Officer coordinates, organises, and promotes social and entertainment activities in college, including the May Week Garden Party, summer BBQ, and other smaller events throughout the year.
         </p>
     </td></tr>
 
@@ -88,6 +227,45 @@ The College Council Reps are elected by the students to represent the College in
          Daniel KOTTMANN<br/>
         <p align="justify">
 The External Officer is responsible for organising Formal swaps with other Colleges and for hosting other Colleges when they visit Darwin for Formal swap. They also represent the DCSA at CUSU meetings.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-International.jpg"><img src="images/DCSA/DCSA-International.jpg" alt="[International Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>International Officer</strong><br/>
+         dcsa_international @ darwin.cam.ac.uk<br/>
+		 Narendra MEENA<br/>
+        <p align="justify">
+The International Officer is responsible for representing and furthering the needs of international students, whilst also providing help in a similar manner to the Welfare Officers. They try to involve international students in college events and organise events aimed at international students.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Sports-Societies-I.jpg"><img src="images/DCSA/DCSA-Sports-Societies-I.jpg" alt="[Sports and Societies Officer's I picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Sports and Societies Officer I</strong><br/>
+         dcsa_sports @ darwin.cam.ac.uk<br/>
+         Daniel BUHL<br/>
+        <p align="justify">
+The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sporting societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of sporting fun against our sister College at Oxford, held every March.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
+        <a href="images/DCSA/DCSA-Sports-Societies-II.jpg"><img src="images/DCSA/DCSA-Sports-Societies-II.jpg" alt="[Sports and Societies Officer's II picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Sports and Societies Officer I</strong><br/>
+         dcsa_sports @ darwin.cam.ac.uk<br/>
+         Trevor COUSINS<br/>
+        <p align="justify">
+The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sporting societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of sporting fun against our sister College at Oxford, held every March.
         </p>
     </td></tr>
 
