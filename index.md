@@ -153,6 +153,19 @@ The College Council Reps are elected by the students to represent the College in
 
 <tr>
     <td>
+        <a href="images/DCSA/DCSA-College-Council-II.jpg"><img src="images/DCSA/DCSA-College-Council-II.jpg" alt="[College Council II picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>College Council Representative II</strong><br/>
+        dcsa_council_reps @ darwin.cam.ac.uk<br/>
+        Isabel ESAIN<br/>
+        <p align="justify">
+The College Council Reps are elected by the students to represent the College in College Council meetings and sit ex officio on the DCSA Executive Committee (meaning their Primary Office is the College Council). They bring any matters to the College Council and the DCSA and try to ensure that the needs of all parties in College are being met.
+        </p>
+    </td></tr>
+
+<tr>
+    <td>
         <a href="images/DCSA/DCSA-Communications.jpg"><img src="images/DCSA/DCSA-Communications.jpg" alt="[Communications Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
