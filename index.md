@@ -276,7 +276,7 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
 <table>
 <tr>
     <td>
-         <a href="images/DCSA/Barcom.jpg"><img src="images/DCSA/Barcom.jpg" alt="[Barcom's picture]"
+         <a href="images/DCSA/DCSA-Barcom.jpg"><img src="images/DCSA/DCSA-Barcom.jpg" alt="[Barcom's picture]"
          width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -290,7 +290,7 @@ The Barcomm Chair is not voted on to the DCSA Executive Committee, as with all o
 
 <tr>
     <td>
-       <a href="images/DCSA/DCSA-Families.jpg"><img src="images/DCSA/DCSA-Family.jpg" alt="[Family Officer's picture]" width="300px"/></a>
+       <a href="images/DCSA/DCSA-Families.jpg"><img src="images/DCSA/DCSA-Families.jpg" alt="[Family Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>President of the Families Society</strong><br/>
