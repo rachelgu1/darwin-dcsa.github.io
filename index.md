@@ -29,7 +29,7 @@ Please find the [General meeting's motions](https://drive.google.com/drive/folde
 <table>
 <tr>
     <td>
-        <a href="images/DCSA/DCSA-President.jpg"><img src="images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/></a>
+        <a href="images/DCSA/DCSA-President.jpg"><img src="images/DCSA/DCSA-President.jpg" alt="[President's picture]" sizes="(max-width: 500px) 60vw, (max-width: 1600px) 50vw, 900px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>President</strong><br/>
