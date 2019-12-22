@@ -8,11 +8,8 @@ permalink: /sports-societies/
 
 # TODO get a list from the Treasurer with ALL registered societies in a given year
 
-[Aerial Arts](#aerial-arts):<br/>
-Ruby Coates (rc715) & Daniel Buhl (dkb34) (on [Facebook](https://www.facebook.com/groups/DCAerialArts/))
-
-[Badminton Club](#badminton-club):<br/>
-Lilong XU (lx238)
+- [Aerial Arts](#aerial-arts)
+- [Badminton Club](#badminton-club)
 
 
 
