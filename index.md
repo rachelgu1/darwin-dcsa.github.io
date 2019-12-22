@@ -307,8 +307,8 @@ The Barcomm Chair is not voted on to the DCSA Executive Committee, as with all o
     </td>
     <td style="vertical-align: middle">
         <strong>President of the Families Society</strong><br/>
-        dcsa_families @ darwin.cam.ac.uk</br>
-        Janna HASTINGS</br>
+        dcsa_families @ darwin.cam.ac.uk<br/>
+        Janna HASTINGS<br/>
         <p align="justify">
 The President of the Families Society is not voted on to the DCSA Executive Committee, as with all other positions, but sits ex officio on the committee. The President of the Families Society is responsible for representing and furthering the needs of students with families. They try to involve students with families in college events and organise events aimed at these students through the families society.
         </p>
