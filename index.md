@@ -26,10 +26,12 @@ Please find the [General meeting's motions](https://drive.google.com/drive/folde
 ## Meet the DCSA Executive Committee
 
 <!-- Trinity -->
+
 <table>
+
 <tr>
     <td>
-        <a href="images/DCSA/DCSA-President.jpg"><img src="images/DCSA/DCSA-President.jpg" alt="[President's picture]" sizes="(max-width: 500px) 60vw, (max-width: 1600px) 50vw, 900px"/></a>
+        <a href="images/DCSA/DCSA-President.jpg"><img src="images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>President</strong><br/>
@@ -73,8 +75,8 @@ The Treasurer is in charge of all the finances in the DCSA, reports how much is 
     </td>
     <td style="vertical-align: middle">
         <strong>Women’s Welfare Officer</strong><br/>
-		dcsa_welfare @ darwin.cam.ac.uk<br/>
-		dcsa_womens_welfare @ darwin.cam.ac.uk<br/>
+        dcsa_welfare @ darwin.cam.ac.uk<br/>
+        dcsa_womens_welfare @ darwin.cam.ac.uk<br/>
         Alice FAIRNIE<br/>
         <p align="justify">
 The Women’s Welfare Officer is the student contact for students who or in need of help or advice. They advise students on how to deal with their problems and who they should contact to get the help they require. The Women’s Welfare Officer is responsible for representing and furthering the needs of female students. Along with the Men's Welfare Officer, they will organise welfare events throughout the year.
@@ -87,8 +89,8 @@ The Women’s Welfare Officer is the student contact for students who or in need
     </td>
     <td style="vertical-align: middle">
         <strong>Men’s Welfare Officer</strong><br/>
-		dcsa_welfare @ darwin.cam.ac.uk<br/>
-		dcsa_mens_welfare @ darwin.cam.ac.uk<br/>
+        dcsa_welfare @ darwin.cam.ac.uk<br/>
+        dcsa_mens_welfare @ darwin.cam.ac.uk<br/>
         Patrick MORTIMER<br/>
         <p align="justify">
 The Men’s Welfare Officer is the student contact for students who or in need of help or advice. They advise students on how to deal with their problems and who they should contact to get the help they require. The Men’s Welfare Officer is responsible for representing and furthering the needs of male students. Along with the Women's Welfare Officer, they will organise welfare events throughout the year.
@@ -101,8 +103,8 @@ The Men’s Welfare Officer is the student contact for students who or in need o
     </td>
     <td style="vertical-align: middle">
         <strong>Women's Officer</strong><br/>
-		dcsa_women @ darwin.cam.ac.uk<br/>
-		Meg Majumder<br/>
+        dcsa_women @ darwin.cam.ac.uk<br/>
+        Meg Majumder<br/>
         <br/>
         <p align="justify">
 text missing
@@ -115,7 +117,7 @@ text missing
     </td>
     <td style="vertical-align: middle">
         <strong>LGBTQ+ Officer</strong><br/>
-		dcsa_lgbtq @ darwin.cam.ac.uk<br/>
+        dcsa_lgbtq @ darwin.cam.ac.uk<br/>
         Arthur DAVIS<br/>
         <p align="justify">
 The LGBTQ+ Officer is responsible for representing and furthering the needs of LGBTQ students, whilst also providing
@@ -131,8 +133,8 @@ events aimed at LGBTQ+ students.
     </td>
     <td style="vertical-align: middle">
         <strong>Admiral of the Punts</strong><br/>
-		dcsa_punts @ darwin.cam.ac.uk<br/>
-		James MACDONALD<br/>
+        dcsa_punts @ darwin.cam.ac.uk<br/>
+        James MACDONALD<br/>
         <p align="justify">
 The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, and the equipment which comes along with them. They are the President of the Punt Club and manage the membership, the finanical and administrative work, and the maintenance of the vessels. They work with several trusted punt captains to ensure the work is done.
         </p>
@@ -182,9 +184,9 @@ The Comms Officer is responsible for sending out the Whatsup emails, helping to 
         <a href="images/DCSA/DCSA-Ents-I.jpg"><img src="images/DCSA/DCSA-Ents-I.jpg" alt="[Ents Officer's I picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-		<strong>Entertainment Officer I</strong><br/>
-		dcsa_ents @ darwin.cam.ac.uk<br/>
-		Mimy PHAM<br/>
+        <strong>Entertainment Officer I</strong><br/>
+        dcsa_ents @ darwin.cam.ac.uk<br/>
+        Mimy PHAM<br/>
         <p align="justify">
 The Ents Officers coordinate, organise, and promote the Darwin BOPs, held roughly three times a term. They are responsible for the music, decorations, security, and all the other financial and administrative work that comes with it.
         </p>
@@ -195,9 +197,9 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs, held roughl
         <a href="images/DCSA/DCSA-Ents-II.jpg"><img src="images/DCSA/DCSA-Ents-II.jpg" alt="[Ents Officer's II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-		<strong>Entertainment Officer II</strong><br/>
-		dcsa_ents @ darwin.cam.ac.uk<br/>
-		Louise DE THOMASSON<br/>
+        <strong>Entertainment Officer II</strong><br/>
+        dcsa_ents @ darwin.cam.ac.uk<br/>
+        Louise DE THOMASSON<br/>
         <p align="justify">
 The Ents Officers coordinate, organise, and promote the Darwin BOPs, held roughly three times a term. They are responsible for the music, decorations, security, and all the other financial and administrative work that comes with it.
         </p>
@@ -250,7 +252,7 @@ The External Officer is responsible for organising Formal swaps with other Colle
     <td style="vertical-align: middle">
         <strong>International Officer</strong><br/>
          dcsa_international @ darwin.cam.ac.uk<br/>
-		 Narendra MEENA<br/>
+         Narendra MEENA<br/>
         <p align="justify">
 The International Officer is responsible for representing and furthering the needs of international students, whilst also providing help in a similar manner to the Welfare Officers. They try to involve international students in college events and organise events aimed at international students.
         </p>
