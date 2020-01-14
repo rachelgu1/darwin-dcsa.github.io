@@ -4,23 +4,14 @@ permalink: /
 
 # Welcome to Darwin
 
+below text might go on the new students page and here just a shorter Intro?
+
 The Darwin College Students’ Association (DCSA) welcomes you to Darwin for what is sure to be the start of a truly amazing year! The DCSA exists to represent the interests and welfare of Darwin students and does so by dealing with matters raised by students, providing budget for Darwin clubs and societies, organising social events, and by providing support for students. You can contact any committee member about any issue.
 {: .text-justify}
 
 You’ll always find a friendly face around Darwin, so don’t be scared to just say hello and introduce yourself to someone. It really is true what they say: you get out what you put in, so you should visit Darwin as much as you can, to make the most of college life.
 {: .text-justify}
 
-## Minutes of meetings and GMs
-
-Please find the [General meeting's motions](https://drive.google.com/drive/folders/11tTTNB7E3WyPY07JaFyHgYwTBm2QyFzi?usp=sharing) here.
-
-[EC Minutes](https://drive.google.com/drive/folders/1SOZxWncAs0WJbqdfSN1R20soiIxtdSCD?usp=sharing)
-
-[EC resolutions](https://drive.google.com/drive/folders/1fjGT1VK8naco_KlAP8lleJe-v71hSfLb?usp=sharing)
-
-[GM Minutes](https://drive.google.com/drive/folders/19PYVshwgP5STIgzL1XjRbcRmy392xsVb?usp=sharing)
-
-[GM Motions](https://drive.google.com/drive/folders/11tTTNB7E3WyPY07JaFyHgYwTBm2QyFzi?usp=sharing)
 
 
 ## Meet the DCSA Executive Committee
@@ -319,6 +310,3 @@ The President of the Families Society is not voted on to the DCSA Executive Comm
 </table>
 
 
-# Constitution and Schedule and Regulations
-
-[DCSA Constitution and Schedule and Regulations](https://drive.google.com/drive/folders/1YTp015nqyTUjO1NJg8bwB_aFXKm0IE2C?usp=sharing)
