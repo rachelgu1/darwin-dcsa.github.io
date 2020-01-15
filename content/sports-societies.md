@@ -4,6 +4,25 @@ permalink: /sports-societies/
 
 # Sports & Societies
 
+<!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
+<!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
+
+<details>
+  <summary><b>Aerial Arts</b></summary>
+
+<a href="{{site.baseurl | absolute_url}}/images/Societies/aerial-arts.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/aerial-arts.png" alt="[Aerial Arts]" width="200px"/></a><br>
+
+Darwin College Aerial Arts is aiming to establish a variety of  increasingly popular sports at Darwin. We currently have the equipment to run beginners pole classes in college. With the purchase of our new trapeze, we are also planning to offer static trapeze classes starting this year.
+{: .text-justify}
+
+Aerial Arts are a great way to improve strength, flexibility and overall fitness and the club is open to all students regardless of their age and experience-level. Whether you have previous experience or are just curious about it - please drop by at our sessions and give it a go! You can find out more by joining our Facebook group “Darwin College Aerial Arts” for regular updates.
+{: .text-justify}
+
+Contacts: Ruby Coates (rc715) & Daniel Buhl (dkb34)
+Facebook: https://www.facebook.com/groups/DCAerialArts/
+</details>
+
+
 # TODO how to show the list with president/treasurer? -> link to excel sheet?
 
 # TODO get a list from the Treasurer with ALL registered societies in a given year
