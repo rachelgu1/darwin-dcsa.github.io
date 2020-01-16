@@ -52,6 +52,21 @@ Facebook: https://www.facebook.com/groups/darwinbb
 </details>
 
 
+<!-- Bee Keeping -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Bee Keeping</b></summary>
+
+Contact: Jenaid Rees (jr732)
+
+</details>
+
+
+
+
+
+
+
+
 
 
 
