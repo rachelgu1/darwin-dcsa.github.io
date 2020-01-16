@@ -37,6 +37,25 @@ Contact: Lilong XU (lx238)
 </details>
 
 
+<!-- Basketball Club (Men) -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Basketball Club (Men) </b></summary>
+
+<a href="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg" alt="[Basketball Club (men)]" width="200px"/></a><br>
+
+Basketball has a long and successful tradition at Darwin. We participate every year in two Cambridge University inter-collegial competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers (Easter term), of which we are the 2019 champions! The season kicks off late September and ends around April, but we continue to practice throughout the summer months. We are a friendly and active bunch and always welcome new players at varying skill levels in our teams. For more information get in touch with the team contacts or simply turn up at our practice session every Tuesday.
+<br>
+
+Contact: Aleix Lafita (al859)
+<br>
+Facebook: https://www.facebook.com/groups/darwinbb
+</details>
+
+
+
+
+
+
 # Alternative display:
 
 - [Aerial Arts](#aerial-arts)
