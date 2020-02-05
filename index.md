@@ -98,7 +98,7 @@ The Men’s Welfare Officer is the student contact for students who or in need o
         Meg Majumder<br/>
         <br/>
         <p align="justify">
-text missing
+        The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
     </td></tr>
 
@@ -301,7 +301,7 @@ The Barcomm Chair is not voted on to the DCSA Executive Committee, as with all o
     <td style="vertical-align: middle">
         <strong>President of the Families Society</strong><br/>
         dcsa_families @ darwin.cam.ac.uk<br/>
-        Janna HASTINGS<br/>
+        Soizic LE COURTOIS<br/>
         <p align="justify">
 The President of the Families Society is not voted on to the DCSA Executive Committee, as with all other positions, but sits ex officio on the committee. The President of the Families Society is responsible for representing and furthering the needs of students with families. They try to involve students with families in college events and organise events aimed at these students through the families society.
         </p>
