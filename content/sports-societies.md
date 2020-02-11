@@ -286,6 +286,101 @@ Facebook: FACEBOOKLINK TODO
 </details>
 
 
+<!-- College Choir -->
+<details align="justify" style="text-align:justify">
+  <summary><b>College Choir </b></summary>
+  
+<!-- NB: insert image -->
+
+Darwin College Choir is a group of enthusiastic singers specialising in
+contemporary choral music across a variety of genres. Rehearsals are held one
+evening per week. We aim to put on one concert per term, but we also welcome
+collaborations with other Darwin music ensembles and Cambridge choral
+groups, whether that means a combined Evensong service with Queens Graduate
+Choir or a casual outdoor sing-along with the folk ensemble. All keen singers
+are welcome!
+<br>
+
+Contact: Felicity Hey, fh333@cam.ac.uk
+</details>
+
+
+<!-- Cuban  Salse -->
+<details align="justify" style="text-align:justify">
+  <summary><b>CLUB NAME </b></summary>
+  
+<!-- NB: insert image -->
+
+Hola amigos! We are excited to run again the most fun society in Darwin, the
+Cuban Salsa society. We love dancing and socialising, so if you feel the same come join us. We are a relaxed and friendly group and we focus on having fun as
+well as becoming competent dancers. So, if you want to meet people or show
+off your inner dancer come find us in the Darwin Dining Hall for a ~2h session. If you are one of those people thinking that you just can’t dance, come give it a go and we’ll make sure to change that! We look forward to dancing and chilling at DarBar with you every Monday 20:15 - 22:15. Be there or you’ll miss all the fun!
+
+Fee: Darwin members £1
+     Everyone else: £3
+     
+Lots of Salsa Love,
+Your Darwin Cuban Salsa Society
+<br>
+
+Contact: Eirini Vamva, the Outgoing President, at ev306@cam.ac.uk or any members of our amazing new committee: Miriam Lisci, ml793@cam.ac.uk; Jyothi Jayaraman, jj329@cam.ac.uk; Miriam Belmonte, mb2120@cam.ac.uk; and Maria Gkovedarou, magkove@gmail.com
+Facebook: Make sure you follow our adventures at fb.com/groups/866672656814002/ 
+</details>
+
+
+<!-- Drink and Draw -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Drink and Draw</b></summary>
+  
+<!-- NB: insert image -->
+
+Drink and Draw (DaD) is the most casual visual arts and crafts society of the college. Everybody is welcomed, especially those traumatised by school art classes. We mostly meet up in DarBar to doodle and gossip together, but we also organise occasional day-time workshops. The point is to enjoy the process and do something with our hands after stressful days at labs/libraries/behind monitors. Artistic worth and ambition is passively discouraged, but tolerated. Once a term, we organise exhibitions for charity. You can find us on Facebook and Instagram (DarwinDrinkAndDraw).
+<br>
+
+Contact: Melanie Whitfield, mjw218@cam.ac.uk
+</details>
+
+<!-- Families Society -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Families Society </b></summary>
+  
+<!-- NB: insert image -->
+
+Being a postgraduate college, a significant portion of our students arrive
+with their families. Darwin's Families Society aims to bring together students
+and families to form a joint community where all are welcomed, as well as
+promote family issues within the College and the University. We run informal
+events throughout the year as well as bigger events about once per term, to
+celebrate special occasions. Our most popular events are a Christmas (and
+Hanukkah) mulled wine and sing-along event held together with the Darwin
+choir, and the Easter egg hunt held in the College garden. In addition, the Families Society provides activities for children alongside the College-wide DCSA events, to ensure that all our College community feel welcome at all events wherever possible. The Society owns a number of toys and games for a range of different ages which members can access to help their children have a good time while at College. We encourage students with families and all students that want to be a part of this special community to join our society.
+
+If you have any questions or want to get involved with this society, please get intouch with Soizic at dcsa_families@darwin.cam.ac.uk. We are currently
+recruiting for a new President!
+<br>
+
+Contact: Soizic dcsa_families@darwin.cam.ac.uk
+</details>
+
+
+<!-- Film Club -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Film Club </b></summary>
+  
+<!-- NB: insert image -->
+
+The Darwin College Film Club is welcoming all cinema fans to our regular
+screenings on Sunday evenings for a few hours of relaxation, entertainment
+and reflection. We are lucky to have a well-equipped and continuouslyupgraded TV Room in the main building where any Darwinians can come and watch movies. All styles of films are showcased - from old time black and white classics, summer blockbusters, international art films, documentaries, and so forth. Feel free to share with us your personal preferences, as the club has a budget to order movies which are not available in the DVD library. We aim to organize several thematic events over the year including themed nights, film marathons, outdoor screenings and joint screenings with other Darwin College Societies (Mind Matters Darwin, Darwin PhotoSoc, Families Society). Join the Facebook group ‘Darwin College Film Club’ and the mailing list to receive updates on our screenings. We welcome everyone to join, sit back, and relax while watching awesome movies.
+
+If you are keen to become an active member of the Film Club contact Dion
+Manousakas, dm754@cam.ac.uk or Giulia Barsuola, gb560@cam.ac.uk
+<br>
+
+Contact: Dion Manousakas, dm754@cam.ac.uk or Giulia Barsuola, gb560@cam.ac.uk
+Facebook: FACEBOOKLINK TODO
+</details>
+
 <!-- Club name -->
 <details align="justify" style="text-align:justify">
   <summary><b>CLUB NAME </b></summary>
@@ -298,6 +393,7 @@ INSERT TEXT
 Contact: CONTACT
 Facebook: FACEBOOKLINK
 </details>
+
 
 
 
