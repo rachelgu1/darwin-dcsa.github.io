@@ -107,20 +107,6 @@ Contact: Alicia Wilcox, aw644@cam.ac.uk & Vivian Lechner, vdl20@cam.
 Facebook: fb.com/DarwinCollegeBoatClub/
 </details>
 
-
-<!-- Cheese & Wine Society-->
-<details align="justify" style="text-align:justify">
-  <summary><b>Cheese and Wine Society </b></summary>
-  
-<!-- NB: insert image -->
-
-Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese- fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page (Darwin College Cheese and Wine Society) for updates.
-<br>
-
-Contact: CONTACT TODO
-Facebook: FACEBOOKLINK TODO
-</details>
-
 <!-- Climbing -->
 <details align="justify" style="text-align:justify">
   <summary><b>Climbing </b></summary>
@@ -133,8 +119,6 @@ We are a group of climbers that simply just want to go climbing. Since there are
 Contact: Zoë Audra, za274@cam.ac.uk & Barney Salsby, bs640@cam.ac.uk 
 Facebook: TODO
 </details>
-
-
 
 
 <!-- Cricket Club -->
