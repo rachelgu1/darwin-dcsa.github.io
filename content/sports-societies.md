@@ -74,19 +74,6 @@ Website: darwinbasketball.wordpress.com/about/
 </details>
 
 
-<!-- Bike Repair Club -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Bike Repair Club </b></summary>
-  
-<!-- NB: insert image -->
-
-Gears looking orange? Brakes failing? Flat tyre? Do you feel like you're taking
-your life into your own hands every time you hit the road on your bike? Sign up
-for the Bike Repair club and get access to all the tools you'll need to keep a bike in working order around Cambridge! We run the occasional masterclass, so no previous experience is necessary. Find us at the Sports & Societies Fair!
-<br>
-
-Contact: Oliver Fleck, orf22@cam.ac.uk & Nicolas Cimerman, npc36@cam.ac.uk
-</details>
 
 
 <!-- Boat Club -->
@@ -118,7 +105,7 @@ Facebook: fb.com/DarwinCollegeBoatClub/
 <details align="justify" style="text-align:justify">
   <summary><b>Climbing </b></summary>
   
-<a href="{{site.baseurl | absolute_url}}/images/Societies/Climbing.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg" alt="[climbing]" width="200px"/></a><br>
+<a href="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg" alt="[climbing]" width="200px"/></a><br>
 <a href="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]" width="200px"/></a><br>
 
 We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around, we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over WhatsApp or over a pint at Darbar, or check out what we are up to on Facebook ('Darwin Climbing Club'). We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor).
@@ -132,7 +119,7 @@ Contact: Zoë Audra, za274@cam.ac.uk & Barney Salsby, bs640@cam.ac.uk
 <details align="justify" style="text-align:justify">
   <summary><b>Cricket Club </b></summary>
   
-<!-- NB: insert image -->
+<a href="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg" alt="[Cricket]" width="200px"/></a><br>
 
 Darwin College Cricket Club is a friendly club with a record of success, as we are defending champions of the MCR Cricket League, having been runners up the year before. We welcome players of all abilities, from absolute novices to seasoned veterans and of any gender. All kit and equipment is provided, with winter net sessions taking place once a week starting in the new year. Matches are played in the summer months (May-July).
 <br>
@@ -140,11 +127,11 @@ Darwin College Cricket Club is a friendly club with a record of success, as we a
 Contact: Ben Geytenbeek, bg364@cam.ac.uk
 </details>
 
-<!-- Men's Football -->
+<!-- Football (Men's)-->
 <details align="justify" style="text-align:justify">
-  <summary><b>Men's Football </b></summary>
+  <summary><b>Football (Men's) </b></summary>
   
-<!-- NB: insert image -->
+<a href="{{site.baseurl | absolute_url}}/images/Societies/footballmen.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/footballmen.png" alt="[Football (men)]" width="200px"/></a><br>
 
 Welcome to Darwin College Men’s FC, your new home of football. The college has one competitive men’s team, playing in the Cambridge University JCR league, and we also enter a team into one of the world’s oldest cup competitions. Last year, the team secured its position in division 3 and we look forward to pushing onwards in the upcoming season.
 
@@ -155,9 +142,9 @@ Contact: Stuart Macpherson, sm2275@cam.ac.uk & Barney Salsby, bs640@cam.ac.uk
 </details>
 
 
-<!-- Women's Football -->
+<!-- Football (Women's) -->
 <details align="justify" style="text-align:justify">
-  <summary><b>Women's Football </b></summary>
+  <summary><b>Football (Women's) </b></summary>
   
 <!-- NB: insert image -->
 The Darwin and Wolfson College Women’s Football Team is recruiting new players! Our college has a joint team with Wolfson College to strengthen bonds within the University and offer even more chances to get to know amazing people. Our team plays in the women’s university division against other college teams and participates in a cup tournament as well.
@@ -246,8 +233,6 @@ Contact: Chiara Toschi, ct452@cam.ac.uk
 </details>
 </details>
 
-
-
 ### Societies
 
 <!-- Bee Keeping -->
@@ -256,6 +241,21 @@ Contact: Chiara Toschi, ct452@cam.ac.uk
 
 Contact: Jenaid Rees (jr732)
 </details>
+
+<!-- Bike Repair Club -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Bike Repair Club </b></summary>
+  
+<!-- NB: insert image -->
+
+Gears looking orange? Brakes failing? Flat tyre? Do you feel like you're taking
+your life into your own hands every time you hit the road on your bike? Sign up
+for the Bike Repair club and get access to all the tools you'll need to keep a bike in working order around Cambridge! We run the occasional masterclass, so no previous experience is necessary. Find us at the Sports & Societies Fair!
+<br>
+
+Contact: Oliver Fleck, orf22@cam.ac.uk & Nicolas Cimerman, npc36@cam.ac.uk
+</details>
+
 
 <!-- Board Game Society -->
 <details align="justify" style="text-align:justify">
@@ -310,7 +310,7 @@ Contact: Felicity Hey, fh333@cam.ac.uk
 <details align="justify" style="text-align:justify">
   <summary><b>Cuban Salsa </b></summary>
   
-<!-- NB: insert image -->
+<a href="{{site.baseurl | absolute_url}}/images/Societies/cubansalsa.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cubansalsa.jpg" alt="[Cuban Salsa]" width="200px"/></a><br>
 
 Hola amigos! We are excited to run again the most fun society in Darwin, the
 Cuban Salsa society. We love dancing and socialising, so if you feel the same come join us. We are a relaxed and friendly group and we focus on having fun as
@@ -346,7 +346,10 @@ Contact: Melanie Whitfield, mjw218@cam.ac.uk
 <details align="justify" style="text-align:justify">
   <summary><b>Families Society </b></summary>
   
-<!-- NB: insert image -->
+<a href="{{site.baseurl | absolute_url}}/images/Societies/fam1.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/fam1.png" alt="[Family picture 1]" width="200px"/></a><br>
+
+<a href="{{site.baseurl | absolute_url}}/images/Societies/fam2.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/fam2.png" alt="[Family picture 2]" width="200px"/></a><br>
+
 
 Being a postgraduate college, a significant portion of our students arrive
 with their families. Darwin's Families Society aims to bring together students
@@ -405,7 +408,8 @@ Contact: Maddie Emms: dcsa_green@dar.cam.ac.uk
 <details align="justify" style="text-align:justify">
   <summary><b>Gardening Society</b></summary>
   
-<!-- NB: insert image -->
+<a href="{{site.baseurl | absolute_url}}/images/Societies/gardening.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/gardening.png" alt="[Gardening]" width="200px"/></a><br>
+
 
 DarGar is the Darwin College student vegetable garden. This little green oasis
 is cultivated by Darwin college members, usually meeting every Sunday at 4pm. Whether you're a seasoned gardener or a complete beginner, you're welcome to join us in cultivating flowers, vegetables, herbs, and fruit!
@@ -422,7 +426,8 @@ Facebook: fb.com/groups/433280126714069/
 <details align="justify" style="text-align:justify">
   <summary><b>LGBTQ+</b></summary>
   
-<!-- NB: insert image -->
+<a href="{{site.baseurl | absolute_url}}/images/Societies/lgbtq+.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/lgbtq+.jpg" alt="[LGBTQ+]" width="200px"/></a><br>
+
 
 Darwin's LGBTQ+ community has regular meet-ups where we do an assortment of activities like arts & crafts, but most often just a simple chat with your friends with drinks and snacks provided. The 'Darwin community only' events are intercalated with social swaps with communities from nearby colleges (bar nights, BBQs).
 
@@ -486,7 +491,8 @@ Facebook: fb.com/groups/180145377845
 <details align="justify" style="text-align:justify">
   <summary><b>Open Club for Debate </b></summary>
   
-<!-- NB: insert image -->
+<a href="{{site.baseurl | absolute_url}}/images/Societies/openclubfordebate.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/openclubfordebate.jpg" alt="[Open Club for Debate]" width="200px"/></a><br>
+
 
 The idea is pretty simple: a room, some wine and a topic no one can agree on. The Darwin Open Club for Debate is an informal non-stuffy club, where Darwinians and other students from the University of Cambridge debate about controversial topics in an open setting with minimal intervention from a moderator.
 
