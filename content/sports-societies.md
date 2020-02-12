@@ -10,10 +10,9 @@ permalink: /sports-societies/
 # Sports & Societies
 
 <!-- Heading for "Sports" dropdown" -->
+# [Sports](#sports) & [Societies](#societies)
+- [Sports](#sports)
 
-<details align="justify" style="text-align:justify">
-  <summary><b>Sports</b></summary>
-  
   <br>
 
 <!-- Aerial Arts -->
@@ -227,7 +226,7 @@ Contact: <br>Chiara Toschi, ct452@cam.ac.uk
 </details>
 </details>
 
-### Societies
+[Societies](#societies)
 
 <!-- Bee Keeping -->
 <details align="justify" style="text-align:justify">
@@ -277,7 +276,7 @@ Contact:  <br>Oliver Fleck, orf22@cam.ac.uk<br>Madeleine Emms, mae47@cam.ac.uk
 Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese- fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page (Darwin College Cheese and Wine Society) for updates.
 <br>
 
-Contact: <Robert Pinsler, rp586<br>Christina Courreges, cjfc4
+Contact: Robert Pinsler, rp586<br>Christina Courreges, cjfc4
 </details>
 
 <!-- College Choir -->
@@ -295,7 +294,7 @@ Choir or a casual outdoor sing-along with the folk ensemble. All keen singers
 are welcome!
 <br>
 
-Contact: Felicity Hey, fh333@cam.ac.uk
+Contact: <br>Felicity Hey, fh333@cam.ac.uk
 </details>
 
 
@@ -433,7 +432,7 @@ at dcsa_lgbtq@darwin.cam.ac.uk or join our private facebook group to get notific
 <br>
 
 Contact: <br>Giulia, dcsa_lgbtq@darwin.cam.ac.uk
-Facebook: <br>https://www.facebook.com/groups/793413014059863/
+<br>Facebook: <br>https://www.facebook.com/groups/793413014059863/
 </details>
 
 <!-- Mind Matters Darwin -->
@@ -536,8 +535,8 @@ a bit of a science fanatic, we hope you will find enjoyment in our events, from
 science pub quizzes, lively debates to movie nights and much more... Nonscience students also welcome!
 
 To keep up to date with upcoming events, please use any of the following:
-Facebook: <br>fb.com/darscisoc/
-Mailing list: <br>mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/dcss-members
+<br>Facebook: <br>fb.com/darscisoc/
+<br>Mailing list: <br>mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/dcss-members
 <br>
 
 </details>
