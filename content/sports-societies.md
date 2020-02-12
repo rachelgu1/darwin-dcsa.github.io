@@ -4,17 +4,17 @@ permalink: /sports-societies/
 
 **TODO how to show the list with president/treasurer? -> link to excel sheet?**
 **TODO get a list from the Treasurer with ALL registered societies in a given year**
+<!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
+<!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 
 # Sports & Societies
 
-# [Sports](#sports) & [Societies](#societies)
-- [Sports](#sports)
+<!-- Heading for "Sports" dropdown" -->
 
-### Sports
 <details align="justify" style="text-align:justify">
   <summary><b>Sports</b></summary>
-<!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
-<!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
+  
+  <br>
 
 <!-- Aerial Arts -->
 <details align="justify" style="text-align:justify">
