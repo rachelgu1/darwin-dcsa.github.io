@@ -250,6 +250,12 @@ Contact: Chiara Toschi, ct452@cam.ac.uk
 Facebook: FACEBOOKLINK TODO
 </details>
 
+<!-- Bee Keeping -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Bee Keeping</b></summary>
+
+Contact: Jenaid Rees (jr732)
+</details>
 
 <!-- Board Game Society -->
 <details align="justify" style="text-align:justify">
@@ -540,28 +546,6 @@ Facebook: fb.com/darscisoc/
 </details>
 
 
-<!-- Club name -->
-<details align="justify" style="text-align:justify">
-  <summary><b>CLUB NAME </b></summary>
-  
-<!-- NB: insert image -->
-
-INSERT TEXT
-<br>
-
-Contact: CONTACT
-Facebook: FACEBOOKLINK
-</details>
-
-
-
-<!-- Bee Keeping -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Bee Keeping</b></summary>
-
-Contact: Jenaid Rees (jr732)
-
-</details>
 
 
 
