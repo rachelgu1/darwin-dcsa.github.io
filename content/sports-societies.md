@@ -10,10 +10,11 @@ permalink: /sports-societies/
 <!-- Heading for "Sports" dropdown" -->
 # [Sports](#sports) & [Societies](#societies)
 - [Sports](#sports)
+- [Societies](#societies)
 
   <br>
 ### Sports
-
+<br>
 <!-- Aerial Arts -->
 <details align="justify" style="text-align:justify">
   <summary><b>Aerial Arts</b></summary>
@@ -224,9 +225,9 @@ STRONG classes combine a killer bodyweight bootcamp workout with party vibes and
 Contact: <br>Chiara Toschi, ct452@cam.ac.uk
 </details>
 </details>
-
+<br>
 ### Societies
-
+<br>
 <!-- Bee Keeping -->
 <details align="justify" style="text-align:justify">
   <summary><b>Bee Keeping</b></summary>
