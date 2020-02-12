@@ -7,13 +7,12 @@ permalink: /sports-societies/
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 
-# Sports & Societies
-
 <!-- Heading for "Sports" dropdown" -->
 # [Sports](#sports) & [Societies](#societies)
 - [Sports](#sports)
 
   <br>
+### Sports
 
 <!-- Aerial Arts -->
 <details align="justify" style="text-align:justify">
