@@ -7,6 +7,11 @@ permalink: /sports-societies/
 
 # Sports & Societies
 
+# [Sports](#sports) & [Societies](#societies)
+- [Sports](#sports)
+
+### Sports
+
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 
@@ -237,6 +242,9 @@ STRONG classes combine a killer bodyweight bootcamp workout with party vibes and
 
 Contact: Chiara Toschi, ct452@cam.ac.uk
 </details>
+
+
+### Societies
 
 <!-- Bee Keeping -->
 <details align="justify" style="text-align:justify">
