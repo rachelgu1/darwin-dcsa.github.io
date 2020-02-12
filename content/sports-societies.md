@@ -226,7 +226,7 @@ Contact: <br>Chiara Toschi, ct452@cam.ac.uk
 </details>
 </details>
 <br>
-## Societies
+### Societies
 <br>
 <!-- Bee Keeping -->
 <details align="justify" style="text-align:justify">
