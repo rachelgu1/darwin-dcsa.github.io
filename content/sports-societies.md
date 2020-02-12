@@ -216,12 +216,12 @@ Facebook: fb.com/groups/DCRC2018/
 <!-- NB: insert image -->
 
 Darwin does Yoga! Every Wednesday from 6-7pm in the common room we offer Iyengar yoga classes for all levels with one of Cambridge's most soughtafter teachers, Shaili Shafai. During term, we also offer a second class on Saturday afternoon at 2:30-3:30pm. All equipment is included. We also organise workshops and intensives throughout the year. Join the "Darwin College Yoga" mailing list or Facebook group for more information.
-Fee: Darwin members £1
+<b>Fee:</b> Darwin members £1
      Non-Darwinians £6
 <br>
 
 Contact: Cristina Jauset, cj389@cam.ac.uk & Lotti, ct518@cam.ac.uk
-Facebook: https://www.facebook.com/groups/darwincollegeyoga/
+Facebook: <br>https://www.facebook.com/groups/darwincollegeyoga/
 </details>
 
 
