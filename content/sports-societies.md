@@ -134,8 +134,6 @@ Contact: Ben Geytenbeek, bg364@cam.ac.uk
 Facebook: FACEBOOKLINK TODO
 </details>
 
-
-<-- TODO Change to "Football (Men's)" and "Football (Women's)"? -->
 <!-- Men's Football -->
 <details align="justify" style="text-align:justify">
   <summary><b>Men's Football </b></summary>
@@ -216,7 +214,7 @@ Facebook: fb.com/groups/DCRC2018/
 </details
 
 
-<-- NB: Tennis not included this year -->
+<!-- NB: Tennis not included this year -->
 
 
 <!-- Yoga -->
@@ -304,7 +302,7 @@ Contact: Felicity Hey, fh333@cam.ac.uk
 
 <!-- Cuban  Salse -->
 <details align="justify" style="text-align:justify">
-  <summary><b>CLUB NAME </b></summary>
+  <summary><b>Cuban Salsa </b></summary>
   
 <!-- NB: insert image -->
 
