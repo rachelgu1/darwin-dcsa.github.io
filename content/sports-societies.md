@@ -397,8 +397,151 @@ Interested? Get in touch with the DCSA Environmental & Ethical Affairs officer,
 Maddie Emms: dcsa_green@dar.cam.ac.uk
 <br>
 
-Contact: CONTACT
-Facebook: FACEBOOKLINK
+Contact: Maddie Emms: dcsa_green@dar.cam.ac.uk
+</details>
+
+<!-- Gardening Society -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Gardening Society</b></summary>
+  
+<!-- NB: insert image -->
+
+DarGar is the Darwin College student vegetable garden. This little green oasis
+is cultivated by Darwin college members, usually meeting every Sunday at 4pm. Whether you're a seasoned gardener or a complete beginner, you're welcome to join us in cultivating flowers, vegetables, herbs, and fruit!
+
+But DarGar is not just about growing - it's about eating too! In the summer months, you'll be able to pick your favourites or try new fruit / veg. In October we press the apples from the Darwin trees to make apple juice and cider. Over the winter we still meet up, often to make delicious dishes from food bought at the local farmers' market.
+
+If you're interested in getting involved then head along to our facebook page: fb.com/groups/433280126714069/
+<br>
+
+Facebook: fb.com/groups/433280126714069/
+</details>
+
+<!-- LGBTQ+ -->
+<details align="justify" style="text-align:justify">
+  <summary><b>LGBTQ+</b></summary>
+  
+<!-- NB: insert image -->
+
+Darwin's LGBTQ+ community has regular meet-ups where we do an assortment of activities like arts & crafts, but most often just a simple chat with your friends with drinks and snacks provided. The 'Darwin community only' events are intercalated with social swaps with communities from nearby colleges (bar nights, BBQs).
+
+February is Cambridge's LGBTQ+ history month, with plenty of talks and events (like formal halls, bar crawls and club nights) organised by the Cambridge University Students' Union (join their mailing list on https://lists.cam.ac.uk/
+mailman/listinfo/cusu-lgbt-listings) or the communities from various colleges.
+
+That may seem like a while away, but do not fear, there's plenty of universitywide LGBTQ+ events during Freshers' week, including our very own LGBTQ+ Welcome Event on Saturday, 5 October!
+
+For more information, get in touch with the DCSA's LGBTQ+ Officer, Giulia,
+at dcsa_lgbtq@darwin.cam.ac.uk or join our private facebook group to get notifications about the events: https://www.facebook.com/groups/793413014059863/
+<br>
+
+Contact: Giulia, dcsa_lgbtq@darwin.cam.ac.uk
+Facebook: https://www.facebook.com/groups/793413014059863/
+</details>
+
+<!-- Mind Matters Darwin -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Mind Matters Darwin </b></summary>
+  
+<!-- NB: insert image -->
+
+Mind Matters Darwin wants to raise awareness around mental health, end the stigma and promote wellbeing. We organize recreational activities fostering connections and wellbeing, like movie screenings broadly related to mental health, get-togethers, and courses. We offer a free-of-charge Meditation and Positive Psychology course (in collaboration with Inner Space Cambridge), in order to improve resilience and alleviate psychological sufferance. We also organize a Mindfulness in Nature course with Claire Thompson, usually in the fall or in the spring, to connect with nature and enjoy the beauty of the Darwin Gardens and meditation practices. We run a Relationship Anarchy Support
+Circle once a month to provide a safe space to talk about alternative forms of
+relationships and ask for support.
+
+We want Darwinians to feel safe and part of a community: it's time to consider the students' mental health and wellbeing as a priority. We want to improve
+communication and provide information about the many available resources in
+Cambridge for mental health support: everyone who is in need should feel free
+to ask for help and receive the necessary support.
+
+We all have a mental health to take care of! Darwinians care about mental health!
+<br>
+
+Contact: Giulia Barsuola, gb560@cam.ac.uk
+</details>
+
+<!-- Music Society -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Music Society </b></summary>
+  
+<!-- NB: insert image -->
+
+The Darwin College Music Society (DCMS) is here to help make your college life
+musical. We host events throughout the year and provide facilities and support for music making and performance.
+
+Every Wednesday we host casual Jam Sessions in the common room. Please come along, everyone is welcome, bring your instruments if you have them, or have a bang on one of our bongos – no talent required or expected! We also host Open Mics in DarBar throughout the year to give you a chance to share your talent in front of a crowd of friendly faces. To help you make music we can also
+give you access to the treasure trove that is the Darwin College Bar Cellar. In there we have a drum kit, PA system, amps, music stands - all sorts of goodies that we want you to make use of, and if something’s not there, we have money to buy stuff too! The college also has the common room for use as a rehearsal space, and four pianos: two uprights, one in the Common Room and one in the Old Library along with an electronic piano, and a grand piano in the Dining Hall. For more information about accessing the College instruments, see the music page on the College website: https://www.darwin.cam.ac.uk/music 
+
+The university has a thriving gig scene and we want Darwin musicians to be a part of it. Our veteran house-band, the Galapagogos, is often found at Jams, Open Mics and BOPs, and can offer wise(ish) words on getting onto the BOP and May Ball circuit. 
+
+The society has the Darwin College Music Society Facebook page for discussion and events (below) and we also have an email list with updates nonFacebookers. Any questions whatsoever just contact Will Tebbutt at wct23@cam.ac.uk or Hugh Ramsden hor20@cam.ac.uk, or just grab us at one of the Jam Sessions – if you want to do something musical here, we want you to too!
+<br>
+
+Contact: Will Tebbutt at wct23@cam.ac.uk or Hugh Ramsden hor20@cam.ac.uk
+Facebook: fb.com/groups/180145377845
+</details>
+
+
+<!-- Open Club for Debate -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Open Club for Debate </b></summary>
+  
+<!-- NB: insert image -->
+
+The idea is pretty simple: a room, some wine and a topic no one can agree on. The Darwin Open Club for Debate is an informal non-stuffy club, where Darwinians and other students from the University of Cambridge debate about controversial topics in an open setting with minimal intervention from a moderator.
+
+We usually meet once a week, and try to schedule debates relevant to latest news. Join our Facebook group at fb.com/groups/146008729360024 to keep up with our events, everybody is welcome to attend!
+<br>
+
+Facebook: fb.com/groups/146008729360024
+</details>
+
+
+<!-- Photo Society -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Photo Society </b></summary>
+  
+<!-- NB: insert image -->
+
+The Darwin Photo Society exist to promote digital and film photography. We have an active programme of visiting speakers, internal and external competitions and members’ nights. Example of activities includes themed photographic outings, talks and workshops, LinkedIn photo sessions, dark room training, setting up photo booths for Darwin students and many more.
+<br>
+
+Contact: Contacts: Marta Wylot, mw699@cam.ac.uk & Giulia Barsuola, gb560@cam.ac.uk
+</details>
+
+
+<!-- Punt Club -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Punt Club </b></summary>
+  
+<!-- NB: insert image -->
+
+Punting has a long tradition in Cambridge and is one of the highlights of what the town has to offer. As a member of the punt club, you have unlimited access to all of the club‘s punts, kayaks, and the canoe for a year at roughly the price of a single trip with one of the commercial punting companies. In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the annual punt race, the outings to the Trinity and St John’s May Ball fireworks at night, and to see King‘s choir‘s singing on the river. You can ask
+at the porters‘ lodge to join. 
+
+If you have any other questions, please contact James Macdonald, the Admiral
+of the Punts, at dcsa_punts@darwin.cam.ac.uk
+<br>
+
+Contact: James Macdonald, dcsa_punts@darwin.cam.ac.uk
+</details>
+
+
+<!-- Science Society -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Science Society </b></summary>
+  
+<!-- NB: insert image -->
+
+Interested in Science? The Darwin College Science Society (DCSS) aims to connect scientists at Darwin, both through general social events and research-related activities. Whether you live in the lab or just fancy yourself as
+a bit of a science fanatic, we hope you will find enjoyment in our events, from
+science pub quizzes, lively debates to movie nights and much more... Nonscience students also welcome!
+
+To keep up to date with upcoming events, please use any of the following:
+Facebook: fb.com/darscisoc/
+Mailing list: mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/dcss-members
+<br>
+
+Facebook: fb.com/darscisoc/
 </details>
 
 
@@ -414,8 +557,6 @@ INSERT TEXT
 Contact: CONTACT
 Facebook: FACEBOOKLINK
 </details>
-
-
 
 
 
