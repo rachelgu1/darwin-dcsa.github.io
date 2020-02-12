@@ -202,8 +202,9 @@ Contact: <br>Mauro Velasco Castro, mv459@cam.ac.uk<br>Oana Kubinyecz, onk23@cam.
   
 <a href="{{site.baseurl | absolute_url}}/images/Societies/yoga.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/yoga.jpg" alt="[Yoga]" width="200px"/></a><br>
 Darwin does Yoga! Every Wednesday from 6-7pm in the common room we offer Iyengar yoga classes for all levels with one of Cambridge's most soughtafter teachers, Shaili Shafai. During term, we also offer a second class on Saturday afternoon at 2:30-3:30pm. All equipment is included. We also organise workshops and intensives throughout the year. Join the "Darwin College Yoga" mailing list or Facebook group for more information.
-<b>Fee:</b> Darwin members £1
-     Non-Darwinians £6
+<b>Fee:</b>
+<br>Darwin members £1
+<br>Non-Darwinians £6
 <br>
 
 Contact:<br>Cristina Jauset, cj389@cam.ac.uk<br>Lotti, ct518@cam.ac.uk
