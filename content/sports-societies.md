@@ -202,7 +202,7 @@ Contact: <br>Mauro Velasco Castro, mv459@cam.ac.uk<br>Oana Kubinyecz, onk23@cam.
   
 <a href="{{site.baseurl | absolute_url}}/images/Societies/yoga.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/yoga.jpg" alt="[Yoga]" width="200px"/></a><br>
 Darwin does Yoga! Every Wednesday from 6-7pm in the common room we offer Iyengar yoga classes for all levels with one of Cambridge's most soughtafter teachers, Shaili Shafai. During term, we also offer a second class on Saturday afternoon at 2:30-3:30pm. All equipment is included. We also organise workshops and intensives throughout the year. Join the "Darwin College Yoga" mailing list or Facebook group for more information.
-<b>Fee:</b>
+<br><b>Fee:</b>
 <br>Darwin members £1
 <br>Non-Darwinians £6
 <br><br>
@@ -310,7 +310,7 @@ Cuban Salsa society. We love dancing and socialising, so if you feel the same co
 well as becoming competent dancers. So, if you want to meet people or show
 off your inner dancer come find us in the Darwin Dining Hall for a ~2h session. If you are one of those people thinking that you just can’t dance, come give it a go and we’ll make sure to change that! We look forward to dancing and chilling at DarBar with you every Monday 20:15 - 22:15. Be there or you’ll miss all the fun!
 
-<b>Fee</b>:
+<br><b>Fee</b>:
 <br>Darwin members £1
 <br>Everyone else: £3
      
