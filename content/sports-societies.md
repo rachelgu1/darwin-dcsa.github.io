@@ -19,6 +19,7 @@ Darwin College Aerial Arts is aiming to establish a variety of  increasingly pop
 <br>
 Aerial Arts are a great way to improve strength, flexibility and overall fitness and the club is open to all students regardless of their age and experience-level. Whether you have previous experience or are just curious about it - please drop by at our sessions and give it a go! You can find out more by joining our Facebook group “Darwin College Aerial Arts” for regular updates.
 <br>
+
 Contacts: Ruby Coates (rc715) & Daniel Buhl (dkb34)
 Facebook: https://www.facebook.com/groups/DCAerialArts/
 </details>
@@ -31,8 +32,8 @@ Facebook: https://www.facebook.com/groups/DCAerialArts/
 <a href="{{site.baseurl | absolute_url}}/images/Societies/badminton.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/badminton.jpg" alt="[Badminton Club]" width="200px"/></a><br>
 
 Darwin College Badminton Club welcomes players of all standards, from complete beginners to experienced. We hold sessions on Sunday evenings from 5 pm to 7 pm at Leys Leisure on Trumpington Road. These are completely free, there are no membership fees, and spare shuttles and racquets are provided. We are a friendly and active bunch so come say hi at the freshers’ clubs and societies fair, join our Facebook group (darwin college badminton club), and feel free to just drop by at one of the Sunday sessions.
-
 <br>
+
 Contact: Lilong XU (lx238)
 </details>
 
@@ -103,7 +104,7 @@ There will be opportunities to participate in fun sprint races against the other
 Rowing is teamwork at its best. We cultivate strong tan lanes in the summer, deck ourselves out with matching kit, laugh together, sweat together, experience an exquisite kind of pain together. You will come away with some of the closest Darwin friendships and bonds that will be everlasting long after you leave Cambridge. Come and chat to us to find out more at the Fresher’s Sports and Societies Fair, and even get started and have a go on the rowing machine (aka “erg”)!
 <br>
 
-Contact: Alicia Wilcox, aw644@cam.ac.uk & Vivian Lechner, vdl20@cam.
+Contact: Alicia Wilcox, aw644@cam.ac.uk & Vivian Lechner, vdl20@cam.ac.uk
 Facebook: fb.com/DarwinCollegeBoatClub/
 </details>
 
@@ -116,8 +117,7 @@ Facebook: fb.com/DarwinCollegeBoatClub/
 We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around, we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over WhatsApp or over a pint at Darbar, or check out what we are up to on Facebook ('Darwin Climbing Club'). We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor).
 <br>
 
-Contact: Zoë Audra, za274@cam.ac.uk & Barney Salsby, bs640@cam.ac.uk 
-Facebook: TODO
+Contact: Zoë Audra, za274@cam.ac.uk & Barney Salsby, bs640@cam.ac.uk
 </details>
 
 
@@ -131,7 +131,6 @@ Darwin College Cricket Club is a friendly club with a record of success, as we a
 <br>
 
 Contact: Ben Geytenbeek, bg364@cam.ac.uk
-Facebook: FACEBOOKLINK TODO
 </details>
 
 <!-- Men's Football -->
@@ -146,9 +145,7 @@ We welcome everyone regardless of playing ability; whether you are a seasoned ve
 <br>
 
 Contact: Stuart Macpherson, sm2275@cam.ac.uk & Barney Salsby, bs640@cam.ac.uk
-Facebook: FACEBOOKLINK TODO
 </details>
-
 
 
 <!-- Women's Football -->
@@ -162,11 +159,7 @@ We welcome everyone regardless if you have played before and you are missing the
 <br>
 
 Contact: Contact: Anja Gruszczyk, avg31@cam.ac.uk
-Facebook: FACEBOOKLINK TODO
 </details>
-
-
-
 
 
 <!-- Lawn Games Society-->
@@ -180,7 +173,6 @@ available to Darwin students to borrow and play. We also organise teams for croq
 <br>
 
 Contact: Nicolas Cimerman, npc36@cam.ac.uk
-Facebook: FACEBOOKLINK
 </details>
 
 
@@ -195,7 +187,6 @@ Calling current and former rugby players, rugby enthusiasts and curious sportspe
 <br>
 
 Contact: Yvan Bollet, yorb2@cam.ac.uk
-Facebook: FACEBOOKLINK
 </details>
 
 
@@ -229,10 +220,8 @@ Fee: Darwin members £1
 <br>
 
 Contact: Cristina Jauset, cj389@cam.ac.uk & Lotti, ct518@cam.ac.uk
-Facebook: FACEBOOKLINK TODO
+Facebook: https://www.facebook.com/groups/darwincollegeyoga/
 </details>
-
-
 
 
 <!-- Zumba -->
@@ -247,7 +236,6 @@ STRONG classes combine a killer bodyweight bootcamp workout with party vibes and
 <br>
 
 Contact: Chiara Toschi, ct452@cam.ac.uk
-Facebook: FACEBOOKLINK TODO
 </details>
 
 <!-- Bee Keeping -->
@@ -306,7 +294,7 @@ Contact: Felicity Hey, fh333@cam.ac.uk
 </details>
 
 
-<!-- Cuban  Salse -->
+<!-- Cuban  Salsa -->
 <details align="justify" style="text-align:justify">
   <summary><b>Cuban Salsa </b></summary>
   
@@ -317,8 +305,9 @@ Cuban Salsa society. We love dancing and socialising, so if you feel the same co
 well as becoming competent dancers. So, if you want to meet people or show
 off your inner dancer come find us in the Darwin Dining Hall for a ~2h session. If you are one of those people thinking that you just can’t dance, come give it a go and we’ll make sure to change that! We look forward to dancing and chilling at DarBar with you every Monday 20:15 - 22:15. Be there or you’ll miss all the fun!
 
-Fee: Darwin members £1
-     Everyone else: £3
+Fee: 
+Darwin members £1
+Everyone else: £3
      
 Lots of Salsa Love,
 Your Darwin Cuban Salsa Society
@@ -379,7 +368,6 @@ Manousakas, dm754@cam.ac.uk or Giulia Barsuola, gb560@cam.ac.uk
 <br>
 
 Contact: Dion Manousakas, dm754@cam.ac.uk or Giulia Barsuola, gb560@cam.ac.uk
-Facebook: FACEBOOKLINK TODO
 </details>
 
 <!-- Green Committee -->
