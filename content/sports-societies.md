@@ -62,7 +62,7 @@ Facebook: https://www.facebook.com/groups/darwinbb
 <details align="justify" style="text-align:justify">
   <summary><b>Basketball Club (Women) </b></summary>
   
-  <!-- NB: insert image -->
+<a href="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png" alt="[Basketball Club (women)]" width="200px"/></a><br>
 
 The Darwin Women’s Basketball Club is the college's most successful sports team having won the college league every year for the last 5 years and most years since its formation in May 2000. As well as the college league, the team ompetes in, and usually wins, the university-wide knock out 'Cuppers' tournament in Lent term. We are fortunate enough to have a dedicated basketball coach who runs our training from early October so we are ready for competitive matches throughout the year. Over the summer we continue to practice with friendly games every week, often joined by members of the university 1st and 2nd (Blues and Panthers) teams! The club is incredibly friendly and welcoming and is known for nurturing enthusiastic beginners. So if you want to come and play a sport that is both physically challenging and mentally stimulating please do join our training
 sessions in October!
@@ -118,7 +118,8 @@ Facebook: fb.com/DarwinCollegeBoatClub/
 <details align="justify" style="text-align:justify">
   <summary><b>Climbing </b></summary>
   
-<!-- NB: insert image -->
+<a href="{{site.baseurl | absolute_url}}/images/Societies/Climbing.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg" alt="[climbing]" width="200px"/></a><br>
+<a href="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]" width="200px"/></a><br>
 
 We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around, we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over WhatsApp or over a pint at Darbar, or check out what we are up to on Facebook ('Darwin Climbing Club'). We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor).
 <br>
@@ -277,7 +278,7 @@ Contact:  Oliver Fleck, orf22@cam.ac.uk & Madeleine Emms, mae47@cam.ac.uk
 <details align="justify" style="text-align:justify">
   <summary><b>Cheese and Wine Society </b></summary>
   
-<!-- NB: insert image -->
+  <a href="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.png" alt="[Cheese and Wine]" width="200px"/></a><br>
 
 Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese- fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page (Darwin College Cheese and Wine Society) for updates.
 <br>
