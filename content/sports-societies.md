@@ -13,7 +13,7 @@ permalink: /sports-societies/
 - [Societies](#societies)
 
 <br>
-## Sports
+### Sports
 <br>
 <!-- Aerial Arts -->
 <details align="justify" style="text-align:justify">
@@ -224,9 +224,9 @@ STRONG classes combine a killer bodyweight bootcamp workout with party vibes and
 
 Contact: <br>Chiara Toschi, ct452@cam.ac.uk
 </details>
-</details>
+
 <br>
-## Societies
+### Societies
 <br>
 <!-- Bee Keeping -->
 <details align="justify" style="text-align:justify">
@@ -271,7 +271,7 @@ Contact:  <br>Oliver Fleck, orf22@cam.ac.uk<br>Madeleine Emms, mae47@cam.ac.uk
 <details align="justify" style="text-align:justify">
   <summary><b>Cheese and Wine Society </b></summary>
   
-  <a href="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.png" alt="[Cheese and Wine]" width="200px"/></a><br>
+  <a href="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg" alt="[Cheese and Wine]" width="200px"/></a><br>
 
 Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese- fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page (Darwin College Cheese and Wine Society) for updates.
 <br>
@@ -417,7 +417,7 @@ If you're interested in getting involved then head along to our facebook page: <
 <details align="justify" style="text-align:justify">
   <summary><b>LGBTQ+</b></summary>
   
-<a href="{{site.baseurl | absolute_url}}/images/Societies/lgbtq+.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/lgbtq+.jpg" alt="[LGBTQ+]" width="200px"/></a><br>
+<a href="{{site.baseurl | absolute_url}}/images/Societies/lgbtq.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/lgbtq.jpg" alt="[LGBTQ+]" width="200px"/></a><br>
 
 
 Darwin's LGBTQ+ community has regular meet-ups where we do an assortment of activities like arts & crafts, but most often just a simple chat with your friends with drinks and snacks provided. The 'Darwin community only' events are intercalated with social swaps with communities from nearby colleges (bar nights, BBQs).
