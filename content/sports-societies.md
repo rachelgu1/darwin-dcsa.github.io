@@ -108,23 +108,6 @@ Facebook: fb.com/DarwinCollegeBoatClub/
 </details>
 
 
-<!-- Board Game Society -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Board Game Society </b></summary>
-  
-<!-- NB: insert image -->
-
-Hello Darwinians! Do you enjoy games of skill, deception, luck, or dexterity?
-Come along to our Thursday board game nights! We at the DCBGS have a range of
-games in college for you to play at any time, and often supplement evenings
-with games from our own collections. Find us at the Sports & Societies Fair for
-more information, or join us on Thursday nights at 8pm in the bar!
-<br>
-
-Contact:  Oliver Fleck, orf22@cam.ac.uk & Madeleine Emms, mae47@cam.ac.uk
-</details>
-
-
 <!-- Cheese & Wine Society-->
 <details align="justify" style="text-align:justify">
   <summary><b>Cheese and Wine Society </b></summary>
@@ -285,6 +268,36 @@ Contact: Chiara Toschi, ct452@cam.ac.uk
 Facebook: FACEBOOKLINK TODO
 </details>
 
+
+<!-- Board Game Society -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Board Game Society </b></summary>
+  
+<!-- NB: insert image -->
+
+Hello Darwinians! Do you enjoy games of skill, deception, luck, or dexterity?
+Come along to our Thursday board game nights! We at the DCBGS have a range of
+games in college for you to play at any time, and often supplement evenings
+with games from our own collections. Find us at the Sports & Societies Fair for
+more information, or join us on Thursday nights at 8pm in the bar!
+<br>
+
+Contact:  Oliver Fleck, orf22@cam.ac.uk & Madeleine Emms, mae47@cam.ac.uk
+</details>
+
+
+<!-- Cheese & Wine Society-->
+<details align="justify" style="text-align:justify">
+  <summary><b>Cheese and Wine Society </b></summary>
+  
+<!-- NB: insert image -->
+
+Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese- fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page (Darwin College Cheese and Wine Society) for updates.
+<br>
+
+Contact: CONTACT TODO
+Facebook: FACEBOOKLINK TODO
+</details>
 
 <!-- College Choir -->
 <details align="justify" style="text-align:justify">
