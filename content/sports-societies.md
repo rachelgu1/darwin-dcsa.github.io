@@ -202,10 +202,11 @@ you are an experienced runner or you want to start now, we will do our best to a
 
 Contact: Mauro Velasco Castro, mv459@cam.ac.uk & Oana Kubinyecz, onk23@cam.ac.uk
 Facebook: fb.com/groups/DCRC2018/
-</details
+</details>
 
 
 <!-- NB: Tennis not included this year -->
+
 
 
 <!-- Yoga -->
