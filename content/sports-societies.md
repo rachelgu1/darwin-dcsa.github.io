@@ -381,6 +381,27 @@ Contact: Dion Manousakas, dm754@cam.ac.uk or Giulia Barsuola, gb560@cam.ac.uk
 Facebook: FACEBOOKLINK TODO
 </details>
 
+<!-- Green Committee -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Green Committee </b></summary>
+  
+<!-- NB: insert image -->
+
+Welcome to the DCSA Green Committee - let's make Darwin a greener College, with an ambitious agenda towards sustainable practices!
+
+Our group gets together regularly to organise events which promote environmental and ethical sustainability in College. We also support and push
+College authorities as they incorporate sustainability. Thanks to the Green Committee, food waste bins are now available in every kitchen, and we've
+installed several water refill stations around college. Join us and contribute
+to one of our current initiatives, or bring in fresh ideas. Everyone's welcome!
+Interested? Get in touch with the DCSA Environmental & Ethical Affairs officer,
+Maddie Emms: dcsa_green@dar.cam.ac.uk
+<br>
+
+Contact: CONTACT
+Facebook: FACEBOOKLINK
+</details>
+
+
 <!-- Club name -->
 <details align="justify" style="text-align:justify">
   <summary><b>CLUB NAME </b></summary>
