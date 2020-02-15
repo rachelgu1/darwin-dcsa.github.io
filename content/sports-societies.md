@@ -2,19 +2,17 @@
 permalink: /sports-societies/
 ---
 
-**TODO how to show the list with president/treasurer? -> link to excel sheet?**
-**TODO get a list from the Treasurer with ALL registered societies in a given year**
+# TODO end of page -> get urls to work
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 
 <!-- Heading for "Sports" dropdown" -->
 # [Sports](#sports) & [Societies](#societies)
-- [Sports](#sports)
-- [Societies](#societies)
+<!-- - [Sports](#sports) -->
+<!-- - [Societies](#societies) -->
 
 <br>
 ### Sports
-<br>
 <!-- Aerial Arts -->
 <details align="justify" style="text-align:justify">
   <summary><b>Aerial Arts</b></summary>
@@ -25,8 +23,12 @@ Darwin College Aerial Arts is aiming to establish a variety of  increasingly pop
 Aerial Arts are a great way to improve strength, flexibility and overall fitness and the club is open to all students regardless of their age and experience-level. Whether you have previous experience or are just curious about it - please drop by at our sessions and give it a go! You can find out more by joining our Facebook group “Darwin College Aerial Arts” for regular updates.
 <br><br>
 
-Contacts: <br>Ruby Coates (rc715) <br>Daniel Buhl (dkb34)<br>Facebook:<br>https://www.facebook.com/groups/DCAerialArts/
-<br></details>
+Contact: <br>
+Ruby Coates (rc715) <br>
+Daniel Buhl (dkb34)<br>
+Facebook:<br>
+https://www.facebook.com/groups/DCAerialArts/ <br>
+</details>
 
 
 <!-- Badminton Club -->
@@ -57,7 +59,7 @@ Contact: <br>Aleix Lafita (al859)<br>Facebook:<br>https://www.facebook.com/group
 <!-- Basketball Club (Women) -->
 <details align="justify" style="text-align:justify">
   <summary><b>Basketball Club (Women) </b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png" alt="[Basketball Club (women)]" width="200px"/></a><br>
 
 The Darwin Women’s Basketball Club is the college's most successful sports team having won the college league every year for the last 5 years and most years since its formation in May 2000. As well as the college league, the team ompetes in, and usually wins, the university-wide knock out 'Cuppers' tournament in Lent term. We are fortunate enough to have a dedicated basketball coach who runs our training from early October so we are ready for competitive matches throughout the year. Over the summer we continue to practice with friendly games every week, often joined by members of the university 1st and 2nd (Blues and Panthers) teams! The club is incredibly friendly and welcoming and is known for nurturing enthusiastic beginners. So if you want to come and play a sport that is both physically challenging and mentally stimulating please do join our training
@@ -71,7 +73,7 @@ Contact: <br>Daniel Watts d@nielwatts.com<br>Facebook:<br>fb.com/groups/darwinbb
 <!-- Boat Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Boat Club </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Darwin College Boat Club (DCBC) is the largest society in Darwin. We are one of the most successful graduate boat clubs in Cambridge but above all, highly social and a very welcoming family. Rowing is hard to avoid in a place like Cambridge, it is a rich historical tradition and a quintessential part of the Cambridge experience. At DCBC we believe everyone should give it a go. <br><br>
@@ -89,41 +91,46 @@ There will be opportunities to participate in fun sprint races against the other
 Rowing is teamwork at its best. We cultivate strong tan lanes in the summer, deck ourselves out with matching kit, laugh together, sweat together, experience an exquisite kind of pain together. You will come away with some of the closest Darwin friendships and bonds that will be everlasting long after you leave Cambridge. Come and chat to us to find out more at the Fresher’s Sports and Societies Fair, and even get started and have a go on the rowing machine (aka “erg”)!
 <br><br>
 
-Contact: <br>Alicia Wilcox, aw644@cam.ac.uk<br>Vivian Lechner, vdl20@cam.ac.uk<br>Facebook:<br>fb.com/DarwinCollegeBoatClub/
-<br></details>
+Contact: <br>
+Alicia Wilcox, aw644<br>
+Vivian Lechner, vdl20<br>
+Facebook:<br>
+fb.com/DarwinCollegeBoatClub/<br>
+</details>
 
 <!-- Climbing -->
 <details align="justify" style="text-align:justify">
   <summary><b>Climbing </b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg" alt="[climbing]" width="200px"/></a><br>
 <a href="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]" width="200px"/></a><br>
 
 We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around, we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over WhatsApp or over a pint at Darbar, or check out what we are up to on Facebook ('Darwin Climbing Club'). We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor).
 <br><br>
 
-Contact: <br>Zoë Audra, za274@cam.ac.uk
-<br>Barney Salsby, bs640@cam.ac.uk
-<br></details>
+Contact: <br>
+Zoë Audra, za274<br>
+Barney Salsby, bs640<br>
+</details>
 
 
 <!-- Cricket Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Cricket Club </b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg" alt="[Cricket]" width="200px"/></a><br>
 
 Darwin College Cricket Club is a friendly club with a record of success, as we are defending champions of the MCR Cricket League, having been runners up the year before. We welcome players of all abilities, from absolute novices to seasoned veterans and of any gender. All kit and equipment is provided, with winter net sessions taking place once a week starting in the new year. Matches are played in the summer months (May-July).
 <br><br>
 
-Contact: 
-<br>Ben Geytenbeek, bg364@cam.ac.uk
-<br></details>
+Contact:<br>
+Ben Geytenbeek, bg364<br>
+</details>
 
 <!-- Football (Men's)-->
 <details align="justify" style="text-align:justify">
   <summary><b>Football (Men's) </b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/footballmen.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/footballmen.png" alt="[Football (men)]" width="200px"/></a><br>
 
 Welcome to Darwin College Men’s FC, your new home of football. The college has one competitive men’s team, playing in the Cambridge University JCR league, and we also enter a team into one of the world’s oldest cup competitions. Last year, the team secured its position in division 3 and we look forward to pushing onwards in the upcoming season.
@@ -131,75 +138,81 @@ Welcome to Darwin College Men’s FC, your new home of football. The college has
 We welcome everyone regardless of playing ability; whether you are a seasoned veteran, an occasional player looking to rekindle your career or a total rookie, Darwin College FC is the place for you! Please sign up at the freshers’ fair and be on the lookout for details of training sessions and matches starting in October.
 <br><br>
 
-Contact: <br>Stuart Macpherson, sm2275@cam.ac.uk<br>Barney Salsby, bs640@cam.ac.uk
-<br></details>
+Contact: <br>
+Stuart Macpherson, sm2275<br>
+Barney Salsby, bs640<br>
+</details>
 
 
 <!-- Football (Women's) -->
 <details align="justify" style="text-align:justify">
   <summary><b>Football (Women's) </b></summary>
-  
+
 <!-- NB: insert image -->
 The Darwin and Wolfson College Women’s Football Team is recruiting new players! Our college has a joint team with Wolfson College to strengthen bonds within the University and offer even more chances to get to know amazing people. Our team plays in the women’s university division against other college teams and participates in a cup tournament as well.
 
-We welcome everyone regardless if you have played before and you are missing the thrill of the game or if you have never touched a football but always wanted to try it - we offer training for everyone and aim for having a relaxed environment. Our main interest is to support strong women and provide a relief from university stress. Please find us at the freshers’ fair for more information. Training sessions and games will start in October. We are excited to meet you! 
+We welcome everyone regardless if you have played before and you are missing the thrill of the game or if you have never touched a football but always wanted to try it - we offer training for everyone and aim for having a relaxed environment. Our main interest is to support strong women and provide a relief from university stress. Please find us at the freshers’ fair for more information. Training sessions and games will start in October. We are excited to meet you!
 <br><br>
 
-Contact: <br>ContactAnja Gruszczyk, avg31@cam.ac.uk
-<br></details>
+Contact: <br>
+Anja Gruszczyk, avg31<br>
+</details>
 
 
 <!-- Lawn Games Society-->
 <details align="justify" style="text-align:justify">
   <summary><b>Lawn Games Society </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Welcome to the Darwin College Lawn Games Society, where we are dedicated to the games which enhance the enjoyment of a warm sun and cold drinks. We currently boast an inventory of croquet, cornhole, ladder golf, quoits, and bocce ball, all of which are
 available to Darwin students to borrow and play. We also organise teams for croquet Cuppers each spring, where we compete against the rest of the colleges in the University. We have consistently performed well, this year making it to the semifinals from a field of nearly 50 teams. Find us at the freshers’ fortnight societies fair for more information.
 <br><br>
 
-Contact: <br>Nicolas Cimerman, npc36@cam.ac.uk
-<br></details>
+Contact: <br>
+Nicolas Cimerman, npc36<br>
+</details>
 
 
 
 <!-- Rugby -->
 <details align="justify" style="text-align:justify">
   <summary><b>Rugby </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Calling current and former rugby players, rugby enthusiasts and curious sportspeople! The mature and graduate college rugby team (the All Greys) is recruiting for next season. Whether you are new to the game or have been playing for years, there is no better time to pick up a pair of rugby boots than during a World Cup! With regular games, socials throughout the year and a strong rugby tradition in the uni, do your Cambridge year right and chase an egg shaped ball with us. No membership fee required. If you are interested, please drop us a message.
 <br><br>
 
-Contact: <br>Yvan Bollet, yorb2@cam.ac.uk
-<br></details>
+Contact: <br>
+Yvan Bollet, yorb2<br>
+</details>
 
 
 
 <!-- Running Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Running Club</b></summary>
-  
+
 <!-- NB: insert image -->
 Darwin College Running Club (DCRC) is the perfect club to join whether you are training for a race, or you just want to go for occasional runs. We meet twice a week (Thursdays 19.30 and Sundays 9.30 am) and go for short (5k) or longer runs (7k -10 k), depending on the day. There are no commitments, just show up whenever you want and can! Whether
 you are an experienced runner or you want to start now, we will do our best to accommodate everyone. Also, people who prefer to run alone but want to join occasionally to discover new running routes in and around Cambridge are definitely welcome! Join the Darwin Runner Evolution!
 <br><br>
 
-Contact: <br>Mauro Velasco Castro, mv459@cam.ac.uk<br>Oana Kubinyecz, onk23@cam.ac.uk
-<br>Facebook:<br>fb.com/groups/DCRC2018/
-<br></details>
+Contact: <br>
+Mauro Velasco Castro, mv459<br>
+Oana Kubinyecz, onk23<br>
+Facebook:<br>
+fb.com/groups/DCRC2018/<br>
+</details>
 
 
 <!-- NB: Tennis not included this year -->
 
-
-
 <!-- Yoga -->
 <details align="justify" style="text-align:justify">
   <summary><b>Yoga </b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/yoga.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/yoga.jpg" alt="[Yoga]" width="200px"/></a><br>
 Darwin does Yoga! Every Wednesday from 6-7pm in the common room we offer Iyengar yoga classes for all levels with one of Cambridge's most soughtafter teachers, Shaili Shafai. During term, we also offer a second class on Saturday afternoon at 2:30-3:30pm. All equipment is included. We also organise workshops and intensives throughout the year. Join the "Darwin College Yoga" mailing list or Facebook group for more information.
 <br><b>Fee:</b>
@@ -207,39 +220,43 @@ Darwin does Yoga! Every Wednesday from 6-7pm in the common room we offer Iyengar
 <br>Non-Darwinians £6
 <br><br>
 
-Contact:<br>Cristina Jauset, cj389@cam.ac.uk<br>Lotti, ct518@cam.ac.uk
-<br>Facebook: <br>https://www.facebook.com/groups/darwincollegeyoga/
-<br></details>
+Contact:<br>
+Cristina Jauset, cj389<br>
+Lotti, ct518<br>
+Facebook: <br>
+https://www.facebook.com/groups/darwincollegeyoga/ <br>
+</details>
 
 
 <!-- Zumba -->
 <details align="justify" style="text-align:justify">
   <summary><b>Zumba </b></summary>
-  
+
 <!-- NB: insert image -->
 
-We run one Zumba class per week at Darwin, rotating every other week between traditional Zumba and STRONG. The former is a fitness program that combines Latin and international music with dance moves. Zumba routines incorporate interval training—alternating fast and slow rhythms—and resistance training. 
+We run one Zumba class per week at Darwin, rotating every other week between traditional Zumba and STRONG. The former is a fitness program that combines Latin and international music with dance moves. Zumba routines incorporate interval training—alternating fast and slow rhythms—and resistance training.
 
 STRONG classes combine a killer bodyweight bootcamp workout with party vibes and pumped-up music. It is a High Intensity Interval Training class using more traditional fitness moves for a more athletic, conditioningstyle workout. You use your own body weight as resistance to achieve muscle definition. The songs match every move, driving the intensity in a challenging progression that provides a total body workout.
 <br><br>
 
-Contact: <br>Chiara Toschi, ct452@cam.ac.uk
-<br></details>
+Contact: <br>
+Chiara Toschi, ct452<br>
+</details>
 
 <br>
 ### Societies
-<br>
 <!-- Bee Keeping -->
 <details align="justify" style="text-align:justify">
   <summary><b>Bee Keeping</b></summary>
 
-<br>Contact: <br>Jenaid Rees (jr732)
-<br></details>
+<br>Contact: <br>
+Jenaid Rees, jr732<br>
+</details>
 
 <!-- Bike Repair Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Bike Repair Club </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Gears looking orange? Brakes failing? Flat tyre? Do you feel like you're taking
@@ -247,14 +264,16 @@ your life into your own hands every time you hit the road on your bike? Sign up
 for the Bike Repair club and get access to all the tools you'll need to keep a bike in working order around Cambridge! We run the occasional masterclass, so no previous experience is necessary. Find us at the Sports & Societies Fair!
 <br>
 
-<br>Contact: <br>Oliver Fleck, orf22@cam.ac.uk<br>Nicolas Cimerman, npc36@cam.ac.uk
-<br></details>
+<br>Contact: <br>
+Oliver Fleck, orf22<br>
+Nicolas Cimerman, npc36<br>
+</details>
 
 
 <!-- Board Game Society -->
 <details align="justify" style="text-align:justify">
   <summary><b>Board Game Society </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Hello Darwinians! Do you enjoy games of skill, deception, luck, or dexterity?
@@ -264,26 +283,29 @@ with games from our own collections. Find us at the Sports & Societies Fair for
 more information, or join us on Thursday nights at 8pm in the bar!
 <br><br>
 
-Contact:  <br>Oliver Fleck, orf22@cam.ac.uk<br>Madeleine Emms, mae47@cam.ac.uk
-<br></details>
+Contact:  <br>
+Oliver Fleck, orf22<br>
+Madeleine Emms, mae47<br>
+</details>
 
 
 <!-- Cheese & Wine Society-->
 <details align="justify" style="text-align:justify">
   <summary><b>Cheese and Wine Society </b></summary>
-  
+
   <a href="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg" alt="[Cheese and Wine]" width="200px"/></a><br>
 
 Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese- fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page (Darwin College Cheese and Wine Society) for updates.
 <br><br>
 
-Contact: Robert Pinsler, rp586<br>Christina Courreges, cjfc4
-<br></details>
+Contact: Robert Pinsler, rp586<br>
+Christina Courreges, cjfc4<br>
+</details>
 
 <!-- College Choir -->
 <details align="justify" style="text-align:justify">
   <summary><b>College Choir </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Darwin College Choir is a group of enthusiastic singers specialising in
@@ -295,14 +317,15 @@ Choir or a casual outdoor sing-along with the folk ensemble. All keen singers
 are welcome!
 <br><br>
 
-Contact: <br>Felicity Hey, fh333@cam.ac.uk
-<br></details>
+Contact: <br>
+Felicity Hey, fh333<br>
+</details>
 
 
 <!-- Cuban  Salsa -->
 <details align="justify" style="text-align:justify">
   <summary><b>Cuban Salsa </b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/cubansalsa.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cubansalsa.jpg" alt="[Cuban Salsa]" width="200px"/></a><br>
 
 Hola amigos! We are excited to run again the most fun society in Darwin, the
@@ -313,32 +336,38 @@ off your inner dancer come find us in the Darwin Dining Hall for a ~2h session. 
 <br><b>Fee</b>:
 <br>Darwin members £1
 <br>Everyone else: £3
-     
+
 Lots of Salsa Love,
 Your Darwin Cuban Salsa Society
 <br><br>
 
-Contact: <br>Eirini Vamva, the Outgoing President, at ev306@cam.ac.uk or any members of our amazing new committee:<br>Miriam Lisci, ml793@cam.ac.uk;<br>Jyothi Jayaraman, jj329@cam.ac.uk;<br>Miriam Belmonte, mb2120@cam.ac.uk;<br>and Maria Gkovedarou, magkove@gmail.com<br>
-Facebook: Make sure you follow our adventures at<br>fb.com/groups/866672656814002/ 
+Contact: <br>
+Miriam Lisci, ml793<br>
+Jyothi Jayaraman, jj329<br>
+Miriam Belmonte, mb2120<br>
+Maria Gkovedarou, magkove@gmail.com<br>
+Facebook: Make sure you follow our adventures at<br>
+fb.com/groups/866672656814002/
 <br></details>
 
 
 <!-- Drink and Draw -->
 <details align="justify" style="text-align:justify">
   <summary><b>Drink and Draw</b></summary>
-  
+
 <!-- NB: insert image -->
 
 Drink and Draw (DaD) is the most casual visual arts and crafts society of the college. Everybody is welcomed, especially those traumatised by school art classes. We mostly meet up in DarBar to doodle and gossip together, but we also organise occasional day-time workshops. The point is to enjoy the process and do something with our hands after stressful days at labs/libraries/behind monitors. Artistic worth and ambition is passively discouraged, but tolerated. Once a term, we organise exhibitions for charity. You can find us on Facebook and Instagram (DarwinDrinkAndDraw).
 <br><br>
 
-Contact:<br>Melanie Whitfield, mjw218@cam.ac.uk
-<br></details>
+Contact:<br>
+Melanie Whitfield, mjw218<br>
+</details>
 
 <!-- Families Society -->
 <details align="justify" style="text-align:justify">
   <summary><b>Families Society </b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/fam1.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/fam1.png" alt="[Family picture 1]" width="200px"/></a><br>
 
 <a href="{{site.baseurl | absolute_url}}/images/Societies/fam2.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/fam2.png" alt="[Family picture 2]" width="200px"/></a><br>
@@ -357,14 +386,16 @@ If you have any questions or want to get involved with this society, please get 
 recruiting for a new President!
 <br><br>
 
-Contact: <br>Soizic dcsa_families@darwin.cam.ac.uk
-<br></details>
+Contact: <br>
+Soizic Le Courtois<br>
+dcsa_families@darwin.cam.ac.uk<br>
+</details>
 
 
 <!-- Film Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Film Club </b></summary>
-  
+
 <!-- NB: insert image -->
 
 The Darwin College Film Club is welcoming all cinema fans to our regular
@@ -375,13 +406,15 @@ If you are keen to become an active member of the Film Club contact Dion
 Manousakas, dm754@cam.ac.uk or Giulia Barsuola, gb560@cam.ac.uk
 <br><br>
 
-Contact:<br>Dion Manousakas, dm754@cam.ac.uk<br>Giulia Barsuola, gb560@cam.ac.uk
-<br></details>
+Contact:<br>
+Dion Manousakas, dm754<br>
+Giulia Barsuola, gb560<br>
+</details>
 
 <!-- Green Committee -->
 <details align="justify" style="text-align:justify">
   <summary><b>Green Committee </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Welcome to the DCSA Green Committee - let's make Darwin a greener College, with an ambitious agenda towards sustainable practices!
@@ -394,13 +427,15 @@ Interested? Get in touch with the DCSA Environmental & Ethical Affairs officer,
 Maddie Emms: dcsa_green@dar.cam.ac.uk
 <br><br>
 
-Contact:<br>Maddie Emms: dcsa_green@dar.cam.ac.uk
-<br></details>
+Contact:<br>
+Conor Cooper<br>
+dcsa_green@dar.cam.ac.uk<br>
+</details>
 
 <!-- Gardening Society -->
 <details align="justify" style="text-align:justify">
   <summary><b>Gardening Society</b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/gardening.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/gardening.png" alt="[Gardening]" width="200px"/></a><br>
 
 
@@ -417,7 +452,7 @@ If you're interested in getting involved then head along to our facebook page: <
 <!-- LGBTQ+ -->
 <details align="justify" style="text-align:justify">
   <summary><b>LGBTQ+</b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/lgbtq.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/lgbtq.jpg" alt="[LGBTQ+]" width="200px"/></a><br>
 
 
@@ -432,14 +467,17 @@ For more information, get in touch with the DCSA's LGBTQ+ Officer, Giulia,
 at dcsa_lgbtq@darwin.cam.ac.uk or join our private facebook group to get notifications about the events: https://www.facebook.com/groups/793413014059863/
 <br><br>
 
-Contact: <br>Giulia, dcsa_lgbtq@darwin.cam.ac.uk
-<br>Facebook: <br>https://www.facebook.com/groups/793413014059863/
+Contact: <br>
+Arthur Davis<br>
+dcsa_lgbtq@darwin.cam.ac.uk<br>
+Facebook: <br>
+https://www.facebook.com/groups/793413014059863/
 <br></details>
 
 <!-- Mind Matters Darwin -->
 <details align="justify" style="text-align:justify">
   <summary><b>Mind Matters Darwin </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Mind Matters Darwin wants to raise awareness around mental health, end the stigma and promote wellbeing. We organize recreational activities fostering connections and wellbeing, like movie screenings broadly related to mental health, get-togethers, and courses. We offer a free-of-charge Meditation and Positive Psychology course (in collaboration with Inner Space Cambridge), in order to improve resilience and alleviate psychological sufferance. We also organize a Mindfulness in Nature course with Claire Thompson, usually in the fall or in the spring, to connect with nature and enjoy the beauty of the Darwin Gardens and meditation practices. We run a Relationship Anarchy Support
@@ -454,81 +492,91 @@ to ask for help and receive the necessary support.
 We all have a mental health to take care of! Darwinians care about mental health!
 <br><br>
 
-Contact: <br>Giulia Barsuola, gb560@cam.ac.uk
-<br></details>
+Contact: <br>
+Giulia Barsuola, gb560<br>
+</details>
 
 <!-- Music Society -->
 <details align="justify" style="text-align:justify">
   <summary><b>Music Society </b></summary>
-  
+
 <!-- NB: insert image -->
 
 The Darwin College Music Society (DCMS) is here to help make your college life
 musical. We host events throughout the year and provide facilities and support for music making and performance.
 
 Every Wednesday we host casual Jam Sessions in the common room. Please come along, everyone is welcome, bring your instruments if you have them, or have a bang on one of our bongos – no talent required or expected! We also host Open Mics in DarBar throughout the year to give you a chance to share your talent in front of a crowd of friendly faces. To help you make music we can also
-give you access to the treasure trove that is the Darwin College Bar Cellar. In there we have a drum kit, PA system, amps, music stands - all sorts of goodies that we want you to make use of, and if something’s not there, we have money to buy stuff too! The college also has the common room for use as a rehearsal space, and four pianos: two uprights, one in the Common Room and one in the Old Library along with an electronic piano, and a grand piano in the Dining Hall. For more information about accessing the College instruments, see the music page on the College website: https://www.darwin.cam.ac.uk/music 
+give you access to the treasure trove that is the Darwin College Bar Cellar. In there we have a drum kit, PA system, amps, music stands - all sorts of goodies that we want you to make use of, and if something’s not there, we have money to buy stuff too! The college also has the common room for use as a rehearsal space, and four pianos: two uprights, one in the Common Room and one in the Old Library along with an electronic piano, and a grand piano in the Dining Hall. For more information about accessing the College instruments, see the music page on the College website: https://www.darwin.cam.ac.uk/music
 
-The university has a thriving gig scene and we want Darwin musicians to be a part of it. Our veteran house-band, the Galapagogos, is often found at Jams, Open Mics and BOPs, and can offer wise(ish) words on getting onto the BOP and May Ball circuit. 
+The university has a thriving gig scene and we want Darwin musicians to be a part of it. Our veteran house-band, the Galapagogos, is often found at Jams, Open Mics and BOPs, and can offer wise(ish) words on getting onto the BOP and May Ball circuit.
 
 The society has the Darwin College Music Society Facebook page for discussion and events (below) and we also have an email list with updates nonFacebookers. Any questions whatsoever just contact Will Tebbutt at wct23@cam.ac.uk or Hugh Ramsden hor20@cam.ac.uk, or just grab us at one of the Jam Sessions – if you want to do something musical here, we want you to too!
 <br><br>
 
-Contact: <br>Will Tebbutt at wct23@cam.ac.uk <br>Hugh Ramsden hor20@cam.ac.uk
-<br>Facebook: <br>fb.com/groups/180145377845
-<br></details>
+Contact: <br>
+Will Tebbutt at wct23@cam.ac.uk <br>
+Hugh Ramsden hor20@cam.ac.uk<br>
+Facebook: <br>
+fb.com/groups/180145377845<br>
+</details>
 
 
 <!-- Open Club for Debate -->
 <details align="justify" style="text-align:justify">
   <summary><b>Open Club for Debate </b></summary>
-  
+
 <a href="{{site.baseurl | absolute_url}}/images/Societies/openclubfordebate.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/openclubfordebate.jpg" alt="[Open Club for Debate]" width="200px"/></a><br>
 
 
 The idea is pretty simple: a room, some wine and a topic no one can agree on. The Darwin Open Club for Debate is an informal non-stuffy club, where Darwinians and other students from the University of Cambridge debate about controversial topics in an open setting with minimal intervention from a moderator.
 
-We usually meet once a week, and try to schedule debates relevant to latest news. Join our Facebook group at fb.com/groups/146008729360024 to keep up with our events, everybody is welcome to attend!
+We usually meet once a week, and try to schedule debates relevant to latest news. Join our Facebook group at
+fb.com/groups/146008729360024
+to keep up with our events, everybody is welcome to attend!
 <br><br>
 
-Facebook: <br>fb.com/groups/146008729360024
+Facebook: <br>
+fb.com/groups/146008729360024
 <br></details>
 
 
 <!-- Photo Society -->
 <details align="justify" style="text-align:justify">
   <summary><b>Photo Society </b></summary>
-  
+
 <!-- NB: insert image -->
 
 The Darwin Photo Society exist to promote digital and film photography. We have an active programme of visiting speakers, internal and external competitions and members’ nights. Example of activities includes themed photographic outings, talks and workshops, LinkedIn photo sessions, dark room training, setting up photo booths for Darwin students and many more.
 <br><br>
 
-Contact: <br>Marta Wylot, mw699@cam.ac.uk <br>Giulia Barsuola, gb560@cam.ac.uk
-<br></details>
+Contact: <br>
+Marta Wylot, mw699<br>
+Giulia Barsuola, gb560<br>
+</details>
 
 
 <!-- Punt Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Punt Club </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Punting has a long tradition in Cambridge and is one of the highlights of what the town has to offer. As a member of the punt club, you have unlimited access to all of the club‘s punts, kayaks, and the canoe for a year at roughly the price of a single trip with one of the commercial punting companies. In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the annual punt race, the outings to the Trinity and St John’s May Ball fireworks at night, and to see King‘s choir‘s singing on the river. You can ask
-at the porters‘ lodge to join. 
+at the porters‘ lodge to join.
 
 If you have any other questions, please contact James Macdonald, the Admiral
 of the Punts, at dcsa_punts@darwin.cam.ac.uk
 <br><br>
 
-Contact: <br>James Macdonald, dcsa_punts@darwin.cam.ac.uk
-<br></details>
+Contact: <br>
+James Macdonald, dcsa_punts@darwin.cam.ac.uk<br>
+</details>
 
 
 <!-- Science Society -->
 <details align="justify" style="text-align:justify">
   <summary><b>Science Society </b></summary>
-  
+
 <!-- NB: insert image -->
 
 Interested in Science? The Darwin College Science Society (DCSS) aims to connect scientists at Darwin, both through general social events and research-related activities. Whether you live in the lab or just fancy yourself as
@@ -536,8 +584,10 @@ a bit of a science fanatic, we hope you will find enjoyment in our events, from
 science pub quizzes, lively debates to movie nights and much more... Nonscience students also welcome!
 <br>
 To keep up to date with upcoming events, please use any of the following:
-<br>Facebook: <br>fb.com/darscisoc/
-<br>Mailing list: <br>mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/dcss-members
 <br>
 
-<br></details>
+Facebook: <br>
+fb.com/darscisoc/<br>
+[Mailing list](http://mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/dcss-members)
+<br>
+</details>

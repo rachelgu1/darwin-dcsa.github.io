@@ -4,7 +4,7 @@ permalink: /disclaimer/
 
 # How to contact us
 
-Please contact the respective officer (see <a href="{{site.baseurl | absolute_url}}/">Meet the DCSA</a>
+Please contact the respective officer (see <a href="{{site.baseurl | absolute_url}}/meet-the-dcsa">Meet the DCSA</a>
  ). General queries should be sent to
 `DCSA underscore president at darwin dot cam dot ac dot uk`.
 
@@ -22,8 +22,6 @@ This site is independently maintained by the DCSA; it is not part of the officia
 
 # Data protection policy
 
-[Data protection documents](https://drive.google.com/drive/folders/1H_rsTktNMTR5-dKQBSJQHgCnELWtdmHz?usp=sharing)
-
-TODO update below link
-[Sports Clubs and Societies GDPR](https://drive.google.com/drive/folders/1H_rsTktNMTR5-dKQBSJQHgCnELWtdmHz?usp=sharing)
+- [Data protection documents](https://drive.google.com/drive/folders/1H_rsTktNMTR5-dKQBSJQHgCnELWtdmHz?usp=sharing)
+- [Sports Clubs and Societies GDPR](https://drive.google.com/drive/folders/1H_rsTktNMTR5-dKQBSJQHgCnELWtdmHz?usp=sharing)
 
