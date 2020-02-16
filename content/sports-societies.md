@@ -255,6 +255,10 @@ Chiara Toschi, ct452<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Bee Keeping</b></summary>
 
+  <a href="{{site.baseurl | absolute_url}}/images/Societies/beekeeping.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/beekeeping.jpg" alt="[Beekeeping]" width="200px"/></a><br>
+
+Having BEEn lured in by the sweet idea of collecting our very own honey, the Darwin College Beekeeping Association started our very own DarHive in the Darwin Garden. We learn about all aspects of beekeeping, but promise not to drone on about it, and welcome new members at any experience level as long as you have a high threshold for bee puns. So, if you are an eco-warrior keen to join the fight against our declining pollinators or just looking for an exciting new hobby, join us on our regular socials (or send us an email) to find out what all the buzz is about!
+
 <br><strong>Contact:</strong> <br>
 Jenaid Rees, jr732<br>
 </details>
