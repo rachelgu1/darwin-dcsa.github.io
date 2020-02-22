@@ -6,20 +6,30 @@ permalink: /facilities/
 
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
+<details>
+  <summary><strong>Gymn</strong></summary>
+
+
+</details>
 
 <details>
-  <summary>TV Room</summary>
+  <summary><strong>Music</strong></summary>
 
   Info about the TV Room
 
 </details>
 
-<!-- ## Overview: -->
+<details>
+  <summary><strong>Punting</strong></summary>
 
-- [TV Room](#tv-room)
-- [Music Room](#music-room)
+  Info about the TV Room
 
-### TV Room
+</details>
 
+<details>
+  <summary><strong>TV</strong></summary>
 
-### Music Room
+  Info about the TV Room
+
+</details>
+
