@@ -14,7 +14,7 @@ permalink: /meet-the-dcsa/
     </td>
     <td style="vertical-align: middle">
         <strong>President</strong><br/>
-        dcsa_president AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_president AT darwin.cam.ac.uk<br/>
         Ryan PRESTIL<br/>
         <p align="justify">
 The President is the representative of the DCSA to College, voicing the opinions of the students to all College members. They coordinate the committee by chairing DCSA Regular Meetings and General Meetings. The President works very closely with the Secretary, Treasurer, and the rest of the committee to ensure work is completed. The President sits on the College Council as a student representative, attends fortnightly CUSU meetings, sits on the Strategic Planning Committee, sits on the PREVENT committee, sits on the Health and Safety Committee, and often sits on one or two other college committees.
@@ -27,7 +27,7 @@ The President is the representative of the DCSA to College, voicing the opinions
     </td>
     <td style="vertical-align: middle">
         <strong>Secretary</strong><br/>
-        dcsa_secretary AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_secretary AT darwin.cam.ac.uk<br/>
         Chloé KATTAR<br/>
         <p align="justify">
 The Secretary is the administrator of the committee and Vice President. Alongside the President they ensure that meetings and DCSA business run smoothly. The Secretary ensures up-to-date files of the DCSA’s affairs, minutes, and policy documents are maintained, including the DCSA Constitution and Schedule and Regulations. The Secretary is in charge of the TV room and its bookings, sits on the Building and Grounds Committee, and sit on the Darwin College Society Committee. Importantly, the Secretary is the person responsible for chairing meetings and running the committee, should the President be unavailable for any reason.
@@ -40,7 +40,7 @@ The Secretary is the administrator of the committee and Vice President. Alongsid
     </td>
     <td style="vertical-align: middle">
         <strong>Treasurer</strong><br/>
-        dcsa_treasurer AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_treasurer AT darwin.cam.ac.uk<br/>
         Carolina AZEREDO<br/>
         <p align="justify">
 The Treasurer is in charge of all the finances in the DCSA, reports how much is spent, and assesses the feasibility of projects on a financial basis. They are responsible for ensuring all the clubs and societies are receiving the required funding whilst ensuring that the money they ask for is necessary for what they want to do. They are responsible for maintaining accurate records and checking the validity of all paperwork submitted for reimbursement. The Treasurer sits on the College Finance Committee.
@@ -54,8 +54,8 @@ The Treasurer is in charge of all the finances in the DCSA, reports how much is 
     </td>
     <td style="vertical-align: middle">
         <strong>Women’s Welfare Officer</strong><br/>
-        dcsa_welfare AT darwin DOT cam DOT ac DOT uk<br/>
-        dcsa_womens_welfare AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_welfare AT darwin.cam.ac.uk<br/>
+        dcsa_womens_welfare AT darwin.cam.ac.uk<br/>
         Alice FAIRNIE<br/>
         <p align="justify">
 The Women’s Welfare Officer is the student contact for students who or in need of help or advice. They advise students on how to deal with their problems and who they should contact to get the help they require. The Women’s Welfare Officer is responsible for representing and furthering the needs of female students. Along with the Men's Welfare Officer, they will organise welfare events throughout the year.
@@ -68,8 +68,8 @@ The Women’s Welfare Officer is the student contact for students who or in need
     </td>
     <td style="vertical-align: middle">
         <strong>Men’s Welfare Officer</strong><br/>
-        dcsa_welfare AT darwin DOT cam DOT ac DOT uk<br/>
-        dcsa_mens_welfare AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_welfare AT darwin.cam.ac.uk<br/>
+        dcsa_mens_welfare AT darwin.cam.ac.uk<br/>
         Patrick MORTIMER<br/>
         <p align="justify">
 The Men’s Welfare Officer is the student contact for students who or in need of help or advice. They advise students on how to deal with their problems and who they should contact to get the help they require. The Men’s Welfare Officer is responsible for representing and furthering the needs of male students. Along with the Women's Welfare Officer, they will organise welfare events throughout the year.
@@ -82,7 +82,7 @@ The Men’s Welfare Officer is the student contact for students who or in need o
     </td>
     <td style="vertical-align: middle">
         <strong>Women's Officer</strong><br/>
-        dcsa_women AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_women AT darwin.cam.ac.uk<br/>
         Meg Majumder<br/>
         <br/>
         <p align="justify">
@@ -96,7 +96,7 @@ The Men’s Welfare Officer is the student contact for students who or in need o
     </td>
     <td style="vertical-align: middle">
         <strong>LGBTQ+ Officer</strong><br/>
-        dcsa_lgbtq AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_lgbtq AT darwin.cam.ac.uk<br/>
         Arthur DAVIS<br/>
         <p align="justify">
 The LGBTQ+ Officer is responsible for representing and furthering the needs of LGBTQ students, whilst also providing
@@ -112,7 +112,7 @@ events aimed at LGBTQ+ students.
     </td>
     <td style="vertical-align: middle">
         <strong>Admiral of the Punts</strong><br/>
-        dcsa_punts AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_punts AT darwin.cam.ac.uk<br/>
         James MACDONALD<br/>
         <p align="justify">
 The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, and the equipment which comes along with them. They are the President of the Punt Club and manage the membership, the finanical and administrative work, and the maintenance of the vessels. They work with several trusted punt captains to ensure the work is done.
@@ -125,7 +125,7 @@ The Admiral of the Punts is responsible for all the vessels the punt club owns, 
     </td>
     <td style="vertical-align: middle">
         <strong>College Council Representative I</strong><br/>
-        dcsa_council_reps AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_council_reps AT darwin.cam.ac.uk<br/>
         Christopher DAVIS<br/>
         <p align="justify">
 The College Council Reps are elected by the students to represent the College in College Council meetings and sit ex officio on the DCSA Executive Committee (meaning their Primary Office is the College Council). They bring any matters to the College Council and the DCSA and try to ensure that the needs of all parties in College are being met.
@@ -138,7 +138,7 @@ The College Council Reps are elected by the students to represent the College in
     </td>
     <td style="vertical-align: middle">
         <strong>College Council Representative II</strong><br/>
-        dcsa_council_reps AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_council_reps AT darwin.cam.ac.uk<br/>
         Isabel ESAIN<br/>
         <p align="justify">
 The College Council Reps are elected by the students to represent the College in College Council meetings and sit ex officio on the DCSA Executive Committee (meaning their Primary Office is the College Council). They bring any matters to the College Council and the DCSA and try to ensure that the needs of all parties in College are being met.
@@ -151,7 +151,7 @@ The College Council Reps are elected by the students to represent the College in
     </td>
     <td style="vertical-align: middle">
         <strong>Communications Officer</strong><br/>
-         dcsa_coms AT darwin DOT cam DOT ac DOT uk<br/>
+         dcsa_coms AT darwin.cam.ac.uk<br/>
          Michael SCHNEIDER<br/>
         <p align="justify">
 The Comms Officer is responsible for sending out the Whatsup emails, helping to maintain the website, and to otherwise attend to the DCSA communication needs. The Comms Officer sits on the Information Services Committee.
@@ -164,7 +164,7 @@ The Comms Officer is responsible for sending out the Whatsup emails, helping to 
     </td>
     <td style="vertical-align: middle">
         <strong>Entertainment Officer I</strong><br/>
-        dcsa_ents AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_ents AT darwin.cam.ac.uk<br/>
         Mimy PHAM<br/>
         <p align="justify">
 The Ents Officers coordinate, organise, and promote the Darwin BOPs, held roughly three times a term. They are responsible for the music, decorations, security, and all the other financial and administrative work that comes with it.
@@ -177,7 +177,7 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs, held roughl
     </td>
     <td style="vertical-align: middle">
         <strong>Entertainment Officer II</strong><br/>
-        dcsa_ents AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_ents AT darwin.cam.ac.uk<br/>
         Louise DE THOMASSON<br/>
         <p align="justify">
 The Ents Officers coordinate, organise, and promote the Darwin BOPs, held roughly three times a term. They are responsible for the music, decorations, security, and all the other financial and administrative work that comes with it.
@@ -189,7 +189,7 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs, held roughl
     </td>
     <td style="vertical-align: middle">
         <strong>Environmental and Ethical Affairs Officer</strong><br/>
-         dcsa_green AT darwin DOT cam DOT ac DOT uk<br/>
+         dcsa_green AT darwin.cam.ac.uk<br/>
          Conor Cooper<br/>
         <p align="justify">
 The Environmental and Ethical Affairs Officer is responsible for the coordination and implementation of environmental
@@ -204,7 +204,7 @@ vegetable garden and they can sit on the Buildings and Grounds Committee if requ
     </td>
     <td style="vertical-align: middle">
         <strong>Events Officer</strong><br/>
-         dcsa_events AT darwin DOT cam DOT ac DOT uk<br/>
+         dcsa_events AT darwin.cam.ac.uk<br/>
          Chanon PORNRUNGROJ<br/>
         <p align="justify">
 The Events Officer coordinates, organises, and promotes social and entertainment activities in college, including the May Week Garden Party, summer BBQ, and other smaller events throughout the year.
@@ -217,7 +217,7 @@ The Events Officer coordinates, organises, and promotes social and entertainment
     </td>
     <td style="vertical-align: middle">
         <strong>External Officer</strong><br/>
-         dcsa_external AT darwin DOT cam DOT ac DOT uk<br/>
+         dcsa_external AT darwin.cam.ac.uk<br/>
          Daniel KOTTMANN<br/>
         <p align="justify">
 The External Officer is responsible for organising Formal swaps with other Colleges and for hosting other Colleges when they visit Darwin for Formal swap. They also represent the DCSA at CUSU meetings.
@@ -230,7 +230,7 @@ The External Officer is responsible for organising Formal swaps with other Colle
     </td>
     <td style="vertical-align: middle">
         <strong>International Officer</strong><br/>
-         dcsa_international AT darwin DOT cam DOT ac DOT uk<br/>
+         dcsa_international AT darwin.cam.ac.uk<br/>
          Narendra MEENA<br/>
         <p align="justify">
 The International Officer is responsible for representing and furthering the needs of international students, whilst also providing help in a similar manner to the Welfare Officers. They try to involve international students in college events and organise events aimed at international students.
@@ -243,7 +243,7 @@ The International Officer is responsible for representing and furthering the nee
     </td>
     <td style="vertical-align: middle">
         <strong>Sports and Societies Officer I</strong><br/>
-         dcsa_sports AT darwin DOT cam DOT ac DOT uk<br/>
+         dcsa_sports AT darwin.cam.ac.uk<br/>
          Daniel BUHL<br/>
         <p align="justify">
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sporting societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of sporting fun against our sister College at Oxford, held every March.
@@ -256,7 +256,7 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
     </td>
     <td style="vertical-align: middle">
         <strong>Sports and Societies Officer I</strong><br/>
-         dcsa_sports AT darwin DOT cam DOT ac DOT uk<br/>
+         dcsa_sports AT darwin.cam.ac.uk<br/>
          Trevor COUSINS<br/>
         <p align="justify">
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sporting societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of sporting fun against our sister College at Oxford, held every March.
@@ -275,7 +275,7 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
     </td>
     <td style="vertical-align: middle">
         <strong>Bar Committee Chair</strong><br/>
-        dcsa_bar AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_bar AT darwin.cam.ac.uk<br/>
         Matthew BRADY<br/>
         <p align="justify">
 The Barcomm Chair is not voted on to the DCSA Executive Committee, as with all other positions, but sits ex officio on the committee. The BarComm Chair is in charge of the Bar Committee, which runs the Darwin Bar (Darbar).
@@ -288,7 +288,7 @@ The Barcomm Chair is not voted on to the DCSA Executive Committee, as with all o
     </td>
     <td style="vertical-align: middle">
         <strong>President of the Families Society</strong><br/>
-        dcsa_families AT darwin DOT cam DOT ac DOT uk<br/>
+        dcsa_families AT darwin.cam.ac.uk<br/>
         Soizic LE COURTOIS<br/>
         <p align="justify">
 The President of the Families Society is not voted on to the DCSA Executive Committee, as with all other positions, but sits ex officio on the committee. The President of the Families Society is responsible for representing and furthering the needs of students with families. They try to involve students with families in college events and organise events aimed at these students through the families society.
