@@ -7,7 +7,7 @@ permalink: /facilities/
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 <details>
-  <summary><strong>Gymn</strong></summary>
+  <summary><strong>Gym</strong></summary>
 
 
 </details>
@@ -64,7 +64,7 @@ Trips down The Backs (to Jesus Green and back) typically take between a couple o
 
 <strong>For students & college members with a raven log in</strong><br>
 <p align="justify">
-Log in to the [online booking form](http://dcsa.dar.cam.ac.uk/booked/Web/)
+Log in to the <a href="http://dcsa.dar.cam.ac.uk/booked/Web/">online booking form</a>.
 Punts can be reserved up to 7 days in advance, each person is permitted to make one reservation per day lasting 3 hours. Log in to the portal to see the availability of the punts. To make a booking, click on an available time slot. The ‘Create a new reservation’ page will then open. Enter your chosen time, under name of booking enter your full name and CRSID eg John Smith (jrs82), then ‘Create’. The booking should then appear under the schedule, payment must be made in cash when you arrive at the porter’s lodge to pick up the keys at the start of the booking. For trips to Grantchester, if multiple punts are required or other non-standard booking please contact the Admiral of the Punts.
 </p><br>
 
