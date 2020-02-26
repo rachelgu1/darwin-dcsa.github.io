@@ -1,8 +1,12 @@
 ---
 permalink: /
+image_sliders:
+  - slideshow
 ---
 
 # Welcome to Darwin
+
+{% include slider.html selector="slideshow" %}
 
 The Darwin College Students’ Association (DCSA) welcomes you to Cambridge for what is sure to be an amazing year! The DCSA exists to represent the interests and welfare of Darwin students and does so by interfacing with college administration, providing budgets for Darwin clubs and societies, organising social events, and providing support for students. You can contact any committee member about any issue, and we’ll be happy to help or to point you in the right direction. You can find our names and emails on the “Meet your DCSA Officers” page, or come say hello if you see us around college!
 {: .text-justify}

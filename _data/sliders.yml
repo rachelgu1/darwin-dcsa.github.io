@@ -1,0 +1,23 @@
+# example slider
+- selector: slideshow 
+  bullets: false
+  captions: true
+  images:
+    - src: /images/slideshow/slideshow01.jpg
+    - src: /images/slideshow/slideshow02.jpg
+    - src: /images/slideshow/slideshow03.jpg
+    - src: /images/slideshow/slideshow04.jpg
+    - src: /images/slideshow/slideshow05.jpg
+    - src: /images/slideshow/slideshow06.jpg
+    - src: /images/slideshow/slideshow07.jpg
+    - src: /images/slideshow/slideshow08.jpg
+  settings:
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:

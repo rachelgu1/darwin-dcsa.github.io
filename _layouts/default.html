@@ -9,6 +9,8 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    {% include slider_styles.html %}
+
     <title>{{ site.title | default: site.github.repository_name }}</title>
   </head>
 
@@ -80,5 +82,7 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    {% include slider_scripts.html %}
   </body>
 </html>
