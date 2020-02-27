@@ -41,10 +41,6 @@ Darwin College Badminton Club welcomes players of all standards, from complete b
 <strong>Contact:</strong> <br>
 President: Bernard Cho, phc37<br>
 Treasurer: Zixuan Tangzt, 235<br>
-
-
-
-Lilong XU, lx238<br>
 </details>
 
 
