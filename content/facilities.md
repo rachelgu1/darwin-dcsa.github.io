@@ -15,7 +15,24 @@ permalink: /facilities/
 <details>
   <summary><strong>Music</strong></summary>
 
-  Info about the TV Room
+<h3>Music at Darwin</h3>
+
+<p align="justify">
+The music society owns a wide range of equipment available for use by any Darwinian. These are stored in the Darwin College Bar Cellar. In there we have a drum kit, PA system, amps, a guitar, a bass, music stands - all sorts of goodies that we want you to make use of. If you think we’re missing something, we have money to buy stuff too!</p>
+
+<p align="justify">
+The college also has the Common Room for use as a rehearsal space. We have a blanket booking on Sundays, 12-7pm. If you would like to reserve a time-slot, get in touch with the committee, or come to a Jam (Weds 7-9pm).</p>
+
+<p align="justify">
+Finally we have 4 pianos available to play. In the Old Library we have an electric piano with headphones and an upright.
+In the common room we have an upright and in the dining hall there is a grand. It is possible to reserve practice
+sessions on the pianos in the Old Library and the Dining Room in advance. This can be booked through the Domestic
+Bursar’s Secretary (phone: 335661, email: domestic.bursars.secretary@darwin.cam.ac.uk). Keys for the rooms may be
+obtained from the Porters’ Lodge and must be returned before 11.30pm.</p>
+Music soc committee 2019-2020:<br>
+Will Tebbutt (President): wct23 AT cam.ac.uk<br>
+Hugh Ramsden (Treasurer): hor20 AT cam.ac.uk<br>
+Felicity Hey (Choir): fh333 AT cam.ac.uk<br>
 
 </details>
 
@@ -179,9 +196,45 @@ The club runs free punting lessons throughout Freshers’ Fortnight at the start
 
 
 <details>
-  <summary><strong>TV</strong></summary>
+  <summary><strong>TV & Games room</strong></summary>
 
-  Info about the TV Room
+<p align="justify">
+The TV room has a TV, DVD player, PS3, Nintendo Switch and a karaoke machine, and you can also stream directly from your laptop. The college also holds a TV license for the TV room, allowing you to watch your favourite television shows.
+</p>
+
+<p align="justify">
+The TV Room is a flexible, multi-use space that also supports activities such as music practice sessions, fitness classes, lectures, and more. Microphones and games are stored in the cupboard on the right side of the room and can be accessed with the TV room keys kept at the porters lodge. Keys can only be taken if a booking has been made.
+The Darwin Library also has a DVD library - please contact the library to join and borrow DVDs.
+</p>
+
+<h4>Keys</h4>
+<ul>
+<li>The Darwin TV room can be accessed using your Darwin front door key.</li>
+<li>The keys to open to the media cabinet and the cupboard in the TV room are kept with the porters.</li>
+</ul>
+
+<h4>Bookings</h4>
+Bookings can be done through the <a href="http://dcsa.dar.cam.ac.uk/booked/Web/schedule.php?sid=5">room booking system</a> (you will need to sign in using your Raven ID)
+
+Bookings should not <strong>last over three hours</strong> and are not usually taken more than two weeks in advance. Bookings over three hours, done more than two weeks in advance, or recurrent (i.e. every week at the same day and time) can be done via the DCSA secretary (dcsa_secretary AT darwin.cam.ac.uk). Any other questions about using the room should also be directed to the DCSA secretary.
+
+</h4>External bookings</h4>
+Bookings can be made by non-Darwin societies, but are subject to a £30 charge. Please email dcsa_secretary@darwin.cam.ac.uk to arrange the booking and payment. These should be made at least 48 hours in advance and the secretary will try to confirm them by putting them on the calendar.
+
+<h4>Using the TV Room</h4>
+To use the TV room’s media facilities:
+<ul>
+<li>Turn on the projector (BENQ remote control)</li>
+<li>Turn on Yahama Sound Amplifier (Yahama remote control)</li>
+<li>Select correct HDMI (either using the remote or turn the left (input) knob on the Yahama machine (the one at the bottom of the cupboard)</li>
+<li>HMDI</li>
+<ul>
+<li>HDMI1: Loose HMDI cable</li>
+<li>HMDI2: Switch</li>
+<li>AUDIO1: AUX cable</li>
+<li>NEED TO CHECK REMAINING HDMI PORTS SITUATION</li>
+</ul>
+</ul>
 
 </details>
 
