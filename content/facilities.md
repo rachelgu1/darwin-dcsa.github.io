@@ -9,6 +9,27 @@ permalink: /facilities/
 <details>
   <summary><strong>Gym</strong></summary>
 
+<h3>Gym</h3>
+<p align="justify">
+Darwin offers access to a fitness room for primary or associated members of the college. The membership is free and allows you to use the gym at any time. In order to gain access to the gym for the first time you will be required to attend a gym induction, which will typically be offered during freshers’ week or can be individually arranged with your Sports & Societies officers (dcsa_sports AT darwin.ac.uk) throughout the year. This induction is important to familiarise yourself with the rules, ask any questions you might have, sign the health and safety form and finally activate your student card for access to the gym. Please respect the following rules and guidelines:
+</p>
+
+<strong>RULES</strong><br>
+<p align="justify">
+The maximum capacity of the gym s 5 people. Enter the CRSIDs of all users for booking.
+If the ergs are in use, no more than two people may be doing weights.
+The squat rack and ergs must not be used at the same time.
+</p>
+
+<strong>GUIDELINES</strong><br>
+<p align="justify">
+Please be considerate of sudden noises while others are using the gym.
+Walk-in sessions are allowed, but priority is given to those who book in advance.
+Please use spotters when lifting weights.
+</p>
+
+To book the gym please click <a href="https://docs.google.com/spreadsheets/d/1NftBMsqIXKTlc1neZrH6iAORzW65I7wwCAvXaxAbagU/edit?usp=sharing">here</a>.
+<br>
 
 </details>
 
