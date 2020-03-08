@@ -515,11 +515,13 @@ The Darwin College Music Society (DCMS) is here to help make your college life
 musical. We host events throughout the year and provide facilities and support for music making and performance.
 <br><br>
 Every Wednesday we host casual Jam Sessions in the common room. Please come along, everyone is welcome, bring your instruments if you have them, or have a bang on one of our bongos – no talent required or expected! We also host Open Mics in DarBar throughout the year to give you a chance to share your talent in front of a crowd of friendly faces. To help you make music we can also
-give you access to the treasure trove that is the Darwin College Bar Cellar. In there we have a drum kit, PA system, amps, music stands - all sorts of goodies that we want you to make use of, and if something’s not there, we have money to buy stuff too! The college also has the common room for use as a rehearsal space, and four pianos: two uprights, one in the Common Room and one in the Old Library along with an electronic piano, and a grand piano in the Dining Hall. For more information about accessing the College instruments, see the music page on the College website: https://www.darwin.cam.ac.uk/music
+give you access to the treasure trove that is the Darwin College Bar Cellar. In there we have a drum kit, PA system, amps, music stands - all sorts of goodies that we want you to make use of, and if something’s not there, we have money to buy stuff too! The college also has the common room for use as a rehearsal space, and four pianos.
 <br><br>
 The university has a thriving gig scene and we want Darwin musicians to be a part of it. Our veteran house-band, the Galapagogos, is often found at Jams, Open Mics and BOPs, and can offer wise(ish) words on getting onto the BOP and May Ball circuit.
 <br><br>
 The society has the Darwin College Music Society Facebook page for discussion and events (below) and we also have an email list with updates nonFacebookers. Any questions whatsoever just contact us, or just grab us at one of the Jam Sessions – if you want to do something musical here, we want you to too!
+<br><br>
+For more information about accessing the College instruments and booking rooms for music practice, see the music page on the <a href="https://www.darwin.cam.ac.uk/music">College website</a> and the <a href="{{site.baseurl | absolute_url}}/facilities/">Music section of the facilities page</a>.
 <br><br>
 
 <strong>Contact:</strong> <br>
@@ -568,8 +570,9 @@ Giulia Barsuola, gb560<br>
 
 <!-- NB: insert image -->
 
-Punting has a long tradition in Cambridge and is one of the highlights of what the town has to offer. As a member of the punt club, you have unlimited access to all of the club‘s punts, kayaks, and the canoe for a year at roughly the price of a single trip with one of the commercial punting companies. In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the annual punt race, the outings to the Trinity and St John’s May Ball fireworks at night, and to see King‘s choir‘s singing on the river. You can ask
-at the porters‘ lodge to join.
+Punting has a long tradition in Cambridge and is one of the highlights of what the town has to offer. As a member of the punt club, you have unlimited access to all of the club‘s punts, kayaks, and the canoe for a year at roughly the price of a single trip with one of the commercial punting companies. In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the annual punt race, the outings to the Trinity and St John’s May Ball fireworks at night, and to see King‘s choir‘s singing on the river. You can ask at the porters‘ lodge to join.
+<br><br>
+Booking information and other details can be found on the <a href="{{site.baseurl | absolute_url}}/facilities/">facilities page</a> in the Punting section.
 <br><br>
 If you have any other questions, please contact the Admiral
 of the Punts.
