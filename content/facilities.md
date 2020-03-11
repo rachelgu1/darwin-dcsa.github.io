@@ -7,6 +7,110 @@ permalink: /facilities/
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 <details>
+  <summary><strong>BBQ & Island</strong></summary>
+
+<h3>BBQ & Island</h3>
+
+<p align="justify">
+It is possible to book the small island in the college garden any time you want! There is also a BBQ setup which students are welcome to use. This area is very popular during the summer so be sure to book in advance.
+</p>
+
+<h4>Booking</h4>
+
+<ul>
+<li>Darwin college members may book the small Island and BBQ via the link at the bottom of the page. Make sure, you are aware of all terms and conditions by reading through this page first. </li>
+
+<li>Alumni may book the small Island and BBQ via the Development Office.</li>
+
+<li>External bookings (University Department or Society/Corporate Private Use - in either case booked by a Darwinian) must be done via the Domestic Bursar's Secretary to enquire about the availability of the BBQ and Island on your requested dates.<br> domestic.Email: bursars.secretary@darwin.cam.ac.uk</li>
+</ul>
+
+<strong>Read the Terms and Conditions below.</strong><br>
+
+<p align="justify">
+On the day of your booking, visit the Porter's Lodge to get the keys and sign the release form. Have fun, but please take care of our equipment! If you are found to have damaged anything, left rubbish, not cleaned the BBQ, or not put the BBQ away you risk having £50 added to your Darwin account.
+</p>
+
+<strong>Important Information</strong><br>
+<ul>
+<li>As the Organiser you will be held responsible for your events compliance with the Conditions of Use.</li>
+<li>BBQs may only be held on the first island (the paved area left of the bridge).</li>
+<li>Both the BBQ and island must be booked.</li>
+<li>The BBQ has to be cleaned and locked up after the event.</li>
+<li>The island must be cleaned after the event.</li>
+<li>You will need to bring your own BBQ tools.</li>
+<li>No external vendors/contractors are to be used on the Island.</li>
+<li>Kitchens in student blocks must not be used for cleaning of, or cooking for, barbeques because of the fire risk.</li>
+</ul>
+
+<strong>Conditions of use for the BBQ</strong>
+<ul>
+<li>3-hour time slots can be booked.</li>
+<li>The person who books the BBQ must be on the island at all times.</li>
+<li>The maximum number of guests allowed on the island is 50. The organiser is responsible for ensuring that this number is not exceeded during their booking.</li>
+<li>The island must be vacated before dark – even if this is earlier than 9pm.</li>
+<li>Please note that you have to supply your own charcoal and matches and a rag to clean up the set.</li>
+<li>Pick up black bin bags from the Porter's Lodge for your rubbish.</li>
+<li>After the BBQ, please clean up the island and leave everything tidy. The ashes will be hot so leave the BBQ on the island to cool down (do not carry the hot BBQ over the bridge).</li>
+<li>Remove all your rubbish from the island. This includes unused coal, empty bottles and cartons, leftover food etc. Put everything in the black bags. Please make sure you lock up the BBQ before you leave and return the key to the Porter’s Lodge.</li>
+<li>The day following the BBQ, clean the BBQ - empty all the ash into a black bag and brush the set clean; wash the BBQ grid under the tap located outside the study centre door and dry with a clean rag. Do not empty charcoal into the drains.</li>
+<li>If your booking immediately follows another, then you should leave the previous party’s hot coals in the BBQ and add your own as necessary. Note: it is the responsibility of the organiser of the last event of any given day to ensure the Island is cleared and the BBQ cleaned.</li>
+<li>Let the Porters know you are finished. If there is a problem, you will be billed £50 to support the use of the BBQ.</li>
+<li> Please note: Returning the key does not mean you will not be billed should there be a problem.</li>
+<li> It is in your interest to report it to the Porter's Lodge if you find either the island or the BBQ dirty. Failure to do so may result in you being billed. If either the Island or the BBQ are not cleaned properly you will be billed.</li>
+<li> If you find either the Island or the BBQ dirty when you arrive for your booking then it is in your interest to report this to the Porter’s Lodge. Failure to do so may result in you being held liable and a charge being made as detailed above.</li>
+<li><strong>Please note that you will be held personally responsible for ensuring that:</strong></li>
+<ul>
+<li>Background music (e.g. a CD player) is only played at low volume.</li>
+<li>Smoke machines are not used under any circumstances.</li>
+<li>All garden or other furniture is returned to its original position after your booking.</li>
+<li>Any BBQ equipment other than the DCSA BBQ is approved for use by the Clerk of Works before being used on the island; disposable BBQs are not acceptable.</li>
+<li>Hog roasting spits or similar equipment are approved by the Clerk of Works before being used on the island.</li>
+<li>Gazebos or anything similar are approved by the Clerk of Works before being used on the Island Kitchens in student blocks are not used for cleaning or cooking for BBQs because of the fire risk.</li>
+<li>Have fun, but please take care of our equipment! If you are found to have damaged anything, you may be responsible for a hefty deposit, to be added to your Darwin account.</li>
+</ul>
+</ul>
+
+<strong>Prices</strong><br>
+Fellows and current members: Free<br>
+Alumni: £30<br>
+University Department or Society (booked through a Darwinian): £45<br>
+Corporate Private Use (booked through a Darwinian): £90<br><br>
+
+If you are ready to book, click on the link below, select a free time slot, click on "Add," select the Barbeque, click "Done" and then "Create."
+<a href="http://dcsa.dar.cam.ac.uk/booked/Web/schedule.php?sid=3)">Here is the link</a> to accept these terms and conditions and book.
+
+</details>
+
+<details>
+  <summary><strong>DarBar</strong></summary>
+
+<h3>DarBar</h3>
+<p align="justify">
+Without doubt the best college bar in Cambridge, the student-run and operated DarBar offers a space every day from 9pm to unwind after a busy day or to celebrate the end of the week. It offers a wide selection of drinks - both alcoholic and not - and it caters for every taste.
+</p>
+
+<p align="justify">
+Keeping prices low is the priority for the DarBar team, and regular promotions operate throughout the year. The newly-christened Secession Session runs every Monday and offers deals even when the UK parliament refuses to do so. Also popular are the regular themed whisky tastings, where DarBar invites an expert to guide us through the quagmire that is whisky.
+</p>
+
+<p align="justify">
+The bar’s most popular event is the annual Oktoberfest, where the official Munich Oktoberfest beers are imported and served in Darwin steins alongside live German music, sausages, and schnitzel.
+</p>
+
+<p align="justify">
+During Freshers’ Fortnight the bar will be hosting numerous events, including a Gin Night, Latin Party, Board Game Night, the annual Derek Scott Bar Games Night (named after our Head Porter), a pub quiz, International Beer Night, open mic night, and the biggest event of them all, the BOP.
+</p>
+
+<p align="justify">
+The bar relies on the student body to open every night. If you would like to be part of helping run one of the best
+parts of Darwin College student life or if you have any questions about the bar, please email the Bar Chair at dcsa_bar AT darwin.cam.ac.uk. Stay up to date with the latest updates by liking our <a href="https://www.facebook.com/darwincollegebar">facebook page</a>!
+</p>
+<br>
+
+</details>
+
+<details>
   <summary><strong>Gym</strong></summary>
 
 <h3>Gym</h3>
@@ -287,78 +391,3 @@ To use the TV room’s media facilities:
 
 </details>
 
-<details>
-  <summary><strong>BBQ & Island</strong></summary>
-
-<h3>BBQ & Island</h3>
-
-<p align="justify">
-It is possible to book the small island in the college garden any time you want! There is also a BBQ setup which students are welcome to use. This area is very popular during the summer so be sure to book in advance.
-</p>
-
-<h4>Booking</h4>
-
-<ul>
-<li>Darwin college members may book the small Island and BBQ via the link at the bottom of the page. Make sure, you are aware of all terms and conditions by reading through this page first. </li>
-
-<li>Alumni may book the small Island and BBQ via the Development Office.</li>
-
-<li>External bookings (University Department or Society/Corporate Private Use - in either case booked by a Darwinian) must be done via the Domestic Bursar's Secretary to enquire about the availability of the BBQ and Island on your requested dates.<br> domestic.Email: bursars.secretary@darwin.cam.ac.uk</li>
-</ul>
-
-<strong>Read the Terms and Conditions below.</strong><br>
-
-<p align="justify">
-On the day of your booking, visit the Porter's Lodge to get the keys and sign the release form. Have fun, but please take care of our equipment! If you are found to have damaged anything, left rubbish, not cleaned the BBQ, or not put the BBQ away you risk having £50 added to your Darwin account.
-</p>
-
-<strong>Important Information</strong><br>
-<ul>
-<li>As the Organiser you will be held responsible for your events compliance with the Conditions of Use.</li>
-<li>BBQs may only be held on the first island (the paved area left of the bridge).</li>
-<li>Both the BBQ and island must be booked.</li>
-<li>The BBQ has to be cleaned and locked up after the event.</li>
-<li>The island must be cleaned after the event.</li>
-<li>You will need to bring your own BBQ tools.</li>
-<li>No external vendors/contractors are to be used on the Island.</li>
-<li>Kitchens in student blocks must not be used for cleaning of, or cooking for, barbeques because of the fire risk.</li>
-</ul>
-
-<strong>Conditions of use for the BBQ</strong>
-<ul>
-<li>3-hour time slots can be booked.</li>
-<li>The person who books the BBQ must be on the island at all times.</li>
-<li>The maximum number of guests allowed on the island is 50. The organiser is responsible for ensuring that this number is not exceeded during their booking.</li>
-<li>The island must be vacated before dark – even if this is earlier than 9pm.</li>
-<li>Please note that you have to supply your own charcoal and matches and a rag to clean up the set.</li>
-<li>Pick up black bin bags from the Porter's Lodge for your rubbish.</li>
-<li>After the BBQ, please clean up the island and leave everything tidy. The ashes will be hot so leave the BBQ on the island to cool down (do not carry the hot BBQ over the bridge).</li>
-<li>Remove all your rubbish from the island. This includes unused coal, empty bottles and cartons, leftover food etc. Put everything in the black bags. Please make sure you lock up the BBQ before you leave and return the key to the Porter’s Lodge.</li>
-<li>The day following the BBQ, clean the BBQ - empty all the ash into a black bag and brush the set clean; wash the BBQ grid under the tap located outside the study centre door and dry with a clean rag. Do not empty charcoal into the drains.</li>
-<li>If your booking immediately follows another, then you should leave the previous party’s hot coals in the BBQ and add your own as necessary. Note: it is the responsibility of the organiser of the last event of any given day to ensure the Island is cleared and the BBQ cleaned.</li>
-<li>Let the Porters know you are finished. If there is a problem, you will be billed £50 to support the use of the BBQ.</li>
-<li> Please note: Returning the key does not mean you will not be billed should there be a problem.</li>
-<li> It is in your interest to report it to the Porter's Lodge if you find either the island or the BBQ dirty. Failure to do so may result in you being billed. If either the Island or the BBQ are not cleaned properly you will be billed.</li>
-<li> If you find either the Island or the BBQ dirty when you arrive for your booking then it is in your interest to report this to the Porter’s Lodge. Failure to do so may result in you being held liable and a charge being made as detailed above.</li>
-<li><strong>Please note that you will be held personally responsible for ensuring that:</strong></li>
-<ul>
-<li>Background music (e.g. a CD player) is only played at low volume.</li>
-<li>Smoke machines are not used under any circumstances.</li>
-<li>All garden or other furniture is returned to its original position after your booking.</li>
-<li>Any BBQ equipment other than the DCSA BBQ is approved for use by the Clerk of Works before being used on the island; disposable BBQs are not acceptable.</li>
-<li>Hog roasting spits or similar equipment are approved by the Clerk of Works before being used on the island.</li>
-<li>Gazebos or anything similar are approved by the Clerk of Works before being used on the Island Kitchens in student blocks are not used for cleaning or cooking for BBQs because of the fire risk.</li>
-<li>Have fun, but please take care of our equipment! If you are found to have damaged anything, you may be responsible for a hefty deposit, to be added to your Darwin account.</li>
-</ul>
-</ul>
-
-<strong>Prices</strong><br>
-Fellows and current members: Free<br>
-Alumni: £30<br>
-University Department or Society (booked through a Darwinian): £45<br>
-Corporate Private Use (booked through a Darwinian): £90<br><br>
-
-If you are ready to book, click on the link below, select a free time slot, click on "Add," select the Barbeque, click "Done" and then "Create."
-<a href="http://dcsa.dar.cam.ac.uk/booked/Web/schedule.php?sid=3)">Here is the link</a> to accept these terms and conditions and book.
-
-</details>
