@@ -82,6 +82,7 @@ If you are ready to book, click on the link below, select a free time slot, clic
 
 </details>
 
+
 <details>
   <summary><strong>DarBar</strong></summary>
 
@@ -109,6 +110,7 @@ parts of Darwin College student life or if you have any questions about the bar,
 <br>
 
 </details>
+
 
 <details>
   <summary><strong>Gym</strong></summary>
