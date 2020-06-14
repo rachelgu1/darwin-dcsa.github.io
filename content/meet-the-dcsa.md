@@ -141,9 +141,10 @@ The Admiral of the Punts is responsible for all the vessels the punt club owns, 
     <td style="vertical-align: middle">
         <strong>College Council Representatives</strong><br/>
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Christopher DAVIS<br/>
+        Daniel HUGENROTH<br/>
         <p align="justify">
-Chris is in the final year of his PhD in the Department of Plant Sciences researching the conservation and evolutionary genetics of an endangered species of flower in Armenia, and has a deep interest in the theoretical aspects of plant morphology in the philosophy of developmental evolutionary genetics - ontogeny & phylogeny.<br><br>
+Daniel is a first-year PhD student in computer science where he researches systems that provide strong metadata privacy.
+<br><br>
 
 <!-- The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May. -->
         </p>
