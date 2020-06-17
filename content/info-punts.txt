@@ -1,0 +1,11 @@
+NOTE:
+I used a dirty hack to make the /punts/ link appear expanded and viewable at the facilities link, by simply setting the details option to open for the punts section - unfortunately there is no other easy way to do this for the details section. I promise this is only case where I have done that. Unfortunately, at the time of writing this, it's very hard to do this differently, might be a reason not to use details in the future.
+
+In order to update the punts page, you have to copy over the content from the facilities page and simply modify two lines:
+- the details tag (setting the option to open):
+`<details open>
+  <summary><strong>Punting</strong></summary>`
+- the link (updating to punts):
+`permalink: /punts/`
+
+Don't modify the punts.md file, instead make all changes to the facilities.md page and then just copy that over and make the above changes.

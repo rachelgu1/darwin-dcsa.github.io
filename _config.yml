@@ -3,4 +3,6 @@ title: DCSA - Darwin College Students' Association
 description: Homepage of the Darwin College Students' Association
 baseurl: "/"
 show_downloads: false
+plugins:
+  - jekyll-redirect-from
 google_analytics:
