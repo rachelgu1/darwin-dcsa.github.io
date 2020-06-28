@@ -260,6 +260,10 @@ Learning how to punt
 The club runs free punting lessons throughout Freshers’ Fortnight at the start of the academic year and are the best opportunity to learn the basics of punting on the Cam. If you cannot attend one of the punting lessons or decide you want to try punting at a later time of the year, please email the Admiral of the Punts at dcsa_punts@darwin.cam.ac.uk who may be able to organise punting lessons on demand throughout the academic year.
 </p>
 
+<p align="justify">
+We have a set of additional rules to account for the requirements of social distancing at this time. Please make sure to carefully read those before going on an outing. The rules can be found <a href="https://docs.google.com/document/d/1fg2-xm324UhgNBxLlWvoqj9CeBMnYKDnykpsH9DZJIc/edit?usp=sharing">at this link</a>. These rules are an addition to the existing rules that be be found below.
+</p>
+
 <br>
 <h4>DARWIN COLLEGE PUNT AND KAYAK CLUB TERMS AND CONDITIONS OF HIRE</h4>
 
