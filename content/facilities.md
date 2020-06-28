@@ -232,6 +232,11 @@ Current members of the college, including staff, and alumni can book a punt for 
 Trips down The Backs (to Jesus Green and back) typically take between a couple of hours depending on punting experience. Trips to Grantchester and back take 4 to 5 hours on average. The fee for trips to Grantchester is £20 per punt for non-members.
 </p><br>
 
+<h3>SOCIAL DISTANCING UPDATE TO TERMS AND CONDITIONS</h3>
+<p align="justify">
+We have a set of additional rules to account for the requirements of social distancing at this time. Please make sure to carefully read those before going on an outing. The rules can be found <a href="https://docs.google.com/document/d/1fg2-xm324UhgNBxLlWvoqj9CeBMnYKDnykpsH9DZJIc/edit?usp=sharing">at this link</a>. These rules are an addition to the existing rules that be be found below.
+</p><br>
+
 <strong>For students & college members with a raven log in</strong><br>
 <p align="justify">
 Log in to the <a href="http://dcsa.dar.cam.ac.uk/booked/Web/">online booking form</a>.
@@ -258,11 +263,6 @@ Chauffeured punt tour services with experienced student punt captains are availa
 <p align="justify">
 Learning how to punt
 The club runs free punting lessons throughout Freshers’ Fortnight at the start of the academic year and are the best opportunity to learn the basics of punting on the Cam. If you cannot attend one of the punting lessons or decide you want to try punting at a later time of the year, please email the Admiral of the Punts at dcsa_punts@darwin.cam.ac.uk who may be able to organise punting lessons on demand throughout the academic year.
-</p>
-
-<h3>SOCIAL DISTANCING UPDATE TO TERMS AND CONDITIONS</h3>
-<p align="justify">
-We have a set of additional rules to account for the requirements of social distancing at this time. Please make sure to carefully read those before going on an outing. The rules can be found <a href="https://docs.google.com/document/d/1fg2-xm324UhgNBxLlWvoqj9CeBMnYKDnykpsH9DZJIc/edit?usp=sharing">at this link</a>. These rules are an addition to the existing rules that be be found below.
 </p>
 
 <br>
