@@ -199,6 +199,11 @@ Felicity Hey (Choir): fh333 AT cam.ac.uk<br>
 The Darwin College Punt and Kayak Club owns five punts, five kayaks, and a canoe. The five punts, Isabela, Velociraptor, The Beagle, Master Brown, and Iguana, are moored on the part of the river that runs through the college grounds. The kayaks and canoe are stored in the punt shed. For any queries, please review the information on this website and then email the Admiral of the Punts at dcsa_punts AT darwin.cam.ac.uk
 </p>
 
+<h3>SOCIAL DISTANCING UPDATE TO TERMS AND CONDITIONS</h3>
+<p align="justify">
+We have a set of additional rules to account for the requirements of social distancing at this time. Please make sure to carefully read those before going on an outing. The rules can be found <a href="https://docs.google.com/document/d/1fg2-xm324UhgNBxLlWvoqj9CeBMnYKDnykpsH9DZJIc/edit?usp=sharing">at this link</a>. These rules are an addition to the existing rules that be be found below.
+</p><br>
+
 <strong>Overview</strong><br>
 <p align="justify">
 The table below gives a brief overview of the membership and booking fees. Please see the sections below for more information about different types of bookings and memberships.
@@ -230,11 +235,6 @@ The table below gives a brief overview of the membership and booking fees. Pleas
 <p align="justify">
 Current members of the college, including staff, and alumni can book a punt for a single outing of up to 3h each day in return for a £10 fee. Punts can be booked on the day or in advance and are allocated on a first-come, first-served basis. Weekends are the busiest and booking in advance is strongly recommended. During the week you will usually be able to take a punt out without booking in advance - but it is still recommended to avoid disappointment.
 Trips down The Backs (to Jesus Green and back) typically take between a couple of hours depending on punting experience. Trips to Grantchester and back take 4 to 5 hours on average. The fee for trips to Grantchester is £20 per punt for non-members.
-</p><br>
-
-<h3>SOCIAL DISTANCING UPDATE TO TERMS AND CONDITIONS</h3>
-<p align="justify">
-We have a set of additional rules to account for the requirements of social distancing at this time. Please make sure to carefully read those before going on an outing. The rules can be found <a href="https://docs.google.com/document/d/1fg2-xm324UhgNBxLlWvoqj9CeBMnYKDnykpsH9DZJIc/edit?usp=sharing">at this link</a>. These rules are an addition to the existing rules that be be found below.
 </p><br>
 
 <strong>For students & college members with a raven log in</strong><br>
@@ -397,4 +397,3 @@ To use the TV room’s media facilities:
 </ul>
 
 </details>
-
