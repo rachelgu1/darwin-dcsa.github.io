@@ -96,7 +96,7 @@ The Welfare Officers are the student contact for students who are in need of hel
         Meg MAJUMDER<br/>
         <br/>
         <p align="justify">
-Meg is a first-year PhD student in Primary Care Medicine. She is pursuing graduate studies in medicine and palliative care at the University of Cambridge and Harvard sponsored by a Fulbright Schuman Innovation Grant and the Abbeyfield Foundation to explore issues at the intersection of neurodegenerative diseases and the pressing ethical issues that arise at the end of life.<br><br>
+Meg is a first-year PhD student in Primary Care Medicine. She is pursuing graduate studies in medicine, palliative care, and ethics at the University of Cambridge and Harvard to explore issues at the intersection of neurodegenerative disease (dementia), elderly institutions, and the pressing ethical / pharmaceutical issues that arise at the end of life.<br><br>
 
 The Women's Officer is responsible for representing and furthering the needs of students who identify as women and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
