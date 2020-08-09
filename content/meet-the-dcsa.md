@@ -17,7 +17,7 @@ permalink: /meet-the-dcsa/
         dcsa_president AT darwin.cam.ac.uk<br/>
         Chloé KATTAR<br/>
         <p align="justify">
-Chloe is a fourth-year PhD student in History, working on an intellectual history of the Lebanese Civil War (1975-1982).<br><br>
+Chloé is a fourth-year PhD student in History, working on an intellectual history of the Lebanese Civil War (1975-1982).<br><br>
 
 The President is the representative of the DCSA to College, voicing the opinions of the students to all College members. They coordinate the committee by chairing DCSA Regular Meetings and General Meetings. The President works very closely with the Secretary, Treasurer, and the rest of the committee to ensure work is completed. The President sits on the College Council as a student representative, attends fortnightly Cambridge Students’ Union meetings, and sits on numerous College committees (including Strategic Planning, PREVENT, Health & Safety, and Wine).
         </p>
