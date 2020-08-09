@@ -142,7 +142,7 @@ The Admiral of the Punts is responsible for all the vessels the punt club owns, 
          dcsa_coms AT darwin.cam.ac.uk<br/>
          James ALLINGHAM<br/>
         <p align="justify">
-James is a second-year PhD student in the engineering department, where he is studying machine learning. When not doing research, or procrastinating, he likes to climb, row, run, and play board games.<br><br>
+James is a PhD student in the engineering department, where he is studying machine learning. When not doing research, or procrastinating, he likes to climb, row, run, and play board games.<br><br>
 
 The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="http://mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/whatsup">mailing list</a>! 
         </p>
