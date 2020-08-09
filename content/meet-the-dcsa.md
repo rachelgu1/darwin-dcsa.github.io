@@ -56,7 +56,7 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
 <!-- Welfare and other -->
 <tr>
     <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg" alt="[Women Welfare Officer's picture]" width="300px"/></a>
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg" alt="[Welfare Officer I picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Welfare Officers</strong><br/>
@@ -72,7 +72,7 @@ The Welfare Officers are the student contact for students who are in need of hel
 
 <!--<tr>
     <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg" alt="[Men Welfare Officer's picture]" width="300px"/></a>
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg" alt="[Welfare Officer II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Men’s Welfare Officer</strong><br/>
@@ -104,7 +104,7 @@ The Women's Officer is responsible for representing and furthering the needs of 
 
 <tr>
     <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg" alt="[LGBTQ Officer's picture]" width="300px"/></a>
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg" alt="[Q+ Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Q+ Officer</strong><br/>
@@ -231,8 +231,7 @@ The External Officer is responsible for organising formal swaps with other Colle
          dcsa_international AT darwin.cam.ac.uk<br/>
          Narendra MEENA<br/>
         <p align="justify">
-Naru is a first-year student Ph.D. in genetics student. He is trained in computer science and mathematics and currently working on predicting regulatory regions in the human genome using machine learning algorithms.
-As an Internation student, he went through most of the challenges an internation student has to face i.e new language, new culture etc. He found that engaging yourself in college life was the best way to find himself. If you come across any problem please email him. He will try his best to solve your issues. dcsa_international@darwin.cam.ac.uk<br><br>
+Naru is a first-year student Ph.D. in genetics student. He is trained in computer science and mathematics and currently working on predicting regulatory regions in the human genome using machine learning algorithms. As an Internation student, he went through most of the challenges an internation student has to face i.e new language, new culture etc. He found that engaging yourself in college life was the best way to find himself. If you come across any problem please email him. He will try his best to solve your issues.<br><br>
 
 The International Officer is responsible for representing and furthering the needs of international students while also providing welfare support tailored to international students’ issues. They work to involve international students in college events and organise events aimed at international students.
         </p>
