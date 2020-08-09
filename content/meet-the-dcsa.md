@@ -56,7 +56,7 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
 <!-- Welfare and other -->
 <tr>
     <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-Women.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-Women.jpg" alt="[Women Welfare Officer's picture]" width="300px"/></a>
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg" alt="[Women Welfare Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Welfare Officers</strong><br/>
@@ -72,7 +72,7 @@ The Welfare Officers are the student contact for students who are in need of hel
 
 <!--<tr>
     <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-Men.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-Men.jpg" alt="[Men Welfare Officer's picture]" width="300px"/></a>
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg" alt="[Men Welfare Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Men’s Welfare Officer</strong><br/>
@@ -104,7 +104,7 @@ The Women's Officer is responsible for representing and furthering the needs of 
 
 <tr>
     <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-LGBTQ.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-LGBTQ.jpg" alt="[LGBTQ Officer's picture]" width="300px"/></a>
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg" alt="[LGBTQ Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>Q+ Officer</strong><br/>
@@ -249,7 +249,6 @@ The International Officer is responsible for representing and furthering the nee
         <p align="justify">
 Dan is a second-year PhD student in Biological Sciences at the Department for Veterinary Medicine developing methods for the detection of bacteria in clinical samples.<br><br>
 
-<!-- The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May. -->
         </p>
     </td></tr>
 
@@ -258,7 +257,6 @@ Dan is a second-year PhD student in Biological Sciences at the Department for Ve
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Sports-Societies-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Sports-Societies-II.jpg" alt="[Sports and Societies Officer's II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-        <!-- <strong>Sports and Societies Officer I</strong><br/> -->
          dcsa_sports AT darwin.cam.ac.uk<br/>
          Trevor COUSINS<br/>
         <p align="justify">
@@ -285,7 +283,6 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
 Daniel is a first-year PhD student in computer science where he researches systems that provide strong metadata privacy.
 <br><br>
 
-<!-- The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May. -->
         </p>
     </td></tr>
 
@@ -294,7 +291,6 @@ Daniel is a first-year PhD student in computer science where he researches syste
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-College-Council-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-College-Council-II.jpg" alt="[College Council II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-        <!-- <strong>College Council Representative II</strong><br/> -->
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
         Isabel ESAIN<br/>
         <p align="justify">
