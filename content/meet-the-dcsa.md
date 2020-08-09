@@ -129,7 +129,7 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
         <p align="justify">
 Michael is a third year PhD student in Medical Genomics; he is using computational and statistical tools to identify the processes that drive cancer development.<br><br>
 
-The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at [our website](https://www.dcsa.darwin.cam.ac.uk/punts/) if you’d like to learn more about the Darwin Punt Club.
+The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website,/a> if you’d like to learn more about the Darwin Punt Club.
         </p>
     </td></tr>
     
@@ -144,7 +144,7 @@ The Admiral of the Punts is responsible for all the vessels the punt club owns, 
         <p align="justify">
 James is a second-year PhD student in the engineering department, where he is studying machine learning. When not doing research, or procrastinating, he likes to climb, row, run, and play board games.<br><br>
 
-The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the [mailing list](http://mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/whatsup)! 
+The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="http://mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/whatsup">mailing list</a>! 
         </p>
     </td></tr>
 
