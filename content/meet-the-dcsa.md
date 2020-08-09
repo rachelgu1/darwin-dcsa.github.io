@@ -159,23 +159,21 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
         <p align="justify">
 Louise is studying for an MPhil in Pathology, working on the Malaria parasite and investigating a new potential drug target.<br><br>
 
-The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. One officer is elected in November, and the other is elected in May.
         </p>
     </td></tr>
-<!--<tr>
+<tr>
     <td style="vertical-align: middle">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-II.jpg" alt="[Ents Officer's II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-        <strong>Entertainment Officer II</strong><br/>
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Louise DE THOMASSON<br/>
+        Aurelia LI<br/>
         <p align="justify">
-Louise is studying for an MPhil in Pathology, working on the Malaria parasite and investigating a new potential drug target.<br><br>
+Aurelia is a final year PhD in Chemical Engineering, studying how metal-organic frameworks can be used for gas adsorption applications.<br><br>
 
-The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. One officer is elected in November, and the other is elected in May.
+In pre-pandemic times, the Ents Officers used to coordinate, organise, and promote the Darwin BOPs. They were responsible for the music, decorations, security, and finances. They also worked with the Events Officer to host other events throughout the year. Darwin BOPs were known for their vibrant atmosphere and original themes and they always had the most popular Cambridge bands performing. Sadly BOPs are not allowed in the foreseable future. They will now try their best to offer alternative entertainments. But rest assured, as soon as BOPs are allowed again, they will throw the best and biggest college parties which will have been worth the wait! Think live music, themes, drinks, djs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
         </p>
-    </td></tr>-->
+    </td></tr>
     
 <tr>
     <td style="vertical-align: middle">
