@@ -129,7 +129,7 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
         <p align="justify">
 Michael is a third year PhD student in Medical Genomics; he is using computational and statistical tools to identify the processes that drive cancer development.<br><br>
 
-The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website,/a> if you’d like to learn more about the Darwin Punt Club.
+The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website</a> if you’d like to learn more about the Darwin Punt Club.
         </p>
     </td></tr>
     
