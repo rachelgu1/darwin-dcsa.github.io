@@ -66,25 +66,23 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
         <p align="justify">
 Stef is a second-year PhD student in Gender Studies studying fertility apps and surveillance. She enjoys cats, kayaks, puns, and teas.<br><br>
 
-The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us on Facebook or College, if you need anything or just want to have a chat!
        </p>
     </td></tr>
 
-<!--<tr>
+<tr>
     <td style="vertical-align: middle">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg" alt="[Welfare Officer II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
-        <strong>Men’s Welfare Officer</strong><br/>
         dcsa_welfare AT darwin.cam.ac.uk<br/>
-        dcsa_mens_welfare AT darwin.cam.ac.uk<br/>
-        Patrick MORTIMER<br/>
+        <!-- dcsa_mens_welfare AT darwin.cam.ac.uk<br/> -->
+        Akash DAS<br/>
         <p align="justify">
-Paddy is a second-year PhD in fluid dynamics studying carbon sequestration and storage.<br><br>
+Akash is a 3rd year PhD student working on the development of low cost viral diagnostics as part of the Sensor CDT program. When not working, he spends far too much time watching anime and playing video games.<br><br>
 
-The Welfare Officers are the student contact for students who are in need of help or advice. They can advise you how to deal with any issues you face and who you should contact to get the help you require. Together, they organise welfare events throughout the year. Both Welfare Officers are elected in May. The Men’s Welfare Officer is responsible for representing and furthering the needs of male students. Along with the Women's Welfare Officer, they will organise welfare events throughout the year.
+The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us on Facebook or College, if you need anything or just want to have a chat!
        </p>
-    </td></tr>-->
+    </td></tr>
 
 <tr>
     <td style="vertical-align: middle">
