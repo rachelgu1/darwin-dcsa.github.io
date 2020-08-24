@@ -289,7 +289,7 @@ Daniel is a first-year PhD student in computer science where he researches syste
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
         Isabel ESAIN<br/>
         <p align="justify">
-Isabel is a first-year PhD student in the Department of Chemistry and in collaboration with the Cancer Research UK Institute researching DNA secondary structure in mammalian systems by performing targeted epigenome engineering.<br><br>
+Isabel is a second-year PhD student in the Department of Chemistry and in collaboration with the Cancer Research UK Institute researching DNA secondary structure in mammalian systems by performing targeted epigenome engineering.<br><br>
 
 The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May.
         </p>
