@@ -1,5 +1,5 @@
 # example slider
-- selector: slideshow 
+- selector: slideshow
   bullets: false
   captions: true
   images:
@@ -11,6 +11,34 @@
     - src: /images/slideshow/slideshow06.jpg
     - src: /images/slideshow/slideshow07.jpg
     - src: /images/slideshow/slideshow08.jpg
+  settings:
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: puntshow
+  bullets: false
+  captions: true
+  images:
+    - src: /images/puntshow/Darwin-Punt-Club-Logo.jpg
+    - src: /images/puntshow/PuntClub-Carousel-01.jpg
+    - src: /images/puntshow/PuntClub-Carousel-02.jpg
+    - src: /images/puntshow/PuntClub-Carousel-03.jpg
+    - src: /images/puntshow/PuntClub-Carousel-04.jpg
+    - src: /images/puntshow/PuntClub-Carousel-05.jpg
+    - src: /images/puntshow/PuntClub-Carousel-06.jpg
+    - src: /images/puntshow/PuntClub-Carousel-07.jpg
+    - src: /images/puntshow/PuntClub-Carousel-08.jpg
+    - src: /images/puntshow/PuntClub-Carousel-09.jpg
+    - src: /images/puntshow/PuntClub-Carousel-10.jpg
+    - src: /images/puntshow/PuntClub-Carousel-11.jpg
+    - src: /images/puntshow/PuntClub-Carousel-12.jpg
   settings:
     initialHeight:
     maxHeight:
