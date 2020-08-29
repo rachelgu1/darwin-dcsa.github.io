@@ -345,7 +345,7 @@ If you have any issues with the registration form or anything else is unclear, p
 <h4 id="activities-and-events">Activities and Events</h4>
 
 <p align="justify">
-Punting has a long tradition in Cambridge and is one of the highlights of what the town has to offer. In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the annual Punt Race, the outings to the Trinity and St John’s May Ball fireworks at night, and to see King‘s choir‘s singing on the river. We will also chauffeur you to some fancy formals, teach you about bats that live in the area around Grantchester, or just have an enjoyable time in summer on a trip to the Grantchester orchard. Many of the pictures you can see at the top of this page have been taken during some of these events. It’s great fun and a good way to experience some of the unique aspects of Cambridge life.
+Punting has a long tradition in Cambridge and is one of the highlights of what the town has to offer. In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the annual Punt Race, the outings to the Trinity and St John’s May Ball fireworks at night, and to see King‘s choir‘s singing on the river. We will also chauffeur you to some fancy formals, teach you about bats that live in the area around Grantchester, or just have an enjoyable time in summer on a trip to the Grantchester orchard. Many of the pictures you can see at the top of this section have been taken during some of these events. It’s great fun and a good way to experience some of the unique aspects of Cambridge life.
 </p><br>
 
 
