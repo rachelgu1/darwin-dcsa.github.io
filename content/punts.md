@@ -270,7 +270,7 @@ Make sure to pull up the rudder on the kayaks when they are out of the water to 
 <h5>Table of contents</h5>
 <ul>
 <li><a href="#bookings">Bookings</a></li>
-<li><a href="#joining-the-punt-club">Joining the Punt Club</a></li>
+<li><a href="#joining-the-punt-club">Joining the Punt Club/Renewing membership</a></li>
 <li><a href="#activities-and-events">Activities and Events</a></li>
 <li><a href="#first-outing">First outing - what you need to know</a></li>
 <li><a href="#terms-and-conditions">Terms and Conditions</a></li>
@@ -312,16 +312,16 @@ Chauffeured punt tour services with experienced student punt captains are availa
 </p><br>
 
 
-<h4 id="joining-the-punt-club">Joining the Punt Club</h4>
+<h4 id="joining-the-punt-club">Joining the Punt Club/Renewing membership</h4>
 
 <p align="justify">
-Current members of the college, including staff, and alumni can join the punt club for a non-refundable £30 fee. Membership is valid for the current season (March-November), or if purchased after Sept. 1st, until the end of the next year's season. No discounts or refunds will be given for members arriving mid-season, or leaving before the season ends. The membership entitles you to unlimited, free punting (for up to 3h a day) as well as access to all our punts and the other vessels.
+Current members of the college, including staff, and alumni can join the punt club for a non-refundable £30 fee. Membership is valid for the current season (March-November), or if purchased after Sept. 1st, until the end of the next year's season. No discounts or refunds will be given for members arriving mid-season, or leaving before the season ends. The membership entitles you to unlimited, free punting (for up to 3h a day) as well as access to all our punts and the other vessels. There is no subscription, so members need to signup here again every year to renew their membership.
 </p>
 
 <p align="justify">
 To know firsthand about many of the events the Punt Club is organizing throughout the year and important changes to the Terms & Conditions, we ask all members to sign up to our <a href="https://lists.cam.ac.uk/mailman/listinfo/soc-darwin-punt-club">Punt Club Mailing List</a>. This is a very low volume mailing list, with only occasional updates.</p><br>
 
-To join the Punt Club:
+To join the Punt Club or renew your membership:
 <ol>
 <li>Familiarize yourself with our <a href="#terms-and-conditions">Terms and Conditions</a> by reading through this website and read the <a href="{{site.baseurl | absolute_url}}/documents/PuntGuide.pdf">Guide to Punting</a></li>
 <li>Join the <a href="https://lists.cam.ac.uk/mailman/listinfo/soc-darwin-punt-club">mailing list</a></li>
