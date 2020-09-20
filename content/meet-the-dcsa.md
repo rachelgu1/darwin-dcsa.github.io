@@ -130,7 +130,7 @@ Michael is a third year PhD student in Medical Genomics; he is using computation
 The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website</a> if you’d like to learn more about the Darwin Punt Club.
         </p>
     </td></tr>
-    
+
 <tr>
     <td style="vertical-align: middle">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Communications.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Communications.jpg" alt="[Communications Officer's picture]" width="300px"/></a>
@@ -142,7 +142,7 @@ The Admiral of the Punts is responsible for all the vessels the punt club owns, 
         <p align="justify">
 James is a PhD student in the engineering department, where he is studying machine learning. When not doing research, or procrastinating, he likes to climb, row, run, and play board games.<br><br>
 
-The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="http://mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/whatsup">mailing list</a>! 
+The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="http://mail.dar.cam.ac.uk/cgi-bin/mailman/listinfo/whatsup">mailing list</a>!
         </p>
     </td></tr>
 
@@ -172,7 +172,7 @@ Aurelia is a final year PhD in Chemical Engineering, studying how metal-organic 
 In pre-pandemic times, the Ents Officers used to coordinate, organise, and promote the Darwin BOPs. They were responsible for the music, decorations, security, and finances. They also worked with the Events Officer to host other events throughout the year. Darwin BOPs were known for their vibrant atmosphere and original themes and they always had the most popular Cambridge bands performing. Sadly BOPs are not allowed in the foreseable future. They will now try their best to offer alternative entertainments. But rest assured, as soon as BOPs are allowed again, they will throw the best and biggest college parties which will have been worth the wait! Think live music, themes, drinks, djs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
         </p>
     </td></tr>
-    
+
 <tr>
     <td style="vertical-align: middle">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Environment-Ethics.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Environment-Ethics.jpg" alt="[Environment and Ethics Officer's picture]" width="300px"/></a>
@@ -213,7 +213,7 @@ The Events Officer coordinates, organises, and promotes social and entertainment
          Daniel KOTTMANN<br/>
         <p align="justify">
 Daniel is a PhD student in the Department of Medicine, using cell-based models to study the development of lung cancer and testing new treatments.<br><br>
- 
+
 The External Officer is responsible for organising formal swaps with other Colleges and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
         </p>
     </td></tr>
@@ -322,7 +322,7 @@ Darbar is the college bar and is totally run and staffed by Darwin students. The
         <p align="justify">
 Soizic is a PhD student in Education in the Centre for Play in Education, Development and Learning (PEDAL) and mum to a two-year-old.<br><br>
 
-The President of the Families Society is responsible for representing and furthering the needs of students with families - those with partners and/or children of all ages. They work to involve students with families in college events and organise events aimed at these students through the families society. They are elected by the Families Society rather than being elected by all students.
+The President of the Families Society is responsible for representing and furthering the needs of students with families - those with partners and/or children of all ages. They work to involve students with families in college events and organise events aimed at these students through the families society. They are elected by the Families Society rather than being elected by all students. See the <a href="{{site.baseurl | absolute_url}}/documents/booklet_families.pdf">families guide</a> for lots of useful information.
         </p>
     </td></tr>
 

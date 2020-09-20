@@ -391,6 +391,8 @@ events throughout the year as well as bigger events about once per term, to
 celebrate special occasions. Our most popular events are a Christmas (and
 Hanukkah) mulled wine and sing-along event held together with the Darwin
 choir, and the Easter egg hunt held in the College garden. In addition, the Families Society provides activities for children alongside the College-wide DCSA events, to ensure that all our College community feel welcome at all events wherever possible. The Society owns a number of toys and games for a range of different ages which members can access to help their children have a good time while at College. We encourage students with families and all students that want to be a part of this special community to join our society.
+
+See the <a href="{{site.baseurl | absolute_url}}/documents/booklet_families.pdf">families guide</a> for lots of useful information.
 <br><br>
 If you have any questions or want to get involved with this society, please get intouch with Soizic at dcsa_families@darwin.cam.ac.uk. We are currently
 recruiting for a new President!
@@ -579,7 +581,7 @@ of the Punts.
 <br><br>
 
 <strong>Contact:</strong> <br>
-James Macdonald, dcsa_punts AT darwin DOT cam DOT ac DOT uk<br>
+Michael Schneider, dcsa_punts AT darwin DOT cam DOT ac DOT uk<br>
 
 </details>
 
