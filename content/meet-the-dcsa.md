@@ -118,7 +118,7 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
 
 <tr>
     <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-BAME.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/BAME.jpg" alt="[BAME Officer's picture]" width="300px"/></a>
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-BAME.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-BAME.jpg" alt="[BAME Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
         <strong>BAME Officer</strong><br/>
