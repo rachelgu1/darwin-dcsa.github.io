@@ -115,6 +115,22 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
         </p>
     </td></tr>
 
+
+<tr>
+    <td style="vertical-align: middle">
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/BAME.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/BAME.jpg" alt="[BAME Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>BAME Officer</strong><br/>
+        dcsa_bame AT darwin.cam.ac.uk<br/>
+        Khaled EISSA<br/>
+        <p align="justify">
+Khaled a first year PhD student in Sociology. You will usually find him in the garden by the tree. Feel comfortable to approach him with any problems you may have, questions that arise, for a chat or just to say hi.<br><br>
+
+The BAME officer works with college to further the needs of BIPOC students, to create initiatives through which we can create a space that allows BIPOC students to reach their full potential, and better the everyday experience of life in Cambridge, as well as to figure out ways to deal with structural racism and increasing access for BIPOC.
+        </p>
+    </td></tr>
+
 <!-- Alphabetical -->
 <tr>
     <td style="vertical-align: middle">
