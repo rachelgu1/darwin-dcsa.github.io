@@ -565,7 +565,6 @@ Then follow instructions in your email.
 <strong>Contact:</strong> <br>
 Hugh Ramsden, hor20<br>
 Mauro Velasco, mv459<br>
-<a href="https://discord.gg/HnSwUFa?fbclid=IwAR2j0FCaZ8AQlSYGbfj5K4eoleDV9favqY722yEjqZmfFuwPgtY8L_2WPbg">Discord</a><br>
 </details>
 
 
