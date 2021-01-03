@@ -91,12 +91,12 @@ The Welfare Officers are the student contact for students who are in need of hel
     <td style="vertical-align: middle">
         <strong>Women's Officer</strong><br/>
         dcsa_women AT darwin.cam.ac.uk<br/>
-        Meg MAJUMDER<br/>
+        Anna PARKER<br/>
         <br/>
         <p align="justify">
-Meg is a first-year PhD student in Primary Care Medicine. She is pursuing graduate studies in medicine, palliative care, and ethics at the University of Cambridge and Harvard to explore issues at the intersection of neurodegenerative disease (dementia), elderly institutions, and the pressing ethical / pharmaceutical issues that arise at the end of life.<br><br>
+Anna is studying an MPhil in Education (Knowledge, Power and Politics). She is particularly interested in intergenerational healing promoted by post-war multilateral youth peace education programs, and gender equality in the Japanese context. Having worked as an educator for nearly five years, including teaching secondary school gender equality studies, Anna is excited to be putting her enthusiasm for this field into practice as Darwin’s 2020-21 Women’s Officer.<br><br>
 
-The Women's Officer is responsible for representing and furthering the needs of students who identify as women and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
+The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
     </td></tr>
 
@@ -107,11 +107,11 @@ The Women's Officer is responsible for representing and furthering the needs of 
     <td style="vertical-align: middle">
         <strong>Q+ Officer</strong><br/>
         dcsa_lgbtq AT darwin.cam.ac.uk<br/>
-        Arthur DAVIS<br/>
+        Sarah CARLO<br/>
         <p align="justify">
-Arthur is an MPhil student at the Centre for Gender Studies, where they are studying the effect of epidemiological methods on the identity formation and sexual wellbeing of migrant populations. When they are not studying, Arthur will most likely be found in DarBar or lounging in the college gardens.<br><br>
+Sarah is a PhD student at the Institute of Criminology, where she is studying Queer Intimate Partner Violence, specifically the role of morality within decision making. Outside of her studies, Sarah’s favorite lockdown activity is playing video games and is often found with a pint in hand at the pub (socially distanced, of course).
 
-The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Arthur is always there to chat, advise and help out where possible. Arthur looks forward to seeing lots of fresh new faces at the Michaelmas LGBTQ+ mixer!
+The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Sarah is always there to chat, advise and help out where possible.
         </p>
     </td></tr>
 
@@ -241,11 +241,11 @@ The External Officer is responsible for organising formal swaps with other Colle
     <td style="vertical-align: middle">
         <strong>International Officer</strong><br/>
          dcsa_international AT darwin.cam.ac.uk<br/>
-         Narendra MEENA<br/>
+         Maya PATEL<br/>
         <p align="justify">
-Naru is a first-year student Ph.D. in genetics student. He is trained in computer science and mathematics and currently working on predicting regulatory regions in the human genome using machine learning algorithms. As an Internation student, he went through most of the challenges an internation student has to face i.e new language, new culture etc. He found that engaging yourself in college life was the best way to find himself. If you come across any problem please email him. He will try his best to solve your issues.<br><br>
+Maya is an MPhil student at the Faculty of Education studying the impacts of bi-lingualism on executive functioning. She was keen to join the DCSA as an International Officer because she has lived in 4 different countries (India, the US, Italy and the UK) over the past few years and also speaks multiple languages. As an International Officer, Maya hopes to bring Darwin’s dynamic student body even closer together through events and engagement. Maya is an extremely outgoing person and loves meeting people from around the world. She also sits on the welfare committee and wants to address the mental health concerns of international students. Please feel free to contact her via email.<br><br>
 
-The International Officer is responsible for representing and furthering the needs of international students while also providing welfare support tailored to international students’ issues. They work to involve international students in college events and organise events aimed at international students.
+The International Officer is responsible for representing the needs of international students (e.g. internal collegiate administrative matters - such as testing for international students), providing welfare support and organising events for fellow Darwinians which highlight cultural diversity. They also serve as a chair on the international crisis committee wherein international students speak about pertinent world affairs (e.g. political conflicts within their home countries).
         </p>
     </td></tr>
 
@@ -269,9 +269,9 @@ Dan is a second-year PhD student in Biological Sciences at the Department for Ve
     </td>
     <td style="vertical-align: middle">
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Trevor COUSINS<br/>
+         Poppy OLDROYD<br/>
         <p align="justify">
-Trevor is a first-year PhD student in the genetics department, where he studies Mathematical Genomics and Medicine. When not studying, he enjoys running, swimming, cycling and playing guitar or piano.<br><br>
+Poppy is a first-year PhD student in bioelectronics; she is developing flexible microelectrode arrays for brain stimulation. Aside from academics, she enjoys running, cooking, and reading. If you have any questions she is always up for a chat/run/coffee break and can often be found in the Darwin gym or gardens.<br><br>
 
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May.
         </p>
@@ -303,9 +303,9 @@ Daniel is a first-year PhD student in computer science where he researches syste
     </td>
     <td style="vertical-align: middle">
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Isabel ESAIN<br/>
+        Jacob MOSS<br/>
         <p align="justify">
-Isabel is a second-year PhD student in the Department of Chemistry and in collaboration with the Cancer Research UK Institute researching DNA secondary structure in mammalian systems by performing targeted epigenome engineering.<br><br>
+Jacob is a first year PhD student at the Computer Lab where he researches machine learning applied to pharmacological problems.<br><br>
 
 The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May.
         </p>
