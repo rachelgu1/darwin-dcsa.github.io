@@ -40,6 +40,7 @@ Darwin College Badminton Club welcomes players of all standards, from complete b
 <strong>Contact:</strong> <br>
 President: Bernard Cho, phc37<br>
 Treasurer: Zixuan Tangzt, 235<br>
+<a href="https://www.facebook.com/groups/214620622041034">Facebook</a><br>
 </details>
 
 
@@ -172,6 +173,7 @@ We welcome everyone regardless of playing ability; whether you are a seasoned ve
 <strong>Contact:</strong> <br>
 Stuart Macpherson, sm2275<br>
 Christopher Bower, cab237<br>
+<a href="https://www.facebook.com/groups/2207171229528340">Facebook</a><br>
 </details>
 
 
@@ -252,6 +254,7 @@ Calling current and former rugby players, rugby enthusiasts and curious sportspe
 
 <strong>Contact:</strong> <br>
 Joshua Maynard, jmm244<br>
+<a href="https://www.facebook.com/groups/HERUFC">Facebook</a><br>
 </details>
 
 
@@ -334,6 +337,7 @@ STRONG classes combine a killer bodyweight bootcamp workout with party vibes and
 
 <strong>Contact:</strong> <br>
 Chiara Toschi, ct452<br>
+<a href="https://www.facebook.com/groups/668594220570298/">Facebook</a><br>
 </details>
 
 
@@ -382,6 +386,7 @@ Darwin college choir is a non-auditioned SATB choir made up of graduate students
 
 <strong>Contact:</strong> <br>
 Felicity Hey, fh333<br>
+<a href="https://www.facebook.com/groups/356542008139944">Facebook</a><br>
 </details>
 
 
@@ -491,6 +496,7 @@ Interested? Get in touch with the DCSA Environmental & Ethical Affairs officer.
 <strong>Contact:</strong><br>
 Conor Cooper<br>
 dcsa_green AT darwin DOT cam DOT ac DOT uk<br>
+<a href="https://www.facebook.com/greendarwincollege">Facebook</a>
 </details>
 
 
@@ -514,7 +520,7 @@ For more information, get in touch with the DCSA's LGBTQ+ Officer or join our pr
 <strong>Contact:</strong> <br>
 Arthur Davis<br>
 dcsa_lgbtq AT darwin DOT cam DOT ac DOT uk<br>
-<a href="https://www.facebook.com/groups/793413014059863/">Facebook</a><br>
+<a href="https://www.facebook.com/groups/116269439083460">Facebook</a><br>
 </details>
 
 
@@ -536,6 +542,7 @@ Mind Matters is looking for a President and a Treasurer. If you are interested, 
 
 <strong>Contact:</strong> <br>
 Giulia Barsuola, gb560<br>
+<a href="https://www.facebook.com/mindmattersdarwin">Facebook</a><br>
 </details>
 
 
