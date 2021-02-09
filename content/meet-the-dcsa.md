@@ -174,7 +174,8 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
 Louise is studying for an MPhil in Pathology, working on the Malaria parasite and investigating a new potential drug target.<br><br>
 
         </p>
-    </td></tr>
+    </td>
+</tr>
 <tr>
     <td style="vertical-align: middle">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-II.jpg" alt="[Ents Officer's II picture]" width="300px"/></a>
@@ -196,11 +197,11 @@ In pre-pandemic times, the Ents Officers used to coordinate, organise, and promo
     <td style="vertical-align: middle">
         <strong>Environmental and Ethical Affairs Officer</strong><br/>
          dcsa_green AT darwin.cam.ac.uk<br/>
-         Conor COOPER<br/>
+         Megan GROOM<br/>
         <p align="justify">
-Conor is an MPhil student in Conservation Science, studying how the conservation community can become more effective innovators to tackle the complex and daunting environmental challenges we face in the 21st century.<br><br>
+Meg is in her first year of a PhD in Physics, investigating chemical sensing techniques using optical fibres. She is passionate about climate and environmental justice and ending fast fashion. You'll often find her enjoying a coffee in the Darwin garden – come say hi!<br><br>
 
-The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. They oversee the Gardening Society and sit on the Buildings & Grounds and Meals committees.
+The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. Please feel free to get in touch and share an issue that you feel passionate about, so that Meg can support you in sharing it with the Darwin community. They oversee the Gardening Society and sit on the Buildings & Grounds, Meals and International Crisis committees.
         </p>
     </td></tr>
 
