@@ -169,9 +169,9 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Louise DE THOMASSON<br/>
+        Aurelia LI<br/>
         <p align="justify">
-Louise is studying for an MPhil in Pathology, working on the Malaria parasite and investigating a new potential drug target.<br><br>
+Aurelia is a final year PhD in Chemical Engineering, studying how metal-organic frameworks can be used for gas adsorption applications.<br><br>
 
         </p>
     </td>
@@ -182,9 +182,9 @@ Louise is studying for an MPhil in Pathology, working on the Malaria parasite an
     </td>
     <td style="vertical-align: middle">
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Aurelia LI<br/>
+        Melanie O'SULLIVAN<br/>
         <p align="justify">
-Aurelia is a final year PhD in Chemical Engineering, studying how metal-organic frameworks can be used for gas adsorption applications.<br><br>
+Melanie is an MBA at the Judge Business School. She comes from a Media and Entertainment background, making films and TV series. She loves wine and cheese tasting and will talk to anyone about it at length!<br><br>
 
 In pre-pandemic times, the Ents Officers used to coordinate, organise, and promote the Darwin BOPs. They were responsible for the music, decorations, security, and finances. They also worked with the Events Officer to host other events throughout the year. Darwin BOPs were known for their vibrant atmosphere and original themes and they always had the most popular Cambridge bands performing. Sadly BOPs are not allowed in the foreseable future. They will now try their best to offer alternative entertainments. But rest assured, as soon as BOPs are allowed again, they will throw the best and biggest college parties which will have been worth the wait! Think live music, themes, drinks, djs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
         </p>
@@ -227,11 +227,11 @@ The Events Officer coordinates, organises, and promotes social and entertainment
     <td style="vertical-align: middle">
         <strong>External Officer</strong><br/>
          dcsa_external AT darwin.cam.ac.uk<br/>
-         Daniel KOTTMANN<br/>
+         Christopher DAVIS<br/>
         <p align="justify">
-Daniel is a PhD student in the Department of Medicine, using cell-based models to study the development of lung cancer and testing new treatments.<br><br>
+Christopher is a PhD student in the Department of Plant Sciences, researching the conservation and evolutionary genetics of an endangered species of flower growing on the mountaintops of Armenia.<br><br>
 
-The External Officer is responsible for organising formal swaps with other Colleges and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
+The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
         </p>
     </td></tr>
 
