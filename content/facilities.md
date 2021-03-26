@@ -341,7 +341,7 @@ To join the Punt Club or renew your membership:
 <!-- <li>For Raven account holders/ if you have a CRSID:<br> -->
 <!-- NOTE, signup is closed for the 2019/2020 season. Please DO NOT SIGNUP unless directed to do so by the Admiral of the -->
 <!-- Punts. We will open the signup again early next year!</li> -->
-Important, make sure to complete the form all the way and <b>press the submit button at the end</b>. Without submitting the form, you are not in the data base and we don't have a record of your signup!
+Important, make sure to complete the form all the way and press the submit button at the end. Without submitting the form, you are not in the data base and we don't have a record of your signup!
 Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLSdROMaTJCwffXdOCvyxVIoTKCjjyYmpyPpQnmP2P2S8cxlXIg/viewform?usp=sf_link">the online registration form</a></li>
 
 <li>For anyone without a Raven account/ CRSID:<br>
