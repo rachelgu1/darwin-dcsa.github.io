@@ -310,7 +310,7 @@ all vessels must be returned and moored before sunset.
 <strong>For longer trips to Grantchester, if multiple punts are required or other non-standard bookings please contact the Admiral of the Punts.
 </strong></p>
 
-<a href="http://dcsa.dar.cam.ac.uk/booked/Web">Link to the online booking system</a>
+<a href="https://booking.dar.cam.ac.uk/Web/view-schedule.php?sid=4">Link to the online booking system</a>
 
 
 <h5>For alumni without a raven log in</h5>
