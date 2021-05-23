@@ -219,7 +219,7 @@ We have a set of additional rules to account for the requirements of social dist
 </p><br>
 
 <p align="justify">
-The Darwin College Punt and Kayak Club own five punts, five kayaks, a canoe, and two paddle boards. The five punts, Isabela, Velociraptor, The Beagle, Master Brown, and Iguana, are moored on the part of the river that runs through the college grounds. Punting equipment, the kayaks, canoe, and the paddle boards are stored in the punt house next to the Old Granary. For any queries, please review the information on this website and then email the Admiral of the Punts at
+The Darwin College Punt and Kayak Club own five punts, six kayaks, a canoe, and three paddle boards. The five punts, Isabela, Velociraptor, The Beagle, Master Brown, and Iguana, are moored on the part of the river that runs through the college grounds. Punting equipment, the kayaks, canoe, and the paddle boards are stored in the punt house next to the Old Granary. For any queries, please review the information on this website and then email the Admiral of the Punts at
 dcsa_punts AT darwin.cam.ac.uk
 </p>
 
@@ -310,7 +310,7 @@ all vessels must be returned and moored before sunset.
 <strong>For longer trips to Grantchester, if multiple punts are required or other non-standard bookings please contact the Admiral of the Punts.
 </strong></p>
 
-<a href="http://dcsa.dar.cam.ac.uk/booked/Web">Link to the online booking system</a>
+<a href="https://booking.dar.cam.ac.uk/Web/view-schedule.php?sid=4">Link to the online booking system</a>
 
 
 <h5>For alumni without a raven log in</h5>
@@ -341,7 +341,9 @@ To join the Punt Club or renew your membership:
 <!-- <li>For Raven account holders/ if you have a CRSID:<br> -->
 <!-- NOTE, signup is closed for the 2019/2020 season. Please DO NOT SIGNUP unless directed to do so by the Admiral of the -->
 <!-- Punts. We will open the signup again early next year!</li> -->
-Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLSdROMaTJCwffXdOCvyxVIoTKCjjyYmpyPpQnmP2P2S8cxlXIg/viewform?usp=sf_link">the online registration form</a></li>
+Important, make sure to complete the form all the way and press the submit button at the end. Without submitting the form, you are not in the data base and we don't have a record of your signup!
+Note that you don't need to have a PayPal account in order to pay for the membership. You can pay on the PayPal portal with a debit card, using the Checkout as Guest button.
+Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLSdROMaTJCwffXdOCvyxVIoTKCjjyYmpyPpQnmP2P2S8cxlXIg/viewform?usp=sf_link">the online registration form</a></ul></li>
 
 <li>For anyone without a Raven account/ CRSID:<br>
 Contact the Admiral of the Punts (include your full name, email, and your relationship to the college), please put the Darwin Alumni Relations Office in cc (alumni.relations@darwin.cam.ac.uk).

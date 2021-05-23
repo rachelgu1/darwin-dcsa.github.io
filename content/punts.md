@@ -3,10 +3,11 @@ permalink: /punts/
 image_sliders:
   - puntshow
 ---
-<!-- NOTE this is a dirty hack to make the /punts/ link expanded and viewable at the /punts/ link, by simply setting
-the details option open in this case for the punts section - unfortunately there is no other easy way to do this
-for these sections. I promise this is only case where I have done that -> see info-punts.txt -->
-<!-- <details open> -->
+
+--<!-- NOTE this is a dirty hack to make the /punts/ link expanded and viewable at the /punts/ link, by simply setting
+--the details option open in this case for the punts section - unfortunately there is no other easy way to do this
+--for these sections. I promise this is only case where I have done that -> see info-punts.txt -->
+--<!-- <details open> -->
 
 # Facilities
 
@@ -123,24 +124,39 @@ parts of Darwin College student life or if you have any questions about the bar,
 
 <h3>Gym</h3>
 <p align="justify">
-Darwin offers access to a fitness room for primary or associated members of the college. The membership is free and allows you to use the gym at any time. In order to gain access to the gym for the first time you will be required to attend a gym induction, which will typically be offered during freshers’ week or can be individually arranged with your Sports & Societies officers (dcsa_sports AT darwin.ac.uk) throughout the year. This induction is important to familiarise yourself with the rules, ask any questions you might have, sign the health and safety form and finally activate your student card for access to the gym. Please respect the following rules and guidelines:
+Darwin offers access to a fitness room for primary or associated members of the college. The membership is free and allows you to use the gym at any time. In order to gain access to the gym for the first time you will be required to attend a gym induction, which will typically be offered online during freshers’ week or can be individually arranged with your Sports & Societies officers (dcsa_sports AT darwin.ac.uk) throughout the year. This induction is important to familiarise yourself with the rules, ask any questions you might have, sign the conditions of use form and finally activate your student card for access to the gym. Please respect the following rules and guidelines:
 </p>
 
-<strong>RULES</strong><br>
-<p align="justify">
-The maximum capacity of the gym s 5 people. Enter the CRSIDs of all users for booking.
-If the ergs are in use, no more than two people may be doing weights.
-The squat rack and ergs must not be used at the same time.
-</p>
+<strong>COVID Safety Measures</strong><br>
+<ul>
+  <li>The gym has a <strong>maximum capacity of 4 people</strong> (2 weights, 2 cardio) to allow for social distancing.</li>
+  <li>To prevent overcrowding and to comply with track-and-trace you will only be allowed to enter during your<strong> booked slot</strong>. If you do not intent to show up to your booked time, please delete your booking.</li>
+  <li>If you show any <strong>coronavirus symptoms</strong> (high temperature; new, continuous cough; loss or change to your sense of smell or taste) <strong>or feel unwell</strong>, do not book a slot and cancel all pre-existing bookings.</li>
+  <li><strong>Sanitise your hands </strong>with the hand sanitiser provided next to the door when you enter.</li>
+  <li><strong>Open the windows</strong> upon entry to allow for ventilation during your workout. Make sure to sanitise your hands before and after operating the windows.</li>
+  <li><strong>Try not to touch your face</strong> during your visit. Paper towels are provided in case you need but please bin these immediately and sanitise your hands.</li>
+  <li>Please try to <strong>stay in the marked area</strong> for weight training or cardio during your visit.</li>
+  <li><strong>Do not wander around the gym </strong>while resting and keep conversations to a minimum. Try not to touch anything that you do not intend to use for exercise purposes.</li>
+  <li><strong>Wipe down all equipment</strong> you are using with the sanitiser spray in your area. Please do so before and after your workout. Dispose of the paper towels immediately.</li>
+  <li>Due to social distancing guidelines you will not be able to work out together or have a spotter. <strong>Do not use heavy weights</strong> unless you are comfortable to do so and<strong> always use the safety spotter bars</strong> in the power rack. Unfortunately, we cannot allow coached sessions.</li>
+  <li>Please <strong>leave the gym when your time is over</strong> and make sure everything is clean. Check if the outer window is properly locked before you leave.</li>
+ </ul>
+ 
 
-<strong>GUIDELINES</strong><br>
-<p align="justify">
-Please be considerate of sudden noises while others are using the gym.
-Walk-in sessions are allowed, but priority is given to those who book in advance.
-Please use spotters when lifting weights.
-</p>
-
-To book the gym please click <a href="https://docs.google.com/spreadsheets/d/1NftBMsqIXKTlc1neZrH6iAORzW65I7wwCAvXaxAbagU/edit?usp=sharing">here</a>.
+<strong>General Rules</strong><br>
+<ul>
+  <li>You will need to <strong>complete an induction</strong> with the Sports & Societies Officers and sign the conditions-of-use form before you will be given access to the gym.</li>
+  <li><strong>Do not play loud music during office hours</strong>. Please try to use headphones or keep the volume to a minimum.</li>
+  <li><strong>Do not drop your weights</strong> during a workout unless you need to. Try to lower weight gently onto the floor to prevent damage to the equipment, floor, and you.</li>
+  <li>Please<strong> try not to cause sudden noise</strong> while other people are present in the gym.</li>
+  <li><strong>Return all used equipment to the designated area</strong>. If you see something out of place, please return it so we can keep the gym in order.</li>
+  <li>Some rowing machines belong to the Darwin College Boat Club. Unless you had a separate induction, <strong>use the general Darwin College cardio equipment</strong>.</li>
+  <li>If you see any damaged or broken equipment, immediately stop using it and inform the Porters and Sports & Societies Officers.</li>
+  <li>If at any time during your workout you feel unwell, please inform anyone who might be present in the gym and report to the Porters.</li>
+</ul>
+Please be considerate, leave the gym if housekeeping wants to enter the gym for cleaning purposes and respect social distancing. There will be routine checks of the gym. If you are caught breaking any of the above-mentioned rules your access might be removed. 
+<br><br>
+To book the gym please click <a href="http://dcsa.dar.cam.ac.uk/booked/Web/schedule.php?sid=7">here</a>.
 <br>
 
 </details>
@@ -208,7 +224,7 @@ We have a set of additional rules to account for the requirements of social dist
 </p><br>
 
 <p align="justify">
-The Darwin College Punt and Kayak Club own five punts, five kayaks, a canoe, and two paddle boards. The five punts, Isabela, Velociraptor, The Beagle, Master Brown, and Iguana, are moored on the part of the river that runs through the college grounds. Punting equipment, the kayaks, canoe, and the paddle boards are stored in the punt house next to the Old Granary. For any queries, please review the information on this website and then email the Admiral of the Punts at
+The Darwin College Punt and Kayak Club own five punts, six kayaks, a canoe, and three paddle boards. The five punts, Isabela, Velociraptor, The Beagle, Master Brown, and Iguana, are moored on the part of the river that runs through the college grounds. Punting equipment, the kayaks, canoe, and the paddle boards are stored in the punt house next to the Old Granary. For any queries, please review the information on this website and then email the Admiral of the Punts at
 dcsa_punts AT darwin.cam.ac.uk
 </p>
 
@@ -299,7 +315,7 @@ all vessels must be returned and moored before sunset.
 <strong>For longer trips to Grantchester, if multiple punts are required or other non-standard bookings please contact the Admiral of the Punts.
 </strong></p>
 
-<a href="http://dcsa.dar.cam.ac.uk/booked/Web">Link to the online booking system</a>
+<a href="https://booking.dar.cam.ac.uk/Web/view-schedule.php?sid=4">Link to the online booking system</a>
 
 
 <h5>For alumni without a raven log in</h5>
@@ -327,10 +343,12 @@ To join the Punt Club or renew your membership:
 <li>Join the <a href="https://lists.cam.ac.uk/mailman/listinfo/soc-darwin-punt-club">mailing list</a></li>
 <li>Sign up
 <ul>
-<li>For Raven account holders/ if you have a CRSID:<br>
+<!-- <li>For Raven account holders/ if you have a CRSID:<br> -->
 <!-- NOTE, signup is closed for the 2019/2020 season. Please DO NOT SIGNUP unless directed to do so by the Admiral of the -->
-<!-- Punts. We will open the signup again early next the year!</li> -->
-Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLSdROMaTJCwffXdOCvyxVIoTKCjjyYmpyPpQnmP2P2S8cxlXIg/viewform?usp=sf_link">the online registration form</a></li>
+<!-- Punts. We will open the signup again early next year!</li> -->
+Important, make sure to complete the form all the way and press the submit button at the end. Without submitting the form, you are not in the data base and we don't have a record of your signup!
+Note that you don't need to have a PayPal account in order to pay for the membership. You can pay on the PayPal portal with a debit card, using the Checkout as Guest button.
+Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLSdROMaTJCwffXdOCvyxVIoTKCjjyYmpyPpQnmP2P2S8cxlXIg/viewform?usp=sf_link">the online registration form</a></ul></li>
 
 <li>For anyone without a Raven account/ CRSID:<br>
 Contact the Admiral of the Punts (include your full name, email, and your relationship to the college), please put the Darwin Alumni Relations Office in cc (alumni.relations@darwin.cam.ac.uk).
