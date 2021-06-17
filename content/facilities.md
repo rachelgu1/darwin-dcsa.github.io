@@ -80,7 +80,7 @@ University Department or Society (booked through a Darwinian): £45<br>
 Corporate Private Use (booked through a Darwinian): £90<br><br>
 
 If you are ready to book, click on the link below, select a free time slot, click on "Add," select the Barbeque, click "Done" and then "Create."
-<a href="http://dcsa.dar.cam.ac.uk/booked/Web/schedule.php?sid=3)">Here is the link</a> to accept these terms and conditions and book.
+<a href="https://cam.us19.list-manage.com/track/click?u=80a9982e04434f03e6aaaf8e6&id=f6d404b980&e=3f518eac8f">Here is the link</a> to accept these terms and conditions and book.
 
 </details>
 
