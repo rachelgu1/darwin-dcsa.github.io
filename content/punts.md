@@ -4,10 +4,11 @@ image_sliders:
   - puntshow
 ---
 
---<!-- NOTE this is a dirty hack to make the /punts/ link expanded and viewable at the /punts/ link, by simply setting
---the details option open in this case for the punts section - unfortunately there is no other easy way to do this
---for these sections. I promise this is only case where I have done that -> see info-punts.txt -->
---<!-- <details open> -->
+<!-- NOTE this is a dirty hack to make the /punts/ link expanded and viewable at the /punts/ link, by simply setting
+---the details option open in this case for the punts section - unfortunately there is no other easy way to do this
+---for these sections. I promise this is only case where I have done that -> see info-punts.txt -->
+<!-- <details open> -->
+
 
 # Facilities
 
@@ -85,7 +86,7 @@ University Department or Society (booked through a Darwinian): £45<br>
 Corporate Private Use (booked through a Darwinian): £90<br><br>
 
 If you are ready to book, click on the link below, select a free time slot, click on "Add," select the Barbeque, click "Done" and then "Create."
-<a href="http://dcsa.dar.cam.ac.uk/booked/Web/schedule.php?sid=3)">Here is the link</a> to accept these terms and conditions and book.
+<a href="https://cam.us19.list-manage.com/track/click?u=80a9982e04434f03e6aaaf8e6&id=f6d404b980&e=3f518eac8f">Here is the link</a> to accept these terms and conditions and book.
 
 </details>
 
@@ -171,7 +172,7 @@ To book the gym please click <a href="http://dcsa.dar.cam.ac.uk/booked/Web/sched
 The music society owns a wide range of equipment available for use by any Darwinian. These are stored in the Darwin College Bar Cellar. In there we have a drum kit, PA system, amps, a guitar, a bass, music stands - all sorts of goodies that we want you to make use of. If you think we’re missing something, we have money to buy stuff too!</p>
 
 <p align="justify">
-The college also has the Common Room for use as a rehearsal space. We have a blanket booking on Sundays, 12-7pm. If you would like to reserve a time-slot, get in touch with the committee, or come to a Jam (Weds 7-9pm).</p>
+The college also has the Bar Area for use as a rehearsal space. If you would like to reserve a time-slot, this can be done so <a href="https://booking.dar.cam.ac.uk/Web/schedule.php?sid=2">here</a>. For reasons of safety, individual access to the cellar is not permitted, instead bring a friend! Please note that bookings should be made outside of bar opening times. Any questions, please get in touch with the DCMS committee.</p>
 
 <p align="justify">
 Finally we have 4 different pianos throughout the college. Please refer to the table below for info on where to find them and how/if to book. (Note: Keys for the rooms may be obtained from the Porters’ Lodge and must be returned before 11.30pm.)
@@ -184,19 +185,19 @@ Finally we have 4 different pianos throughout the college. Please refer to the t
     <th>Bookable</th>
   </tr>
   <tr>
-    <td>TV room</td>
+    <td>Old Library</td>
     <td>Upright</td>
-    <td>Yes, <a href="http://dcsa.dar.cam.ac.uk/booked/Web/schedule.php?sid=2">here</a></td>
+    <td>Not currently usable.</td>
   </tr>
   <tr>
     <td>Dining Hall</td>
     <td>Grand</td>
-    <td>Yes via domestic.bursars.secretary@darwin.cam.ac.uk</td>
+    <td>Yes via events AT darwin.cam.ac.uk</td>
   </tr>
   <tr>
-    <td>Old library</td>
+    <td>Bradfield Room</td>
     <td>Electric (with headphones)</td>
-    <td>Yes via domestic.bursars.secretary@darwin.cam.ac.uk</td>
+    <td>Yes via domestic.bursars.secretary AT darwin.cam.ac.uk</td>
   </tr>
   <tr>
     <td>Common room</td>
@@ -205,10 +206,10 @@ Finally we have 4 different pianos throughout the college. Please refer to the t
   </tr>
 </table>
 
-Music soc committee 2019-2020:<br>
-Will Tebbutt (President): wct23 AT cam.ac.uk<br>
-Hugh Ramsden (Treasurer): hor20 AT cam.ac.uk<br>
-Felicity Hey (Choir): fh333 AT cam.ac.uk<br>
+Music soc committee 2020-2021:<br>
+Huge Ramsden (President): hor20 AT cam.ac.uk<br>
+Nikos Patikas (Treasurer): np504 AT cam.ac.uk<br>
+Ash Masing (Choir): alm205 AT cam.ac.uk<br>
 
 </details>
 
