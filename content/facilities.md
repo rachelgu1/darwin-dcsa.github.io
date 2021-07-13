@@ -90,7 +90,7 @@ Darwin offers access to a fitness room for primary or associated members of the 
 </ul>
 Please be considerate, leave the gym if housekeeping wants to enter the gym for cleaning purposes and respect social distancing. There will be routine checks of the gym. If you are caught breaking any of the above-mentioned rules your access might be removed. 
 <br><br>
-To book the gym please click <a href="http://dcsa.dar.cam.ac.uk/booked/Web/schedule.php?sid=7">here</a>.
+To book the gym please click <a href="https://booking.dar.cam.ac.uk/Web/schedule.php?sid=7">here</a>.
 <br>
 
 </details>
