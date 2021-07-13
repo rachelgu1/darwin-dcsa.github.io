@@ -290,7 +290,7 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
     <td style="vertical-align: middle">
         <strong>College Council Representatives</strong><br/>
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Ivan SHLAMOVITZ<br/>
+        Iván SHLAMOVITZ<br/>
         <p align="justify">
 Iván is a first-year PhD student in Molecular Biology at the LMB, studying transcription. He has a deep addiction to mate, science policy, dipping in the Cam and all things Boca Juniors.
 <br><br>
