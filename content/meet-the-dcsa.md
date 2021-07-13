@@ -169,7 +169,7 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Aurelia LI<br/>
+        Jordan LEE<br/>
         <p align="justify">
 Jordan is a first year PhD student at the Department of Medicine researching heart attack and stroke.<br><br>
 
