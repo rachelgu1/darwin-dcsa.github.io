@@ -171,7 +171,7 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
         dcsa_ents AT darwin.cam.ac.uk<br/>
         Aurelia LI<br/>
         <p align="justify">
-Aurelia is a final year PhD in Chemical Engineering, studying how metal-organic frameworks can be used for gas adsorption applications.<br><br>
+Jordan is a first year PhD student at the Department of Medicine researching heart attack and stroke.<br><br>
 
         </p>
     </td>
