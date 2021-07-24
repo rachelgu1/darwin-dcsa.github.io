@@ -69,7 +69,7 @@ The local sexual health clinic, providing confidential support, advice and treat
 
 ### Safety and sexual assault
 
-It is very important that the College is safe for all members. Darwin college and Cambridge University have a [zero tolerance policy on sexual misconduct](https://www.cam.ac.uk/news/university-of-cambridge-launches-campaign-to-promote-zero-tolerance-of-sexual-misconduct). Darwin college procedure for handling cases of harassment and sexual misconduct are outline [here](https://www.darwin.cam.ac.uk/sites/default/files/Darwin%20College%20Harassment%20and%20Sexual%20Misconduct%20Guidelines%20and%20Procedures.pdf)
+It is very important that the College is safe for all members. Darwin college and Cambridge University have a [zero tolerance policy on sexual misconduct](https://www.cam.ac.uk/news/university-of-cambridge-launches-campaign-to-promote-zero-tolerance-of-sexual-misconduct). Darwin college procedure for handling cases of harassment and sexual misconduct are outline [here](https://drive.google.com/file/d/1h1PLJnUWo_-9TSWCqsHGFGdX55l0Hv6V/view?usp=sharing)
 
 #### Misconduct and harassment
 
