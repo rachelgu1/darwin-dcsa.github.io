@@ -15,8 +15,8 @@ The welfare committee is a student group helping improve student wellbeing and o
 
 - Support within Darwin:
   - [Counselling service](https://www.darwin.cam.ac.uk/info-book/darwin-college-based-counselling-service)
-  - [College Website](https://www.darwin.cam.ac.uk/current-members#) Look under 'Welfare & Support'.
-  - [College Information Booklet](https://www.darwin.cam.ac.uk/info-book) Look under 'Healthcare, first aid & wellbeing'.
+  - [College Website](https://www.darwin.cam.ac.uk/current-members#) (Look under 'Welfare & Support')
+  - [College Information Booklet](https://www.darwin.cam.ac.uk/info-book) (Look under 'Healthcare, first aid & wellbeing')
 - Support within the University:
   - [Students’ Unions’ Advice Service (SUAS, CUSU and GU)](https://www.studentadvice.cam.ac.uk/)
   - [The University Counselling Service (UCS)](https://www.counselling.cam.ac.uk/)
