@@ -123,9 +123,9 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
     <td style="vertical-align: middle">
         <strong>BAME Officer</strong><br/>
         dcsa_bame AT darwin.cam.ac.uk<br/>
-        Khaled EISSA<br/>
+        You?<br/>
         <p align="justify">
-Khaled a first year PhD student in Sociology. You will usually find him in the garden by the tree. Feel comfortable to approach him with any problems you may have, questions that arise, for a chat or just to say hi.<br><br>
+<br><br>
 
 The BAME officer works with college to further the needs of BIPOC students, to create initiatives through which we can create a space that allows BIPOC students to reach their full potential, and better the everyday experience of life in Cambridge, as well as to figure out ways to deal with structural racism and increasing access for BIPOC.
         </p>
@@ -336,9 +336,9 @@ Darbar is the college bar and is totally run and staffed by Darwin students. The
     <td style="vertical-align: middle">
         <strong>President of the Families Society</strong><br/>
         dcsa_families AT darwin.cam.ac.uk<br/>
-        Soizic LE COURTOIS<br/>
+        You?<br/>
         <p align="justify">
-Soizic is a PhD student in Education in the Centre for Play in Education, Development and Learning (PEDAL) and mum to a two-year-old.<br><br>
+<br><br>
 
 The President of the Families Society is responsible for representing and furthering the needs of students with families - those with partners and/or children of all ages. They work to involve students with families in college events and organise events aimed at these students through the families society. They are elected by the Families Society rather than being elected by all students. See the <a href="{{site.baseurl | absolute_url}}/documents/booklet_families.pdf">families guide</a> for lots of useful information.
         </p>
