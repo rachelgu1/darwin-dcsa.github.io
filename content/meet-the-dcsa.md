@@ -62,9 +62,9 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
         <strong>Welfare Officers</strong><br/>
         dcsa_welfare AT darwin.cam.ac.uk<br/>
         <!--dcsa_womens_welfare AT darwin.cam.ac.uk<br/>-->
-        Stefanie FELSBERGER<br/>
+        Elena GOMEZ-GARCIA<br/>
         <p align="justify">
-Stef is a second-year PhD student in Gender Studies studying fertility apps and surveillance. She enjoys cats, kayaks, puns, and teas.<br><br>
+Elena is a first year PhD student in Biology, studying Embryonic Development. She likes singing, being under the sun and looking at fish in the sea. She is passionate about the importance of normalizing Mental Health issues, so feel free to ask her about her recovery from an eating disorder and share (or not, that’s also fine!) your own struggles.<br><br>
 
        </p>
     </td></tr>
