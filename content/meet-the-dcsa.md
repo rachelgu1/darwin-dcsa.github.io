@@ -320,9 +320,10 @@ The College Council Reps are elected by the students to represent them in Colleg
     <td style="vertical-align: middle">
         <strong>Bar Committee Chair</strong><br/>
         dcsa_bar AT darwin.cam.ac.uk<br/>
-        Edoardo CHIATTELLI<br/>
+        Zoë AUDRA<br/>
         <p align="justify">
-Edoardo is a third-year PhD student in Classics, where he is studying philology and comparative linguistics. Apart from working and wasting his time on Netflix, he likes to play sports, go punting and hang around in the bar.<br><br>
+Zoë is a third-year PhD in classics, she is researching the role of knowledge in theories of action in early Greek philosophy and science. 
+When she is not at the bar, she can be found climbing or discussing philosophy and/or politics over a coffee.<br><br>
 
 Darbar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee and the large group of bartenders, and makes sure everyone can enjoy the bar, whilst keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making Darbar even better please get in contact with the email above. The Bar Chair is elected by the Bar Committee rather than being elected by all students.
         </p>
