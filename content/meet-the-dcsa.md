@@ -30,9 +30,9 @@ The President is the representative of the DCSA to College, voicing the opinions
     <td style="vertical-align: middle">
         <strong>Secretary</strong><br/>
         dcsa_secretary AT darwin.cam.ac.uk<br/>
-        Mimy PHAM<br/>
+        Vivien LECHNER<br/>
         <p align="justify">
-Mimy is a first-year PhD student in Bioinformatics. She loves doing science, blogging and cooking. If you have any questions about Cambridge/ College life or need a friend to talk with, come to her. A great bowl of Pho (Vietnamese noodle soup) is also waiting for you.<br><br>
+Vivien is a fourth-year PhD student at the Department of Chemistry, working on the development of DNA bioconjugation methods in the context of epigenetic sequencing.<br><br>
 
 The Secretary is the administrator of the committee and the Vice President (chair meetings and run the committee in the absence of the President). They run DCSA elections, take meeting minutes, and ensure that up-to-date records of the DCSA’s affairs are maintained, including policy documents and the DCSA Constitution, Schedule, & Regulations. The Secretary also sits on the Buildings & Grounds and the Darwin College Society Committees; and is in charge of the TV room and its bookings.
         </p>
