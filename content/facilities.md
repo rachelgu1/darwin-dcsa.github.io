@@ -18,9 +18,7 @@ It is possible to book the BBQ on the small island in the college garden! This a
 </p>
 
 
-To book, read the terms and conditions and fill out your details in this 
-<a href="https://cam.us19.list-manage.com/track/click?u=80a9982e04434f03e6aaaf8e6&id=f6d404b980&e=3f518eac8f">form</a>.
-
+To book please contact the bursary for terms and conditions at bursary@darwin.cam.ac.uk.
 </details>
 
 
