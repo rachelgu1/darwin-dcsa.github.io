@@ -7,12 +7,9 @@ permalink: /sports-societies/
 
 This page is currently being update. For the latest information see the Welcome Guide in the New Students Section.
 
-<!-- Heading for "Sports" dropdown" -->
 # Sports & Societies
 
 <br>
-
-
 <!-- Badminton Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Badminton Club</b></summary>
@@ -553,7 +550,7 @@ If there’s a club/society not listed here,  not to worry - you can start it! T
 <br><br>
 Some clubs we have previously offered are also looking for volunteers to help lead them this year, they are listed below. If you're interested in getting involved with one of these clubs or starting a new one, come to the Sports & Societies Fair to pick up the necessary paperwork  or email Jonathan (dcsa_treasurer@darwin.cam.ac.uk) or Poppy and Asmay (dcsa_sports@darwin.cam.ac.uk)
 
-<br><br>
+<br>
 
 <!-- Aerial Arts -->
 <details align="justify" style="text-align:justify">
