@@ -8,9 +8,7 @@ permalink: /sports-societies/
 This page is currently being update. For the latest information see the Welcome Guide in the New Students Section.
 
 <!-- Heading for "Sports" dropdown" -->
-# [Sports](#sports) & [Societies](#societies)
-<!-- - [Sports](#sports) -->
-<!-- - [Societies](#societies) -->
+# Sports & Societies
 
 <br>
 
