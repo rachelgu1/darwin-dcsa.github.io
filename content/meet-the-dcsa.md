@@ -123,9 +123,9 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
     <td style="vertical-align: middle">
         <strong>BAME Officer</strong><br/>
         dcsa_bame AT darwin.cam.ac.uk<br/>
-        You?<br/>
+        Tanyaradzwa MANGOMA<br/>
         <p align="justify">
-<br><br>
+Tanya is a final year PhD student in Engineering working on 3D printing brain-like devices. Outside her studies, she enjoys chilling with her friends with a glass or two of wine. She is here to share some of the resources that have helped her throughout her stay in Cambridge. Don’t hesitate to get in touch.<br><br>
 
 The BAME officer works with college to further the needs of BIPOC students, to create initiatives through which we can create a space that allows BIPOC students to reach their full potential, and better the everyday experience of life in Cambridge, as well as to figure out ways to deal with structural racism and increasing access for BIPOC.
         </p>
@@ -186,7 +186,7 @@ Jordan is a first year PhD student at the Department of Medicine researching hea
         <p align="justify">
 Melanie is an MBA at the Judge Business School. She comes from a Media and Entertainment background, making films and TV series. She loves wine and cheese tasting and will talk to anyone about it at length!<br><br>
 
-In pre-pandemic times, the Ents Officers used to coordinate, organise, and promote the Darwin BOPs. They were responsible for the music, decorations, security, and finances. They also worked with the Events Officer to host other events throughout the year. Darwin BOPs were known for their vibrant atmosphere and original themes and they always had the most popular Cambridge bands performing. Sadly BOPs are not allowed in the foreseable future. They will now try their best to offer alternative entertainments. But rest assured, as soon as BOPs are allowed again, they will throw the best and biggest college parties which will have been worth the wait! Think live music, themes, drinks, djs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
+The Ents Officers used to coordinate, organise, and promote the Darwin BOPs. They were responsible for the music, decorations, security, and finances. They also worked with the Events Officer to host other events throughout the year. Darwin BOPs were known for their vibrant atmosphere and original themes and they always had the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
         </p>
     </td></tr>
 
@@ -257,9 +257,9 @@ The International Officer is responsible for representing the needs of internati
     <td style="vertical-align: middle">
         <strong>Sports and Societies Officers</strong><br/>
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Daniel BUHL<br/>
+         Asmaysinh GHARIA<br/>
         <p align="justify">
-Dan is a second-year PhD student in Biological Sciences at the Department for Veterinary Medicine developing methods for the detection of bacteria in clinical samples.<br><br>
+Asmay is a second-year PhD student in bioelectronics, developing a micro-electromechanical systems platform to efficiently generate cellular immunotherapie.<br><br>
 
         </p>
     </td></tr>
