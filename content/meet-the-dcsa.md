@@ -182,9 +182,9 @@ Jordan is a first year PhD student at the Department of Medicine researching hea
     </td>
     <td style="vertical-align: middle">
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Melanie O'SULLIVAN<br/>
+        <br/>
         <p align="justify">
-Melanie is an MBA at the Judge Business School. She comes from a Media and Entertainment background, making films and TV series. She loves wine and cheese tasting and will talk to anyone about it at length!<br><br>
+
 
 The Ents Officers used to coordinate, organise, and promote the Darwin BOPs. They were responsible for the music, decorations, security, and finances. They also worked with the Events Officer to host other events throughout the year. Darwin BOPs were known for their vibrant atmosphere and original themes and they always had the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
         </p>
