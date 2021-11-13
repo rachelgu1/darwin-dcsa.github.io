@@ -171,7 +171,7 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
         dcsa_ents AT darwin.cam.ac.uk<br/>
         Jordan LEE<br/>
         <p align="justify">
-Jordan is a first year PhD student at the Department of Medicine researching heart attack and stroke. <br><br>
+Jordan is a PhD student at the Department of Medicine researching stroke and heart attack. He is all about having fun, if he’s not too busy organising BOPs and other fun events, you will often find him around College and Darbar. Feel free to contact Jordan if you have any fun event ideas!  <br><br>
 
         </p>
     </td>
@@ -182,7 +182,7 @@ Jordan is a first year PhD student at the Department of Medicine researching hea
     </td>
     <td style="vertical-align: middle">
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        <br/>
+        You?<br/>
         <p align="justify">
 
 
