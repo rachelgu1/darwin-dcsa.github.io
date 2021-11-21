@@ -229,7 +229,7 @@ The Events Officer coordinates, organises, and promotes social and entertainment
          dcsa_external AT darwin.cam.ac.uk<br/>
          Christopher DAVIS<br/>
         <p align="justify">
-Christopher is a PhD student in the Department of Plant Sciences, researching the conservation and evolutionary genetics of an endangered species of flower growing on the mountaintops of Armenia.<br><br>
+Naomi is a second year PhD making mathematical models about the (surprisingly sensational) social lives of microbes. In her free time, she likes to dance, draw, and look at whatever creatures float in the Cam waters through her microscope (a neat pandemic hobby although it may ruin your hobby of swimming in the Cam). You can always approach her for any neat ideas for swaps!.<br><br>
 
 The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
         </p>
@@ -272,7 +272,7 @@ Asmay is a second-year PhD student in bioelectronics, developing a micro-electro
          dcsa_sports AT darwin.cam.ac.uk<br/>
          Poppy OLDROYD<br/>
         <p align="justify">
-Poppy is a first-year PhD student in bioelectronics; she is developing flexible microelectrode arrays for brain stimulation. Aside from academics, she enjoys running, cooking, and reading. If you have any questions she is always up for a chat/run/coffee break and can often be found in the Darwin gym or gardens.<br><br>
+Chelsea is a third year PhD student in Computer Science working on verifying & automating mathematical proof. Outside of academia, she enjoys playing the violin, cycling, reading, baking and travel! If you have any ideas or questions, she's always up for a chat or tea/coffee break around Darwin.<br><br>
 
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May.
         </p>
@@ -306,7 +306,7 @@ Iván is a first-year PhD student in Molecular Biology at the LMB, studying tran
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
         Jacob MOSS<br/>
         <p align="justify">
-Jacob is a first year PhD student at the Computer Lab where he researches machine learning applied to pharmacological problems.<br><br>
+Daniel is a third year PhD student at the Department of Medicine working on new therapeutics to treat lung cancer.<br><br>
 
 The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May.
         </p>
