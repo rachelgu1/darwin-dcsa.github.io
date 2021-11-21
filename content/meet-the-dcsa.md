@@ -30,9 +30,9 @@ The President is the representative of the DCSA to College, voicing the opinions
     <td style="vertical-align: middle">
         <strong>Secretary</strong><br/>
         dcsa_secretary AT darwin.cam.ac.uk<br/>
-        Vivien LECHNER<br/>
+        Vivian Miles LECHNER<br/>
         <p align="justify">
-Vivien is a fourth-year PhD student at the Department of Chemistry, working on the development of DNA bioconjugation methods in the context of epigenetic sequencing.<br><br>
+Miles is a fourth-year PhD student at the Department of Chemistry, working on the development of DNA bioconjugation methods in the context of epigenetic sequencing.<br><br>
 
 The Secretary is the administrator of the committee and the Vice President (chair meetings and run the committee in the absence of the President). They run DCSA elections, take meeting minutes, and ensure that up-to-date records of the DCSA’s affairs are maintained, including policy documents and the DCSA Constitution, Schedule, & Regulations. The Secretary also sits on the Buildings & Grounds and the Darwin College Society Committees; and is in charge of the TV room and its bookings.
         </p>
@@ -212,9 +212,9 @@ The Environmental & Ethical Affairs Officer is responsible for the coordination 
     <td style="vertical-align: middle">
         <strong>Events Officer</strong><br/>
          dcsa_events AT darwin.cam.ac.uk<br/>
-         Chanon PORNRUNGROJ<br/>
+         Magdalena NOWINSKA<br/>
         <p align="justify">
-Chanon is studying for a PhD in Chemistry.<br><br>
+Magda is a first-year PhD student in Biophysics in the Department of Chemistry (counterintuitive, we know) working on Parkinson’s Disease. She really believes that social life is as important as academic life (please don’t tell her PI) and loves meeting new people so if you haven’t spoken to her yet please do so! <br><br>
 
 The Events Officer coordinates, organises, and promotes social and entertainment activities in college, including the May Week Garden Party, summer BBQ, and other smaller events throughout the year. They also administer the DCSA’s College Calendar.
         </p>
