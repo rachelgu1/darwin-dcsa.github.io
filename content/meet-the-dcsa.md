@@ -227,7 +227,7 @@ The Events Officer coordinates, organises, and promotes social and entertainment
     <td style="vertical-align: middle">
         <strong>External Officer</strong><br/>
          dcsa_external AT darwin.cam.ac.uk<br/>
-         Christopher DAVIS<br/>
+         Naomi VAN DEN BERG <br/>
         <p align="justify">
 Naomi is a second year PhD making mathematical models about the (surprisingly sensational) social lives of microbes. In her free time, she likes to dance, draw, and look at whatever creatures float in the Cam waters through her microscope (a neat pandemic hobby although it may ruin your hobby of swimming in the Cam). You can always approach her for any neat ideas for swaps!.<br><br>
 
@@ -270,7 +270,7 @@ Asmay is a second-year PhD student in bioelectronics, developing a micro-electro
     </td>
     <td style="vertical-align: middle">
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Poppy OLDROYD<br/>
+         Chelsea EDMONDS<br/>
         <p align="justify">
 Chelsea is a third year PhD student in Computer Science working on verifying & automating mathematical proof. Outside of academia, she enjoys playing the violin, cycling, reading, baking and travel! If you have any ideas or questions, she's always up for a chat or tea/coffee break around Darwin.<br><br>
 
@@ -304,7 +304,7 @@ Iván is a first-year PhD student in Molecular Biology at the LMB, studying tran
     </td>
     <td style="vertical-align: middle">
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Jacob MOSS<br/>
+        Daniel KOTTMANN<br/>
         <p align="justify">
 Daniel is a third year PhD student at the Department of Medicine working on new therapeutics to treat lung cancer.<br><br>
 
