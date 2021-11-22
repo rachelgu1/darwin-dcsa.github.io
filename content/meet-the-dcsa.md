@@ -243,9 +243,9 @@ The External Officer is responsible for organising formal swaps with other Colle
     <td style="vertical-align: middle">
         <strong>International Officer</strong><br/>
          dcsa_international AT darwin.cam.ac.uk<br/>
-         Maya PATEL<br/>
+         Fariza ADILBEKOVA<br/>
         <p align="justify">
-Maya is an MPhil student at the Faculty of Education studying the impacts of bi-lingualism on executive functioning. She was keen to join the DCSA as an International Officer because she has lived in 4 different countries (India, the US, Italy and the UK) over the past few years and also speaks multiple languages. As an International Officer, Maya hopes to bring Darwin’s dynamic student body even closer together through events and engagement. Maya is an extremely outgoing person and loves meeting people from around the world. She also sits on the welfare committee and wants to address the mental health concerns of international students. Please feel free to contact her via email.<br><br>
+Fariza is a MPhil student in Conservation Leadership, who is interested in finding ways to ensure social equity and justice in wildlife conservation. During her free time, she enjoys swimming and spending time with her friends. You may find her drinking coffee or meditating on the college island – please come say hi!<br><br>
 
 The International Officer is responsible for representing the needs of international students (e.g. internal collegiate administrative matters - such as testing for international students), providing welfare support and organising events for fellow Darwinians which highlight cultural diversity. They also serve as a chair on the international crisis committee wherein international students speak about pertinent world affairs (e.g. political conflicts within their home countries).
         </p>
