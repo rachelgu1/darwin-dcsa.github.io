@@ -185,7 +185,7 @@ Jordan is a PhD student at the Department of Medicine researching stroke and hea
         Niamh HARTLEY<br/>
         <p align="justify">
 
-Niamh is in her second year of her PhD in Chemistry, investigating electrochemical carbon capture. She enjoys reading, socializing and (of course) planning BOPs! When she’s not in lab, you can find her having a coffee in Darwin gardens or working at Darbar in the evening – come say hi :)
+Niamh is in her second year of her PhD in Chemistry, investigating electrochemical carbon capture. She enjoys reading, socializing and (of course) planning BOPs! When she’s not in lab, you can find her having a coffee in Darwin gardens or working at Darbar in the evening – come say hi :) <br><br>
 
 The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
         </p>
