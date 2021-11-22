@@ -91,10 +91,10 @@ The Welfare Officers are the student contact for students who are in need of hel
     <td style="vertical-align: middle">
         <strong>Women's Officer</strong><br/>
         dcsa_women AT darwin.cam.ac.uk<br/>
-        Anna PARKER<br/>
+        Ceilidh WELSH<br/>
         <br/>
         <p align="justify">
-Anna is studying an MPhil in Education (Knowledge, Power and Politics). She is particularly interested in intergenerational healing promoted by post-war multilateral youth peace education programs, and gender equality in the Japanese context. Having worked as an educator for nearly five years, including teaching secondary school gender equality studies, Anna is excited to be putting her enthusiasm for this field into practice as Darwin’s 2020-21 Women’s Officer.<br><br>
+Ceilidh is a second-year PhD student in oncology using computational models to predict patient responses to radiotherapy cancer treatment. Outside her studies, she can usually be found on an early morning kayak or enjoying the walk to Grantchester. Please feel free to reach out to her for a coffee in the parlour, a chat in the gardens or as a signpost for more support! <br><br>
 
 The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
