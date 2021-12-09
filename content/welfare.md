@@ -14,13 +14,15 @@ Your mental, physical, emotional, intellectual and spiritual well-being are esse
 - Samaritans (available 24/7 all year round): 116 123
 - Nightline (7pm-7am term time): 01223 744444
 
+
 **Counselling:** if you would like to get mental health support from a professional, you can book multiple sessions with a trained counsellor. Usually, it will take a couple of weeks to get an appointment, so book it as soon as possible both in College and the University. Once you have an appointment with one of the two, you can cancel the other. 
 
 1.	[College](https://forms.counselling.cam.ac.uk/titanium/Hwc/Main/Menu), [more information](https://www.counselling.cam.ac.uk/cbccouns/darwin)
 2.	[UCS Counselling](https://www.counselling.cam.ac.uk/)
 
 
-Key **contacts in Darwin:** 
+
+Key contacts in **Darwin:** 
 - The **Deanery**: together with your tutor (see below), it can offer confidential advice and support on non-academic matters. Although focused on looking after the general welfare of students, they can also offer financial, personal and, in special occasions, also academic advice. 
 Dean and Senior Tutor: Dr Duncan Needham (djn33@cam.ac.uk)
 https://www.darwin.cam.ac.uk/info-book
@@ -35,7 +37,7 @@ https://www.darwin.cam.ac.uk/info-book
 3. Q+ Officer: dcsa_lgbtq@darwin.cam.ac.uk
 4. BAME Officer: dcsa_bame@darwin.cam.ac.uk
 
-## Key contacts in the **University**:
+Key contacts in the **University**:
   - [Students’ Unions’ Advice Service (SUAS, CUSU and GU)](https://www.studentadvice.cam.ac.uk/)
   - [Supporting groups and workshops](https://www.counselling.cam.ac.uk/GroupsAndWorkshops)
   - [Cambridge Nightline](https://cambridge.nightline.ac.uk/)
@@ -46,9 +48,12 @@ https://www.darwin.cam.ac.uk/info-book
   - [Further support within Cambridge and a comprehensive list of support services](https://www.studentwellbeing.admin.cam.ac.uk/where-go-accessing-support)
 
 
+
+
 ## Sexual Harassment, Assault & Violence
 
 Darwin college and Cambridge University have a [zero tolerance policy on sexual misconduct](https://www.cam.ac.uk/news/university-of-cambridge-launches-campaign-to-promote-zero-tolerance-of-sexual-misconduct). Darwin college’s procedures for handling cases of harassment and sexual misconduct are outlined [here](https://www.darwin.cam.ac.uk/governance-and-policies) (Look under ‘Racial and Sexual Harassment Policy’).
+
 
 If you have experienced sexual harassment, assault and/or violence you can :
 -	Write down an account of what happened with a date, as soon as you can. This will be very helpful in the future, if you want to file a formal complaint or report it to the police. 
@@ -58,17 +63,20 @@ If you have experienced sexual harassment, assault and/or violence you can :
 -	[File a formal complaint in the University](https://www.studentcomplaints.admin.cam.ac.uk): you can contact OSCAA to help you through the process (OSCCA@admin.cam.ac.uk)
 -	Call the police (999) if in urgent need or [file a report](https://www.cambs.police.uk/information-and-services/Serious-sexual-offences-and-rape/How-to-report)
 -	Join a supporting group or workshop for survivors: 
-    [From the Uni](https://www.counselling.cam.ac.uk/GroupsAndWorkshops)
-    [From the government](https://www.thehavens.org.uk/contact-us/)
+    [from the Uni](https://www.counselling.cam.ac.uk/GroupsAndWorkshops) or 
+    [from the government](https://www.thehavens.org.uk/contact-us/).
+
+
 
 ## Spiking
 Spiking normally takes place in drinking settings, where drugs or alcohol are added to someone’s drink without their consent (drink spiking) or when a person is directly injected with a drug without their consent (needle spiking). **Symptoms vary** depending on the substance used, but are generally similar to those of excessive alcohol consumption. If you think you have been spiked:
 
 
--	Get immediate help from someone that you trust and go to a safe space. Beware that sexual harassment, assault and violence are more likely to take place if you have been spiked (see section above). 
+-	**Get immediate help** from someone that you trust and go to a safe space. Beware that sexual harassment, assault and violence are more likely to take place if you have been spiked (see section above). 
 -	If you are in college, contact the porters, the dean (djn33@cam.ac.uk) and/or the welfare and women’s officers (dcsa_welfare@darwin.cam.ac.uk; dcsa_women@darwin.cam.ac.uk). 
 -	If your conditions deteriorate, call 999. 
 -	To know more about how to prevent spiking and what to do if you think that you or a friend have been spiked, read the information from the [university](https://www.studentwellbeing.admin.cam.ac.uk/support-particular-issues/drink-spiking), or the [drinkaware charity](https://www.drinkaware.co.uk/advice/staying-safe-while-drinking/drink-spiking-and-date-rape-drugs/).
+
 
 
 ## Sexual Health
