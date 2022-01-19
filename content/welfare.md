@@ -68,7 +68,7 @@ If you have experienced sexual harassment, assault and/or violence you can :
 
 
 ## Spiking
-Spiking normally takes place in drinking settings, where drugs or alcohol are added to someone’s drink without their consent (drink spiking) or when a person is directly injected with a drug without their consent (needle spiking). **Symptoms vary** depending on the substance used, but are generally similar to those of excessive alcohol consumption. If you think you have been spiked:
+Spiking may takes place in drinking settings, where drugs or alcohol are added to someone’s drink without their consent (drink spiking) or when a person is directly injected with a drug without their consent (needle spiking). **Symptoms vary** depending on the substance used, but are generally similar to those of excessive alcohol consumption. If you think you have been spiked:
 
 
 -	**Get immediate help** from someone that you trust and go to a safe space. Beware that sexual harassment, assault and violence are more likely to take place if you have been spiked (see section above). 
