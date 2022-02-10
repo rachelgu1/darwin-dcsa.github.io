@@ -77,10 +77,6 @@ Email the Ents Officers: dcsa_ents AT darwin DOT cam DOT ac DOT uk
 The Darwin May Ball is an annual fixture on the last friday of May Week (which happens to be in June), held on the central site of Darwin College. Stretching from Mill pond to Silver Street, our unique site - we are the only college with an island - is transformed for one night into a kaliedoscope of colour.
 <br><br>
 
-This year the ball will run from sunset to sunrise. Guests enter at 9pm (or earlier, if Q-Jump or VIP), and the ball finishes at 5am, after the survivors' photo.
-<br><br>
-
-<a href="https://www.darwinmayball.com/">More details</a>
 
 </details>
 
