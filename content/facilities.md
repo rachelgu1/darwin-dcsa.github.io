@@ -93,20 +93,78 @@ To book the gym please click <a href="https://booking.dar.cam.ac.uk/Web/schedule
 
 </details>
 
-
 <details>
-  <summary><strong>Music</strong></summary>
+	<summary><strong>Music</strong></summary>
 
 <h3>Music at Darwin</h3>
 
 <p align="justify">
-The music society owns a wide range of equipment available for use by any Darwinian. These are stored in the Darwin College Bar Cellar. In there we have a drum kit, PA system, amps, a guitar, a bass, music stands - all sorts of goodies that we want you to make use of. If you think we’re missing something, we have money to buy stuff too!</p>
+The Music Society has a range of equipment and facilities to help you with music making.
+</p>
+
+<h5>Bradfield Court</h5>
 
 <p align="justify">
-The college also has the Bar Area for use as a rehearsal space. If you would like to reserve a time-slot, this can be done so <a href="https://booking.dar.cam.ac.uk/Web/schedule.php?sid=2">here</a>. For reasons of safety, individual access to the cellar is not permitted, instead bring a friend! Please note that bookings should be made outside of bar opening times. Any questions, please get in touch with the DCMS committee.</p>
+For individual or group practice, you can book Bradfield court.
+</p>
 
 <p align="justify">
-Finally we have 4 different pianos throughout the college. Please refer to the table below for info on where to find them and how/if to book. (Note: Keys for the rooms may be obtained from the Porters’ Lodge and must be returned before 11.30pm.)
+The space is also being used for other events, so you can check its availability using the link below:
+</p>
+
+<p align="justify">
+<a href="https://calendar.google.com/calendar/embed?src=u24932spc82d54jrsvphe2l2d6crc6rb%40import.calendar.google.com&ctz=Europe%2FLondon">This link</a>
+</p>
+
+<p align="justify">
+To make a booking, please send an email to Anna via bursary AT darwin.cam.ac.uk. 
+</p>
+
+<p align="justify">
+More spontaneous bookings can be made by heading to the Porters' lodge and asking to use the room.
+</p>
+
+<p align="justify">
+We permanently store a small amount of equipment in Bradfield Court - most found behind the sliding doors. This includes:
+</p>
+
+<ul>
+	<li>
+		an acoustic drum kit + additional percussion (no sticks!)
+	</li>
+	<li>
+		an electric piano
+	</li>
+	<li>
+		a Marshall guitar amp (no guitar/ jack leads)
+	</li>
+	<li>
+		a Black Star bass amp (no guitar/ jack leads)
+	</li>
+	<li>
+		a PA system (including mics and mic stands)
+	</li>
+	<li>
+		a music stand
+	</li>
+</ul>
+
+<p align="justify">
+These are free for anyone to use, but please look after the equipment, it belongs to you and your fellow Darwinians.
+</p>
+
+<p align="justify">
+To keep our relationship with the college positive, please also keep things tidy by putting things back where you found them.
+</p>
+
+<p align="justify">
+If you require additional equipment, e.g. drum sticks, a guitar (bass, acoustic, electric), a mixing desk, please get in touch with a member of the comittee (see below for contact details) and they can arrange access.
+</p>
+
+<h5>Pianos</h5>
+
+<p align="justify">
+Finally, we have 3 different pianos throughout the college. Please refer to the table below for info on where to find them and how/if to book. (Note: Keys for the rooms may be obtained from the Porters’ Lodge and must be returned before 11.30pm.)
 </p>
 
 <table style="width:100%">
@@ -130,17 +188,12 @@ Finally we have 4 different pianos throughout the college. Please refer to the t
     <td>Electric (with headphones)</td>
     <td>Yes via domestic.bursars.secretary AT darwin.cam.ac.uk</td>
   </tr>
-  <tr>
-    <td>Common room</td>
-    <td>Upright</td>
-    <td>No</td>
-  </tr>
 </table>
 
-Music soc committee 2020-2021:<br>
+Music soc committee 2021-2022:<br>
 Huge Ramsden (President): hor20 AT cam.ac.uk<br>
-Nikos Patikas (Treasurer): np504 AT cam.ac.uk<br>
-Ash Masing (Choir): alm205 AT cam.ac.uk<br>
+Robin Croft (Treasurer): rc634 AT cam.ac.uk<br>
+Francis Knights (Choir): fk240 AT cam.ac.uk<br>
 
 </details>
 
