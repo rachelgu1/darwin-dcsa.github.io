@@ -120,7 +120,7 @@ Chauffeured punt tour services with experienced student punt captains are availa
 <h4 id="joining-the-punt-club">Joining the Punt Club/Renewing membership</h4>
 
 <p align="justify">
-Current members of the college, including staff, and alumni can join the punt club for a non-refundable £30 fee. Membership is valid for the current season (March-November), or if purchased after Sept. 1st, until the end of the next year's season. No discounts or refunds will be given for members arriving mid-season, or leaving before the season ends. The membership entitles you to unlimited, free punting (for up to 3h a day) as well as access to all our punts and the other vessels. There is no subscription, so members need to signup here again every year to renew their membership.
+Current members of the college, including staff, and alumni can join the punt club for a non-refundable £30 fee. Membership is valid for the current season (March-November), or if purchased after Sept. 1st, until the end of next year's season. No discounts or refunds will be given for members arriving mid-season, or leaving before the season ends. The membership entitles you to unlimited, free punting (for up to 3h a day) as well as access to all our punts and the other vessels. There is no subscription, so members need to signup here again every year to renew their membership.
 </p>
 
 <p align="justify">
@@ -135,7 +135,7 @@ To join the Punt Club or renew your membership:
 <!-- <li>For Raven account holders/ if you have a CRSID:<br> -->
 <!-- NOTE, signup is closed for the 2019/2020 season. Please DO NOT SIGNUP unless directed to do so by the Admiral of the -->
 <!-- Punts. We will open the signup again early next year!</li> -->
-<b>Important, make sure to complete the form all the way and press the submit button at the end, after completing the Paypal payment.</b> Without submitting the form, you are not in the data base and we don't have a record of your signup!
+<strong><b>Important, make sure to complete the form all the way and press the submit button at the end, after completing the Paypal payment. Without submitting the form, you are not in the data base and we don't have a record of your signup! It can take up to 24hrs before your signup is processed. Until then, you might not be able to make bookings on the booking platform.</b></strong>
 Note that you don't need to have a PayPal account in order to pay for the membership. You can pay on the PayPal portal with a debit card, using the Checkout as Guest button.
 Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLSdROMaTJCwffXdOCvyxVIoTKCjjyYmpyPpQnmP2P2S8cxlXIg/viewform?usp=sf_link">the online registration form</a></ul></li>
 
