@@ -59,6 +59,8 @@ A quick summary (not comprehensive), you are still expected to read the full Ter
 <li>All punt, kayak, paddle board, and canoe hire (including safety equipment) is at the hirer’s own risk. The hirer warrants that both him/herself and all passengers have sufficient training/expertise for the outing (<strong>see the terms and conditions for more details on this!</strong>)</li>
 <li>Don't be late when returning - you risk a suspension or fine (and how would you feel if you had to wait for other people to return)</li>
 <li>A booking is void if the boat is not taken within 15 minutes of the booked time. After this time the boat will be available to anyone waiting to take the boat until the end of the unused booking, be it one or three hours. The rules about maximum booking length per member still apply.</li>
+<li>All our punts carry a maximum of five persons plus one person punting. There is a strict limit on the maximum
+occupancy per punt of six persons at any time.</li>
 </ul>
 
 <strong>IMPORTANT</strong> - to avoid damage to the boats
