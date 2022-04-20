@@ -106,7 +106,7 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
     </td>
     <td style="vertical-align: middle">
         <strong>Disabilities Officer</strong><br/>
-         dcsa_coms AT darwin.cam.ac.uk<br/>
+         dcsa_disabilities AT darwin.cam.ac.uk<br/>
          Jennifer Hawkin<br/>
         <p align="justify">
 .<br><br>
