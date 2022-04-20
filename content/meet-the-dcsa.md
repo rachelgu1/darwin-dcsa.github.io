@@ -17,7 +17,7 @@ permalink: /meet-the-dcsa/
         dcsa_president AT darwin.cam.ac.uk<br/>
         Daniel BUHL<br/>
         <p align="justify">
-Dan is a second-year PhD student in Biological Sciences at the Department for Veterinary Medicine developing methods for the detection of bacteria in clinical samples.<br><br>
+Dan is a final year PhD student in Biological Sciences at the Department for Veterinary Medicine developing methods for the detection of bacteria in clinical samples.<br><br>
 
 The President is the representative of the DCSA to College, voicing the opinions of the students to all College members. They coordinate the committee by chairing DCSA Regular Meetings and General Meetings. The President works very closely with the Secretary, Treasurer, and the rest of the committee to ensure work is completed. The President sits on the College Council as a student representative, attends fortnightly Cambridge Students’ Union meetings, and sits on numerous College committees (including Strategic Planning, PREVENT, Health & Safety, and Wine).
         </p>
@@ -53,84 +53,7 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
         </p>
     </td></tr>
 
-<!-- Welfare and other -->
-<tr>
-    <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg" alt="[Welfare Officer I picture]" width="300px"/></a>
-    </td>
-    <td style="vertical-align: middle">
-        <strong>Welfare Officers</strong><br/>
-        dcsa_welfare AT darwin.cam.ac.uk<br/>
-        <!--dcsa_womens_welfare AT darwin.cam.ac.uk<br/>-->
-        Elena GOMEZ GARCIA<br/>
-        <p align="justify">
-Elena is a first year PhD student in Biology, studying Embryonic Development. She likes singing, being under the sun and looking at fish in the sea. She is passionate about the importance of normalizing Mental Health issues, so feel free to ask her about her recovery from an eating disorder and share (or not, that’s also fine!) your own struggles.<br><br>
-
-       </p>
-    </td></tr>
-
-<tr>
-    <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg" alt="[Welfare Officer II picture]" width="300px"/></a>
-    </td>
-    <td style="vertical-align: middle">
-        dcsa_welfare AT darwin.cam.ac.uk<br/>
-        <!-- dcsa_mens_welfare AT darwin.cam.ac.uk<br/> -->
-        Akash DAS<br/>
-        <p align="justify">
-Akash is a 3rd year PhD student working on the development of low cost viral diagnostics as part of the Sensor CDT program. When not working, he spends far too much time watching anime and playing video games.<br><br>
-
-The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us on Facebook or College, if you need anything or just want to have a chat!
-       </p>
-    </td></tr>
-
-<tr>
-    <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Women.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Women.jpg" alt="[Women's Officer's picture]" width="300px"/></a>
-    </td>
-    <td style="vertical-align: middle">
-        <strong>Women's Officer</strong><br/>
-        dcsa_women AT darwin.cam.ac.uk<br/>
-        Ceilidh WELSH<br/>
-        <br/>
-        <p align="justify">
-Ceilidh is a second-year PhD student in oncology using computational models to predict patient responses to radiotherapy cancer treatment. Outside her studies, she can usually be found on an early morning kayak or enjoying the walk to Grantchester. Please feel free to reach out to her for a coffee in the parlour, a chat in the gardens or as a signpost for more support! <br><br>
-
-The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
-        </p>
-    </td></tr>
-
-<tr>
-    <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg" alt="[Q+ Officer's picture]" width="300px"/></a>
-    </td>
-    <td style="vertical-align: middle">
-        <strong>Q+ Officer</strong><br/>
-        dcsa_lgbtq AT darwin.cam.ac.uk<br/>
-        Sarah CARLO<br/>
-        <p align="justify">
-Sarah is a PhD student at the Institute of Criminology, where she is studying Queer Intimate Partner Violence, specifically the role of morality within decision making. Outside of her studies, Sarah’s favorite lockdown activity is playing video games and is often found with a pint in hand at the pub (socially distanced, of course).
-
-The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Sarah is always there to chat, advise and help out where possible.
-        </p>
-    </td></tr>
-
-
-<tr>
-    <td style="vertical-align: middle">
-        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-BAME.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-BAME.jpg" alt="[BAME Officer's picture]" width="300px"/></a>
-    </td>
-    <td style="vertical-align: middle">
-        <strong>BAME Officer</strong><br/>
-        dcsa_bame AT darwin.cam.ac.uk<br/>
-        Tanyaradzwa MANGOMA<br/>
-        <p align="justify">
-Tanya is a final year PhD student in Engineering working on 3D printing brain-like devices. Outside her studies, she enjoys chilling with her friends with a glass or two of wine. She is here to share some of the resources that have helped her throughout her stay in Cambridge. Don’t hesitate to get in touch.<br><br>
-
-The BAME officer works with college to further the needs of BIPOC students, to create initiatives through which we can create a space that allows BIPOC students to reach their full potential, and better the everyday experience of life in Cambridge, as well as to figure out ways to deal with structural racism and increasing access for BIPOC.
-        </p>
-    </td></tr>
-
+<!-- Officers -->
 <!-- Alphabetical -->
 <tr>
     <td style="vertical-align: middle">
@@ -144,6 +67,21 @@ The BAME officer works with college to further the needs of BIPOC students, to c
 Michael is a third year PhD student in Medical Genomics; he is using computational and statistical tools to identify the processes that drive cancer development.<br><br>
 
 The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website</a> if you’d like to learn more about the Darwin Punt Club.
+        </p>
+    </td></tr>
+    
+<tr>
+    <td style="vertical-align: middle">
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-BAME.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-BAME.jpg" alt="[BAME Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>BAME Officer</strong><br/>
+        dcsa_bame AT darwin.cam.ac.uk<br/>
+        Tanyaradzwa MANGOMA<br/>
+        <p align="justify">
+Tanya is a final year PhD student in Engineering working on 3D printing brain-like devices. Outside her studies, she enjoys chilling with her friends with a glass or two of wine. She is here to share some of the resources that have helped her throughout her stay in Cambridge. Don’t hesitate to get in touch.<br><br>
+
+The BAME officer works with college to further the needs of BIPOC students, to create initiatives through which we can create a space that allows BIPOC students to reach their full potential, and better the everyday experience of life in Cambridge, as well as to figure out ways to deal with structural racism and increasing access for BIPOC.
         </p>
     </td></tr>
 
@@ -162,6 +100,21 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
         </p>
     </td></tr>
 
+<tr>
+    <td style="vertical-align: middle">
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Disabilies.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Disabilities.jpg" alt="[Disabilities Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Disabilities Officer</strong><br/>
+         dcsa_coms AT darwin.cam.ac.uk<br/>
+         Jennifer Hawkin<br/>
+        <p align="justify">
+.<br><br>
+
+.
+        </p>
+    </td></tr>
+    
 <tr>
     <td style="vertical-align: middle">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-I.jpg" alt="[Ents Officer's I picture]" width="300px"/></a>
@@ -235,6 +188,21 @@ Naomi is a second year PhD making mathematical models about the (surprisingly se
 The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
         </p>
     </td></tr>
+    
+    <tr>
+    <td style="vertical-align: middle">
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Families.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Families.jpg" alt="[Families Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Families Officer</strong><br/>
+         dcsa_families AT darwin.cam.ac.uk<br/>
+         Tash Eisner <br/>
+        <p align="justify">
+Tash is an MPhil student in Critical Approaches to Children’s Literature whose research centres on the portrayal of dragons within YA fantasy. Tash has a small baby, a large dog, and a medium sized husband. Somewhat unsurprisingly, Tash really enjoys reading and a good ‘family-size’ (geddit?) bar of dairy milk.  When time permits, Tash is also a barre fitness addict. You will often see Tash dashing around college with her pram.<br><br>
+
+The Families Officer is responsible for representing and furthering the needs of students with families - those with partners and/or children of all ages. They work to involve students with families in college events and organise events aimed at these students. See the <a href="{{site.baseurl | absolute_url}}/documents/booklet_families.pdf">families guide</a> for lots of useful information.
+        </p>
+    </td></tr>
 
 <tr>
     <td style="vertical-align: middle">
@@ -248,6 +216,21 @@ The External Officer is responsible for organising formal swaps with other Colle
 Fariza is a MPhil student in Conservation Leadership, who is interested in finding ways to ensure social equity and justice in wildlife conservation. During her free time, she enjoys swimming and spending time with her friends. You may find her drinking coffee or meditating on the college island – please come say hi!<br><br>
 
 The International Officer is responsible for representing the needs of international students (e.g. internal collegiate administrative matters - such as testing for international students), providing welfare support and organising events for fellow Darwinians which highlight cultural diversity. They also serve as a chair on the international crisis committee wherein international students speak about pertinent world affairs (e.g. political conflicts within their home countries).
+        </p>
+    </td></tr>
+        
+<tr>
+    <td style="vertical-align: middle">
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg" alt="[Q+ Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Q+ Officer</strong><br/>
+        dcsa_lgbtq AT darwin.cam.ac.uk<br/>
+        Sarah CARLO<br/>
+        <p align="justify">
+Sarah is a PhD student at the Institute of Criminology, where she is studying Queer Intimate Partner Violence, specifically the role of morality within decision making. Outside of her studies, Sarah’s favorite lockdown activity is playing video games and is often found with a pint in hand at the pub (socially distanced, of course).
+
+The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Sarah is always there to chat, advise and help out where possible.
         </p>
     </td></tr>
 
@@ -276,6 +259,52 @@ Asmay is a second-year PhD student in bioelectronics, developing a micro-electro
 Chelsea is a third year PhD student in Computer Science working on verifying & automating mathematical proof. Outside of academia, she enjoys playing the violin, cycling, reading, baking and travel! If you have any ideas or questions, she's always up for a chat or tea/coffee break around Darwin.<br><br>
 
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May.
+        </p>
+    </td></tr>
+    
+    <tr>
+    <td style="vertical-align: middle">
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg" alt="[Welfare Officer I picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Welfare Officers</strong><br/>
+        dcsa_welfare AT darwin.cam.ac.uk<br/>
+        <!--dcsa_womens_welfare AT darwin.cam.ac.uk<br/>-->
+        Elena GOMEZ GARCIA<br/>
+        <p align="justify">
+Elena is a first year PhD student in Biology, studying Embryonic Development. She likes singing, being under the sun and looking at fish in the sea. She is passionate about the importance of normalizing Mental Health issues, so feel free to ask her about her recovery from an eating disorder and share (or not, that’s also fine!) your own struggles.<br><br>
+
+       </p>
+    </td></tr>
+
+<tr>
+    <td style="vertical-align: middle">
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg" alt="[Welfare Officer II picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        dcsa_welfare AT darwin.cam.ac.uk<br/>
+        <!-- dcsa_mens_welfare AT darwin.cam.ac.uk<br/> -->
+        Akash DAS<br/>
+        <p align="justify">
+Akash is a 3rd year PhD student working on the development of low cost viral diagnostics as part of the Sensor CDT program. When not working, he spends far too much time watching anime and playing video games.<br><br>
+
+The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us on Facebook or College, if you need anything or just want to have a chat!
+       </p>
+    </td></tr>
+
+<tr>
+    <td style="vertical-align: middle">
+        <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Women.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Women.jpg" alt="[Women's Officer's picture]" width="300px"/></a>
+    </td>
+    <td style="vertical-align: middle">
+        <strong>Women's Officer</strong><br/>
+        dcsa_women AT darwin.cam.ac.uk<br/>
+        Ceilidh WELSH<br/>
+        <br/>
+        <p align="justify">
+Ceilidh is a second-year PhD student in oncology using computational models to predict patient responses to radiotherapy cancer treatment. Outside her studies, she can usually be found on an early morning kayak or enjoying the walk to Grantchester. Please feel free to reach out to her for a coffee in the parlour, a chat in the gardens or as a signpost for more support! <br><br>
+
+The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
     </td></tr>
 
@@ -327,21 +356,6 @@ Zoë is a third-year PhD in classics, she is researching the role of knowledge i
 When she is not at the bar, she can be found climbing or discussing philosophy and/or politics over a coffee.<br><br>
 
 Darbar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee and the large group of bartenders, and makes sure everyone can enjoy the bar, whilst keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making Darbar even better please get in contact with the email above. The Bar Chair is elected by the Bar Committee rather than being elected by all students.
-        </p>
-    </td></tr>
-
-<tr>
-    <td style="vertical-align: middle">
-       <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Families.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Families.jpg" alt="[Family Officer's picture]" width="300px"/></a>
-    </td>
-    <td style="vertical-align: middle">
-        <strong>President of the Families Society</strong><br/>
-        dcsa_families AT darwin.cam.ac.uk<br/>
-        You?<br/>
-        <p align="justify">
-<br><br>
-
-The President of the Families Society is responsible for representing and furthering the needs of students with families - those with partners and/or children of all ages. They work to involve students with families in college events and organise events aimed at these students through the families society. They are elected by the Families Society rather than being elected by all students. See the <a href="{{site.baseurl | absolute_url}}/documents/booklet_families.pdf">families guide</a> for lots of useful information.
         </p>
     </td></tr>
 
