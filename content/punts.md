@@ -48,6 +48,7 @@ The table below gives a brief overview of the membership and booking fees.</p>
 
 A quick summary (not comprehensive), you are still expected to read the full Terms and Conditions before signing up!
 <ul>
+<li>The wearing of a life jacket is compulsory when kayaking and canoeing.</li>
 <li>A single outing can last up to 3h, a punt member can either take out 2 single kayaks or paddle boards at any one time or a single punt, canoe, or double kayak. If multiple punts are required or other non-standard bookings please contact the Admiral of the Punts. Families with children under the age of 18 can take out additional kayaks and paddle boards to accomodate all children.</li>
 <li>A trip to Grantchester in the punt counts at least as two outings (lasts at least 4h+), thus requiring two bookings. A member can only make a single booking per day, so you will need at least two members/outings to go to Grantchester. You’ll need to be a group of students, in any case, to get the punt over the ramp, and <strong>please make sure to put the mooring pin inside the punt when going down the ramp! We don’t want to have to remove any more bent metal pins.</strong></li>
 <li>Student I.D card or any I.D card (Alumni etc), must be left with the porter, once a punt key is taken out of the lodge.</li>
