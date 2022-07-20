@@ -12,8 +12,8 @@ image_sliders:
 <h2>Darwin College Punt Club</h2>
 
 <p align="justify">
-The Darwin College Punt and Kayak Club own six punts, six kayaks, a canoe, and four paddle boards. The six punts - Isabela, Velociraptor, The Beagle, Master Brown, Iguana, and Barnacle - are moored on the part of the river that runs through the college grounds. Punting equipment, the kayaks, canoe, and the paddle boards are stored in the punt house next to the Old Granary. For any queries, please review the information on this website and then email the Admiral of the Punts at
-dcsa_punts AT darwin.cam.ac.uk
+The Darwin College Punt and Kayak Club own six punts, six kayaks, a canoe, and four paddle boards. The six punts - Isabela, Velociraptor, The Beagle, Master Brown, Iguana, and Barnacle - are moored on the part of the river that runs through the college grounds. Equipment for all boats, the kayaks, canoe, and the paddle boards are stored in the punt house next to the Old Granary. For any queries, please review the information on this website and then email the Admiral of the Punts at
+dcsa_punts@darwin.cam.ac.uk
 </p>
 
 {% include slider.html selector="puntshow" %}
@@ -33,14 +33,14 @@ The table below gives a brief overview of the membership and booking fees.</p>
     <th>Paddle boards</th>
   </tr>
   <tr>
-    <td>Non-members/ individual outings</td>
+    <td>Non-Members/ Individual Outings</td>
     <td>£15 per outing<br> (per single punt, a trip to Grantchester counts at least as two outings)</td>
-    <td>not available<br> - only members</td>
-    <td>not available<br> - only members</td>
+    <td>not available<br> (members only)</td>
+    <td>not available<br> (members only)</td>
   </tr>
   <tr>
     <td>Membership</td>
-    <td style="text-align:center">£30 membership fee per season<br>+ access to all vessels</td>
+    <td>£30 membership fee per season<br>+ access to all vessels</td>
     <td></td>
     <td></td>
   </tr>
@@ -49,29 +49,35 @@ The table below gives a brief overview of the membership and booking fees.</p>
 A quick summary (not comprehensive), you are still expected to read the full Terms and Conditions before signing up!
 <ul>
 <li>The wearing of a life jacket is compulsory when kayaking and canoeing.</li>
-<li>A single outing can last up to 3h, a punt member can either take out 2 single kayaks or paddle boards at any one time or a single punt, canoe, or double kayak. If multiple punts are required or other non-standard bookings please contact the Admiral of the Punts. Families with children under the age of 18 can take out additional kayaks and paddle boards to accomodate all children.</li>
-<li>A trip to Grantchester in the punt counts at least as two outings (lasts at least 4h+), thus requiring two bookings. A member can only make a single booking per day, so you will need at least two members/outings to go to Grantchester. You’ll need to be a group of students, in any case, to get the punt over the ramp, and <strong>please make sure to put the mooring pin inside the punt when going down the ramp! We don’t want to have to remove any more bent metal pins.</strong></li>
-<li>Student I.D card or any I.D card (Alumni etc), must be left with the porter, once a punt key is taken out of the lodge.</li>
-<li>Punts, kayaks, and paddle boards can be taken out from 08.00. Everything must be returned at the very latest 15 minutes before sunset.</li>
-<li><strong>NO AFTER DARK PUNTING OR KAYAKING</strong> - only the Admiral can take boats out after dark or give permission to do so.</li>
-<li>For students & college members with a raven log: <strong>all bookings need to be entered into the online booking system before the outing starts</strong> - no key can be given out without the online booking or the explicit consent of the Admiral of the Punts. If you don’t have a raven login (as an alumnus) please contact the Alumni Office to make your booking (see website) or request the porters to make the booking for you.</li>
-<li>Make sure to check the punt, kayaks, and locks for any damage after the outing and report it both to the porter on duty <strong>AND</strong> the Admiral of the Punts <strong>immediately after returning</strong>. If something is damaged before the outing, go back and inform the porter and write the Admiral.</li>
-<li>The person making the booking has to be present at all times during the outing and is responsible for the behaviour of their guests. You are not allowed to make bookings for other persons.</li>
-<li>All punt, kayak, paddle board, and canoe hire (including safety equipment) is at the hirer’s own risk. The hirer warrants that both him/herself and all passengers have sufficient training/expertise for the outing (<strong>see the terms and conditions for more details on this!</strong>)</li>
-<li>Don't be late when returning - you risk a suspension or fine (and how would you feel if you had to wait for other people to return)</li>
-<li>A booking is void if the boat is not taken within 15 minutes of the booked time. After this time the boat will be available to anyone waiting to take the boat until the end of the unused booking, be it one or three hours. The rules about maximum booking length per member still apply.</li>
-<li>All our punts carry a maximum of five persons plus one person punting. There is a strict limit on the maximum
-occupancy per punt of six persons at any time.</li>
+<li>Paddle boards may not be used by those who cannot swim.</li>
+<li>Standard Outings:
+  <ul>
+    <li>Can last up to 3 hours</li>
+    <li>Can take out 2 single kayaks <strong>or</strong> 2 paddle boards <strong>or</strong> 1 punt <strong>or</strong> 1 canoe <strong>or</strong> 1 double kayak.</li>
+    <li>A trip to Grantchester in the punt counts at least as two outings (lasts at least 4h+), and requires two bookings. A member can only make a single booking per day, so you will need at least two members/outings to go to Grantchester. You’ll need to be a group of people to get the punt over the rollers in any case. While using the rollers, please make sure to place the <strong>mooring pin inside the punt</strong>, otherwise it can get damaged and/or damage the punt.</li>
+  </ul>
+<li>Non-Standard Outings:
+  <ul>
+    <li>If more facilities are required than a standard booking can allow, or for other non-standard bookings, please contact the Admiral of the Punts.</li>
+    <li>Families with children under the age of 18 can take out additional kayaks and paddle boards to accomodate all children, but again please contact the Admiral of the Punts to arrange this.</li>
+  </ul>
+</li>    
+<li>Student I.D. card (or any I.D. for Alumni) must be left with the Porters' Lodge in order to receive keys for a booking.</li>
+<li>Punts, kayaks, and paddle boards can be taken out from 08:00am. Everything must be returned at the very latest 15 minutes before sunset.</li>
+<li><strong>No facilities may be used after dark</strong> without the explicit permission of the Admiral of the Punts, who must clear this with the Porters' Lodge.</li>
+<li>For safety, all of our punts carry a strict capacity limit of five persons plus one person punting.</li>
+<li>For students & College members with a Raven log-in: <strong>all bookings need to be entered into the online booking system before the outing starts</strong>. No key will be given out without the online booking. If you don’t have a Raven login (e.g., Alumni) please contact the Alumni Office to make your booking (see website) or request the Porters to make the booking for you.</li>
+<li>The person making the booking <strong>must be present at all times during the outing</strong> and is responsible for the behaviour of their guests. You are not allowed to make bookings for other persons.</li>
+<li>Please do not be late when returning, it's unfair on those who have bookings after. If you are stuck somewhere on the river (e.g., strong winds), please contact the Porters' Lodge and arrangements can be made.</li>
+<li>A booking is void if the boat is not taken within 15 minutes of the booked time. After this time the boat will be available to anyone waiting to take the boat until the end of the unused booking. The rules about maximum booking length per member still apply.</li>
+<li>Please make sure to check the punt, kayaks, and locks for any damage before and after the outing. Report any damage immediately to both the Porters <strong>and</strong> the Admiral of the Punts, so that we're aware of the problem.</li>
+<li>All punt, kayak, paddle board, and canoe hire (including safety equipment) is at the hirer’s own risk. The hirer warrants that both themselves and all passengers have sufficient training/expertise for the outing (<strong>see the terms and conditions for more details on this.</strong>)</li>
 </ul>
 
 <strong>IMPORTANT</strong> - to avoid damage to the boats
 <ul>
-<li>
-Be extra careful with the metal pins when rolling the punt down the rollers on your trip to Grantchester. Make sure to put them inside the punt and do not keep them inside the hole! They might get bent otherwise.
-</li>
-<li>
-Make sure to pull up the rudder on the kayaks when they are out of the water to avoid damage to the rudder. When in the water let the rudder down to make it easier to steer them.
-</li>
+<li>When using the rollers on trips to Grantchester, please put the mooring pins (located on chains at the bow/stern of the punts) <strong>inside of the punts, do not keep them inside of their holes</strong>, as they can bend and cause damage to the punts. The mooring pin must be sawn off, and you may be charged for replacement parts and/or labour.</li>
+  <li>When using the kayaks, make sure to <strong>pull up their rear rudders</strong> when they are out of the water to avoid damaging the rudder. When in the water, let the rudder down using the pulley on the side of the kayaks to make it easier to steer.</li>
 </ul>
 <a href="{{site.baseurl | absolute_url}}/documents/PuntClub-Notices.pdf">This document</a> has more details and explanations on how to avoid common errors.<br><br><br>
 
@@ -88,46 +94,42 @@ Make sure to pull up the rudder on the kayaks when they are out of the water to 
 <h4 id="bookings">Bookings</h4>
 
 <p align="justify">
-Current members of the college, including staff, and alumni can book a single punt for a single outing of up to 3h each day. Punt Club members can book punts for free. Only members can book the canoe or the double kayak or up to two single kayaks or two paddle boards for 3h each day.
+Current members of the College, including Staff and Alumni, can book a single standard outing (see above; e.g., a single punt for up to 3 hours) each day. Punt Club members can book punts for free. Only members can book the canoe, kayaks, or paddle boards.
 </p>
 
 <p align="justify">
-Bookings can be made on the day, or up to seven days in advance, and are allocated on a first-come, first-served basis. Each person is permitted to make one reservation per day lasting 3 hours. Weekends are the busiest and booking in advance is strongly recommended. During the week you will usually be able to take a punt out without booking in advance - but it is still recommended to avoid disappointment.
+Bookings can be made on the day, or up to seven days in advance, and are allocated on a first-come, first-served basis. Weekends are the busiest and booking in advance is strongly recommended. During the week you will usually be able to take a punt out without booking in advance - but it is still recommended to avoid disappointment.
 <strong>
-For students & college members with a raven login (CRSid): all bookings need to be made before the outing starts via the online booking system.
+For students & College members with a Raven login (CRSid): all bookings need to be made before the outing starts via the online booking system.
 </strong></p>
 
 <p align="justify">
-Trips down The Backs (to Jesus Green and back) typically take between a couple of hours depending on punting experience. Trips to Grantchester and back take 4 to 5 hours on average. As a consequence, the fee for punt trips to Grantchester is equivalent to two outings per punt or you need at least two members to make the journey; The latest time vessels can be taken out is one hour before sunset and
-<strong>
-all vessels must be returned and moored before sunset.
-</strong></p>
+Trips down The Backs (to Jesus Green and back, passed the Colleges) typically take a couple of hours depending on punting experience. Trips to Grantchester and back take 4 to 5 hours on average. As a consequence, punt trips to Grantchester are equivalent to two outings per punt, so you'll need at least two members to make the journey; The latest time vessels can be taken out is one hour before sunset and <strong>all vessels must be returned and moored before sunset.</strong></p>
 
 <p align="justify">
-<strong>For longer trips to Grantchester, if multiple punts are required or other non-standard bookings please contact the Admiral of the Punts.
+<strong>For longer trips to Grantchester, if multiple punts are required, or for other non-standard bookings please contact the Admiral of the Punts.
 </strong></p>
 
 <a href="https://booking.dar.cam.ac.uk/Web/view-schedule.php?sid=4">Link to the online booking system</a>
 
 
-<h5>For alumni without a raven log in</h5>
+<h5>For Alumni Without A Raven Log-In</h5>
 <p align="justify">
-Alumni must contact the College Development Office at <a href="alumni.relations@darwin.cam.ac.uk">alumni.relations@darwin.cam.ac.uk</a> who will be able to make the booking in your place. Same-day bookings can be made in person at the porters’ lodge, but we strongly advise you to make the reservation to avoid disappointments.
+Alumni must contact the College Development Office at <a href="alumni.relations@darwin.cam.ac.uk">alumni.relations@darwin.cam.ac.uk</a> who will be able to make the booking in your place. Same-day bookings can be made in person at the Porters’ Lodge, but we strongly advise you to make the reservation to avoid disappointments.
 </p>
 
 <p align="justify">
-Chauffeured punt tour services with experienced student punt captains are available. The cost per tour is £30 for punt club members or £40 for non- punt club members and is bookable by current college members and alumni. Please contact the Admiral of the punts by email at least one to two weeks in advance of your desired tour date.
+Chauffeured punt tour services with experienced student Punt Captains are available. The usual cost is £20 per punt per hour, and is bookable by current College members and Alumni. Please contact the Admiral of the punts at least one to two weeks in advance of your desired tour date.
 </p><br>
-
 
 <h4 id="joining-the-punt-club">Joining the Punt Club/Renewing membership</h4>
 
 <p align="justify">
-Current members of the college, including staff, and alumni can join the punt club for a non-refundable £30 fee. Membership is valid for the current season (March-November), or if purchased after Sept. 1st, until the end of next year's season. No discounts or refunds will be given for members arriving mid-season, or leaving before the season ends. The membership entitles you to unlimited, free punting (for up to 3h a day) as well as access to all our punts and the other vessels. There is no subscription, so members need to signup here again every year to renew their membership.
+Current members of the college, including Staff and Alumni, can join the Punt Club for a non-refundable £30 fee. Membership is valid for the current season (March-November), or if purchased after Sept. 1st, until the end of next year's season. No discounts or refunds can be given for members arriving mid-season, or leaving before the season ends. The membership entitles you to unlimited, free Standard Outings with the punts, kayaks, canoe, and paddle boards. There is no available subscription programme, so members need to sign up here again every year to renew their membership.
 </p>
 
 <p align="justify">
-To know firsthand about many of the events the Punt Club is organizing throughout the year and important changes to the Terms & Conditions, we ask all members to sign up to our <a href="https://lists.cam.ac.uk/mailman/listinfo/soc-darwin-punt-club">Punt Club Mailing List</a>. This is a very low volume mailing list, with only occasional updates.</p><br>
+To know firsthand about many of the events the Punt Club is organizing throughout the year, and important changes to the Terms & Conditions, we ask all members to sign up to our <a href="https://lists.cam.ac.uk/mailman/listinfo/soc-darwin-punt-club">Punt Club Mailing List</a>. This is a very low volume mailing list, with only occasional updates.</p><br>
 
 To join the Punt Club or renew your membership:
 <ol>
@@ -138,16 +140,16 @@ To join the Punt Club or renew your membership:
 <!-- <li>For Raven account holders/ if you have a CRSID:<br> -->
 <!-- NOTE, signup is closed for the 2019/2020 season. Please DO NOT SIGNUP unless directed to do so by the Admiral of the -->
 <!-- Punts. We will open the signup again early next year!</li> -->
-<strong><b>Important, make sure to complete the form all the way and press the submit button at the end, after completing the Paypal payment. Without submitting the form, you are not in the data base and we don't have a record of your signup! It can take up to 24hrs before your signup is processed. Until then, you might not be able to make bookings on the booking platform.</b></strong>
+<strong><b>IMPORTANT - make sure to complete the form all the way and press the submit button at the end, after completing the Paypal payment. Without submitting the form, you are not in the data base and we don't have a record of your signup! It can take up to 24hrs before your signup is processed. Until then, you might not be able to make bookings on the booking platform.</b></strong>
 Note that you don't need to have a PayPal account in order to pay for the membership. You can pay on the PayPal portal with a debit card, using the Checkout as Guest button.
 Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLSdROMaTJCwffXdOCvyxVIoTKCjjyYmpyPpQnmP2P2S8cxlXIg/viewform?usp=sf_link">the online registration form</a></ul></li>
 
-<li>For anyone without a Raven account/ CRSID:<br>
-Contact the Admiral of the Punts (include your full name, email, and your relationship to the college), please put the Darwin Alumni Relations Office in cc (alumni.relations@darwin.cam.ac.uk).
+<li>For anyone without a Raven account/CRSid:<br>
+Contact the Admiral of the Punts (include your full name, email, and your relationship to the College), please put the Darwin Alumni Relations Office in cc (alumni.relations@darwin.cam.ac.uk).
 </li>
 </ol>
 
-If you have any issues with the registration form or anything else is unclear, please contact us at dcsa_punts AT darwin.cam.ac.uk
+If you have any issues with the registration form or anything else is unclear, please contact us at dcsa_punts@darwin.cam.ac.uk
 
 
 
@@ -160,48 +162,47 @@ Punting has a long tradition in Cambridge and is one of the highlights of what t
 
 
 
-<h4 id="first-outing">First outing - what you need to know</h4>
+<h4 id="first-outing">First Outing - What You Need To Know</h4>
 
-<p align="justify">
-A small number of life jackets are available if desired and can be found in the same cupboards as the cushions (left side of the kayak house) and on the hangers. You are required to use them when using the kayaks and canoe.
-</p><br>
+<p><strong>IMPORTANT</strong></p>
+<p align="justify">A number of life jackets are available for use and can be found hanging on the left-hand wall of the Kayak House. You are required to use them when using the kayaks and canoe. Please return them to their hooks after use. Children's life jackets are available in boxes at the rear of the Kayak House.</p><br>
 
 <strong>Where is the equipment?</strong>
 <p align="justify">
-All equipment (life jackets, punt cushions, punt poles, spare paddle in case you drop the pole (more useful than you think) can be found in our new kayak house, just next to the Old Granary.
+All equipment (life jackets, punt cushions, punt poles, spare paddle in case you drop the pole (more useful than you think) can be found in our Kayak House, just next to the Old Granary. Please put equipment back where you found it, following the signs and photos that are located there. Students running the Punt Club put an enormous amount of effort into keeping the Club running, and keeping the Kayak House organized is a huge help in this.
 </p>
 <a href="{{site.baseurl | absolute_url}}/images/puntshow/KayakHouseLocation.png"><img src="{{site.baseurl | absolute_url}}/images/puntshow/KayakHouseLocation.png" alt="[Kayak House Location]" width="300px"/></a>
 <br>
 
 <strong>How to lock a punt?</strong>
-<p align="justify">
-This is a tricky one. <a href="{{site.baseurl | absolute_url}}/documents/PuntClub-Notices.pdf">This document</a> has some information on how to do it. Punts need to be moored at both ends. Do NOT chain one punt to another punt – this creates problems when someone tries to take that punt out. Wrap the chain around the post as often as possible to restrict the movement of the locked-up punts against the concrete walls. But make sure not to lock them too rigidly, so the next person can still use them with ease, even if they are not as strong as you.
+<p align="justify">This is a tricky one. <a href="{{site.baseurl | absolute_url}}/documents/PuntClub-Notices.pdf">This document</a> has some information on how to do it. Punts need to be moored at both ends.</p>
+<p align="justify">Do <strong>NOT</strong> chain one punt to another punt; this creates problems when someone tries to subsequently take that punt out.</p>
+<p align="justify">Wrap the chain around the post as many times as possible to restrict the movement of the locked-up punts against the concrete walls. But make sure not to lock them too rigidly, so the next person can still use them with ease, even if they are not as strong as you.
 </p><br>
 
 <strong>What is bailing?</strong>
 <p align="justify">
-If you are using the punts after a period of rain, keep in mind that they are likely to contain water! There should be a bucket or bailer at the quay to bail out the water (looks like a blue dustpan). Don't take the bailer with you on the river!
+If you are using the punts after a period of rain, keep in mind that they are likely to contain water! There is bailing equipment within the Kayak House (looks like a blue dustpan). Please do not take the bailer with you on the river.
 </p><br>
 
 <strong>What if I am late?</strong>
 <p align="justify">
-Always try to keep to the allotted time. Late-comers risk suspension from the Punt Club. This is particularly important in the evening, never arrive back after dark. In case you are more than 15min late, please make sure to call and inform the Porters’ Lodge at 01223 335660.
+Always try to keep to the allotted time. Late-comers risk suspension from the Punt Club. This is particularly important in the evening, never arrive back after dark. In case you are more than 15min late, for example if you are stuck with heavy wind, please make sure to call and inform the Porters’ Lodge at 01223 335660.
 </p><br>
 
 <strong>What to do before returning the keys?</strong>
 <p align="justify">
-Make sure the punts are properly locked. Keep the punts tidy and take any rubbish with you. Return all equipment to where you got it from. If something gets damaged or lost during an outing, report it to the Porter on duty <strong>AND</strong> the Admiral of the Punts as soon as possible. This allows people with later reservations to be notified if there is a problem and will save you a lot of trouble.
+Make sure the punts are properly locked. Keep the punts tidy and please take any rubbish with you. Return all equipment to where you got it from, following the signs in the Kayak House. If something gets damaged or lost during an outing, report it to the Porter on duty <strong>and</strong> the Admiral of the Punts as soon as possible. This allows people with later reservations to be notified if there is a problem and will save you a lot of trouble.
 </p><br>
 
 <strong>How to steer a punt?</strong>
 <p align="justify">
-We have a complete <a href="{{site.baseurl | absolute_url}}/documents/PuntGuide.pdf">guide</a> on the topic, but then the best way of learning is probably by doing. The club runs free punting lessons throughout Freshers’ Fortnight at the start of the academic year and these are the best opportunity to learn the basics of punting on the Cam.
-We might also offer lessons at other times of the year if there is sufficient demand, so please contact the Admiral of the Punts if you are interested.
-</p><br>
+We have a complete <a href="{{site.baseurl | absolute_url}}/documents/PuntGuide.pdf">guide</a> on the topic, but then the best way of learning is probably by experiencing it! The club runs free punting lessons throughout Freshers’ Fortnight at the start of the academic year and these are the best opportunity to learn the basics of punting on the Cam.</p>
+<p align="justify">Punt Captains may also be happy to offer lessons at other times of the year, so please contact the Admiral of the Punts if you are interested.</p><br>
 
 <strong>How to make a booking?</strong>
 <p align="justify">
-To book, log in to the portal to see the availability of the vessels. To make a booking, click on an available time slot. The ‘Create a new reservation’ page will then open. Enter your chosen time, under name of booking enter your full name and CRSID eg John Doe (jd42), then ‘Create’. The booking should then appear under the schedule, payment (in case of single outing, we accept only cashless payments) must be made when you arrive at the porter’s lodge to pick up the keys at the start of the booking.
+To book, log in to the portal to see the availability of the vessels (please note that there is one portal for punts only and another portal for other vessels). To make a booking, click on an available time slot. The ‘Create a new reservation’ page will then open. Enter your chosen time, under name of booking enter your full name and CRSID eg Jane Doe (jd42), then ‘Create’. The booking should then appear under the schedule, payment (in case of single outing, we accept only cashless payments) must be made when you arrive at the Porters' Lodge to pick up the keys at the start of the booking.
 </p><br>
 
 
