@@ -108,7 +108,7 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
     <td style="vertical-align: middle">
         <strong>Disabilities Officer</strong><br/>
          dcsa_disabilities AT darwin.cam.ac.uk<br/>
-         Jennifer Hawkin<br/>
+         Jennifer HAWKIN<br/>
         <p align="justify">
 Jenny has been part of Darwin since January 2021 and is working towards a PhD in the Use-Less Group in the Engineering Department (we know, it’s an awful pun). Her PhD is working to understand if net-zero emissions proposals are actually feasible.<br><br>
 
@@ -196,7 +196,7 @@ The External Officer is responsible for organising formal swaps with other Colle
     <td style="vertical-align: middle">
         <strong>Families Officer</strong><br/>
          dcsa_families AT darwin.cam.ac.uk<br/>
-         Tash Eisner <br/>
+         Tash EISNER <br/>
         <p align="justify">
 Tash is an MPhil student in Critical Approaches to Children’s Literature whose research centres on the portrayal of dragons within YA fantasy. Tash has a small baby, a large dog, and a medium sized husband. Somewhat unsurprisingly, Tash really enjoys reading and a good ‘family-size’ (geddit?) bar of dairy milk.  When time permits, Tash is also a barre fitness addict. You will often see Tash dashing around college with her pram.<br><br>
 
