@@ -15,9 +15,9 @@ permalink: /meet-the-dcsa/
     <td style="vertical-align: middle">
         <strong>President</strong><br/>
         dcsa_president AT darwin.cam.ac.uk<br/>
-        Daniel BUHL<br/>
+        Chelsea EDMONDS<br/>
         <p align="justify">
-Dan is a final year PhD student in Biological Sciences at the Department for Veterinary Medicine developing methods for the detection of bacteria in clinical samples.<br><br>
+Chelsea is a third year PhD student in Computer Science working on verifying & automating mathematical proof. Outside of academia, she enjoys playing the violin, cycling, reading, baking and travel! If you have any ideas or questions, she's always up for a chat or tea/coffee break around Darwin.<br><br>
 
 The President is the representative of the DCSA to College, voicing the opinions of the students to all College members. They coordinate the committee by chairing DCSA Regular Meetings and General Meetings. The President works very closely with the Secretary, Treasurer, and the rest of the committee to ensure work is completed. The President sits on the College Council as a student representative, attends fortnightly Cambridge Students’ Union meetings, and sits on numerous College committees (including Strategic Planning, PREVENT, Health & Safety, and Wine).
         </p>
@@ -30,9 +30,10 @@ The President is the representative of the DCSA to College, voicing the opinions
     <td style="vertical-align: middle">
         <strong>Secretary</strong><br/>
         dcsa_secretary AT darwin.cam.ac.uk<br/>
-        Vivian Miles LECHNER<br/>
+        Jacob MOSS<br/>
         <p align="justify">
-Miles is a fourth-year PhD student at the Department of Chemistry, working on the development of DNA bioconjugation methods in the context of epigenetic sequencing.<br><br>
+Jacob is a second year PhD student at the Computer Lab where he researches statistical models of genomics.
+<br><br>
 
 The Secretary is the administrator of the committee and the Vice President (chair meetings and run the committee in the absence of the President). They run DCSA elections, take meeting minutes, and ensure that up-to-date records of the DCSA’s affairs are maintained, including policy documents and the DCSA Constitution, Schedule, & Regulations. The Secretary also sits on the Buildings & Grounds and the Darwin College Society Committees; and is in charge of the TV room and its bookings.
         </p>
@@ -62,9 +63,9 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
     <td style="vertical-align: middle">
         <strong>Admiral of the Punts</strong><br/>
         dcsa_punts AT darwin.cam.ac.uk<br/>
-        Michael SCHNEIDER<br/>
+        Jonny ITCOVITZ<br/>
         <p align="justify">
-Michael is a third year PhD student in Medical Genomics; he is using computational and statistical tools to identify the processes that drive cancer development.<br><br>
+<br><br>
 
 The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website</a> if you’d like to learn more about the Darwin Punt Club.
         </p>
@@ -92,9 +93,9 @@ The BAME officer works with college to further the needs of BIPOC students, to c
     <td style="vertical-align: middle">
         <strong>Communications Officer</strong><br/>
          dcsa_coms AT darwin.cam.ac.uk<br/>
-         Hilde SCHNEEMANN<br/>
+         Tor Erlend FJELDE<br/>
         <p align="justify">
-Hilde is a PhD student in the genetics department. For her PhD she is modelling hybrid fitness, thinking about the origin of species, and counting flowers at the botanical gardens. Outside of work, she can often be found on the river or the rugby pitch.<br><br>
+Tor is a second year PhD student in Engineering department in the Computational and Biological Learning (CBL) group. Outside of his studies, he puts his old body on the line for the glory of Darwin College FC.<br><br>
 
 The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="https://lists.cam.ac.uk/sympa/subscribe/darwin-whatsup?previous_action=info">mailing list</a>!
         </p>
@@ -109,9 +110,8 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
          dcsa_disabilities AT darwin.cam.ac.uk<br/>
          Jennifer Hawkin<br/>
         <p align="justify">
-.<br><br>
+Jenny has been part of Darwin since January 2021 and is working towards a PhD in the Use-Less Group in the Engineering Department (we know, it’s an awful pun). Her PhD is working to understand if net-zero emissions proposals are actually feasible.<br><br>
 
-.
         </p>
     </td></tr>
     
@@ -122,9 +122,9 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Jordan LEE<br/>
+        Esme SOUTHERN<br/>
         <p align="justify">
-Jordan is a PhD student at the Department of Medicine researching stroke and heart attack. He is all about having fun, if he’s not too busy organising BOPs and other fun events, you will often find him around College and Darbar. Feel free to contact Jordan if you have any fun event ideas!  <br><br>
+<br><br>
 
         </p>
     </td>
@@ -228,7 +228,7 @@ The International Officer is responsible for representing the needs of internati
         dcsa_lgbtq AT darwin.cam.ac.uk<br/>
         Sarah CARLO<br/>
         <p align="justify">
-Sarah is a PhD student at the Institute of Criminology, where she is studying Queer Intimate Partner Violence, specifically the role of morality within decision making. Outside of her studies, Sarah’s favorite lockdown activity is playing video games and is often found with a pint in hand at the pub (socially distanced, of course).
+Sarah is a PhD student at the Institute of Criminology, where she is studying Queer Intimate Partner Violence, specifically the role of morality within decision making. Outside of her studies, Sarah’s favorite lockdown activity is playing video games and is often found with a pint in hand at the pub (socially distanced, of course).<br/><br/>
 
 The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Sarah is always there to chat, advise and help out where possible.
         </p>
@@ -241,9 +241,9 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
     <td style="vertical-align: middle">
         <strong>Sports and Societies Officers</strong><br/>
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Asmaysinh GHARIA<br/>
+         Kamilė STANKEVIČIŪTĖ<br/>
         <p align="justify">
-Asmay is a second-year PhD student in bioelectronics, developing a micro-electromechanical systems platform to efficiently generate cellular immunotherapie.<br><br>
+Kamilė is a second-year PhD student in machine learning for medicine. While she's waiting for her models to train, you can find her at the gym, running, or dancing salsa (pictured) ;)<br><br>
 
         </p>
     </td></tr>
@@ -254,9 +254,13 @@ Asmay is a second-year PhD student in bioelectronics, developing a micro-electro
     </td>
     <td style="vertical-align: middle">
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Chelsea EDMONDS<br/>
+         Sonia UBONG<br/>
         <p align="justify">
-Chelsea is a third year PhD student in Computer Science working on verifying & automating mathematical proof. Outside of academia, she enjoys playing the violin, cycling, reading, baking and travel! If you have any ideas or questions, she's always up for a chat or tea/coffee break around Darwin.<br><br>
+Sonia is a MPhil student at the Department of Surgery. Her research interests centre around hip pathologies that affect young adults.
+
+Outside of academia Sonia loves keeping active and competing both regionally and nationally in Rugby and Pole Fitness. She earned her Cambridge Blue in the 2022 Rugby Varsity match at Twickenham. Her combined interest in Orthopaedic surgery and sports has ultimately led to her growing fascination in young adult hip surgery, specifically athletes returning to play.
+
+She is more than happy to discuss any ideas or suggestions on building on Darwin’s already exciting community!<br><br>
 
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May.
         </p>
@@ -270,9 +274,9 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
         <strong>Welfare Officers</strong><br/>
         dcsa_welfare AT darwin.cam.ac.uk<br/>
         <!--dcsa_womens_welfare AT darwin.cam.ac.uk<br/>-->
-        Elena GOMEZ GARCIA<br/>
+        Francesca RIDGEWAY BISHOP<br/>
         <p align="justify">
-Elena is a first year PhD student in Biology, studying Embryonic Development. She likes singing, being under the sun and looking at fish in the sea. She is passionate about the importance of normalizing Mental Health issues, so feel free to ask her about her recovery from an eating disorder and share (or not, that’s also fine!) your own struggles.<br><br>
+Francesca is a first year PhD student in the department of Chemistry, studying enzymatic DNA synthesis. When she’s not in the lab, she is usually either swimming or spending time with friends. She is always up to grab a tea or coffee together if you have anything you need to chat about! <br><br>
 
        </p>
     </td></tr>
@@ -320,9 +324,8 @@ The Women's Officer is responsible for representing and furthering the needs of 
     <td style="vertical-align: middle">
         <strong>College Council Representatives</strong><br/>
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Iván SHLAMOVITZ<br/>
+        Sarah MAZILIAUSKAS<br/>
         <p align="justify">
-Iván is a first-year PhD student in Molecular Biology at the LMB, studying transcription. He has a deep addiction to mate, science policy, dipping in the Cam and all things Boca Juniors.
 <br><br>
 
         </p>
