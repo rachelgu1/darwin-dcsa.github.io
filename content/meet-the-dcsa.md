@@ -80,9 +80,9 @@ The Admiral of the Punts is responsible for all the vessels the punt club owns, 
         dcsa_bame AT darwin.cam.ac.uk<br/>
         Tanyaradzwa MANGOMA<br/>
         <p align="justify">
-Tanya is a final year PhD student in Engineering working on 3D printing brain-like devices. Outside her studies, she enjoys chilling with her friends with a glass or two of wine. She is here to share some of the resources that have helped her throughout her stay in Cambridge. Don’t hesitate to get in touch.<br><br>
+Kang-Lung Lee is a first-year PhD student in the Department of Radiology. He is a consultant radiologist and a university lecturer at his institution and university in Taiwan. His research focuses on prostate imaging and medical utilization, aiming at reducing the inequalities and barriers to accessing medical services. During his free time, he likes to work out in the gym, swim, and travel.<br><br>
 
-The BAME officer works with college to further the needs of BIPOC students, to create initiatives through which we can create a space that allows BIPOC students to reach their full potential, and better the everyday experience of life in Cambridge, as well as to figure out ways to deal with structural racism and increasing access for BIPOC.
+The BAME officer works with college to further the needs of Black, Indigenous, and People of Colour’ (BIPOC) students, to create initiatives through which we can create a space that allows BIPOC students to reach their full potential, and better the everyday experience of life in Cambridge, as well as to figure out ways to deal with structural racism and increasing access for BIPOC.
         </p>
     </td></tr>
 
@@ -124,7 +124,8 @@ Jenny has been part of Darwin since January 2021 and is working towards a PhD in
         dcsa_ents AT darwin.cam.ac.uk<br/>
         Esme SOUTHERN<br/>
         <p align="justify">
-<br><br>
+
+Esme is studying for a PhD, investigating earthquakes associated with magma moving beneath the surface of Icelandic volcanoes. She enjoys sailing, climbing, music, and, of course, bopping in DarBar.<br><br>
 
         </p>
     </td>
@@ -326,7 +327,7 @@ The Women's Officer is responsible for representing and furthering the needs of 
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
         Sarah MAZILIAUSKAS<br/>
         <p align="justify">
-<br><br>
+Sarah is a first year PhD student in molecular neuroscience. She spends her free time kayaking and eating ramen.<br><br>
 
         </p>
     </td></tr>
@@ -353,10 +354,9 @@ The College Council Reps are elected by the students to represent them in Colleg
     <td style="vertical-align: middle">
         <strong>Bar Committee Chair</strong><br/>
         dcsa_bar AT darwin.cam.ac.uk<br/>
-        Zoë AUDRA<br/>
+        Poppy OLDROYD<br/>
         <p align="justify">
-Zoë is a third-year PhD in classics, she is researching the role of knowledge in theories of action in early Greek philosophy and science. 
-When she is not at the bar, she can be found climbing or discussing philosophy and/or politics over a coffee.<br><br>
+Poppy is a third-year PhD in bioelectronics, she is working on developing flexible electrodes to implant into the brain for treatment of chronic diseases. Poppy is usually found at the bar drinking one of their great German beers. Outside of the bar, she is actively involved in rowing and loves grabbing a coffee!<br><br>
 
 Darbar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee and the large group of bartenders, and makes sure everyone can enjoy the bar, whilst keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making Darbar even better please get in contact with the email above. The Bar Chair is elected by the Bar Committee rather than being elected by all students.
         </p>
