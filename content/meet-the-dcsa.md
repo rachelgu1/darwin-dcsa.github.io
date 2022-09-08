@@ -9,7 +9,7 @@ permalink: /meet-the-dcsa/
 <table>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -24,7 +24,7 @@ The President is the representative of the DCSA to College, voicing the opinions
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Secretary.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Secretary.jpg" alt="[Secretary's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -40,7 +40,7 @@ The Secretary is the administrator of the committee and the Vice President (chai
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Treasurer.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Treasurer.jpg" alt="[Treasurer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -57,7 +57,7 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
 <!-- Officers -->
 <!-- Alphabetical -->
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Admiral.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Admiral.jpg" alt="[Admiral's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -72,7 +72,7 @@ The Admiral of the Punts is responsible for all the vessels the punt club owns, 
     </td></tr>
     
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-BAME.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-BAME.jpg" alt="[BAME Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -87,7 +87,7 @@ The BAME officer works with college to further the needs of Black, Indigenous, a
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Communications.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Communications.jpg" alt="[Communications Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -102,7 +102,7 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Disabilies.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Disabilities.jpg" alt="[Disabilities Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -116,7 +116,7 @@ Jenny has been part of Darwin since January 2021 and is working towards a PhD in
     </td></tr>
     
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-I.jpg" alt="[Ents Officer's I picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -131,7 +131,7 @@ Esme is studying for a PhD, investigating earthquakes associated with magma movi
     </td>
 </tr>
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-II.jpg" alt="[Ents Officer's II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -146,7 +146,7 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are re
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Environment-Ethics.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Environment-Ethics.jpg" alt="[Environment and Ethics Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -161,7 +161,7 @@ The Environmental & Ethical Affairs Officer is responsible for the coordination 
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Events.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Events.jpg" alt="[Events Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -176,7 +176,7 @@ The Events Officer coordinates, organises, and promotes social and entertainment
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-External.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-External.jpg" alt="[External Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -191,7 +191,7 @@ The External Officer is responsible for organising formal swaps with other Colle
     </td></tr>
     
     <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Families.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Families.jpg" alt="[Families Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -206,7 +206,7 @@ The Families Officer is responsible for representing and furthering the needs of
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-International.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-International.jpg" alt="[International Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -221,7 +221,7 @@ The International Officer is responsible for representing the needs of internati
     </td></tr>
         
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Q+.jpg" alt="[Q+ Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -236,7 +236,7 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Sports-Societies-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Sports-Societies-I.jpg" alt="[Sports and Societies Officer's I picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -250,7 +250,7 @@ Kamilė is a second-year PhD student in machine learning for medicine. While she
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Sports-Societies-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Sports-Societies-II.jpg" alt="[Sports and Societies Officer's II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -268,7 +268,7 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
     </td></tr>
     
     <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-I.jpg" alt="[Welfare Officer I picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -283,7 +283,7 @@ Francesca is a first year PhD student in the department of Chemistry, studying e
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Welfare-II.jpg" alt="[Welfare Officer II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -298,7 +298,7 @@ The Welfare Officers are the student contact for students who are in need of hel
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Women.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Women.jpg" alt="[Women's Officer's picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -319,7 +319,7 @@ The Women's Officer is responsible for representing and furthering the needs of 
 
 <table>
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-College-Council-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-College-Council-I.jpg" alt="[College Council I picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -333,7 +333,7 @@ Sarah is a first year PhD student in molecular neuroscience. She spends her free
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-College-Council-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-College-Council-II.jpg" alt="[College Council II picture]" width="300px"/></a>
     </td>
     <td style="vertical-align: middle">
@@ -347,7 +347,7 @@ The College Council Reps are elected by the students to represent them in Colleg
     </td></tr>
 
 <tr>
-    <td style="vertical-align: middle">
+    <td class="meet-the-dcsa--profile-picture-container">
          <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Barcom.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Barcom.jpg" alt="[Barcom's picture]"
          width="300px"/></a>
     </td>
