@@ -74,7 +74,7 @@ A quick summary (not comprehensive), you are still expected to read the full Ter
 <li>All punt, kayak, paddle board, and canoe hire (including safety equipment) is at the hirer’s own risk. The hirer warrants that both themselves and all passengers have sufficient training/expertise for the outing (<strong>see the terms and conditions for more details on this.</strong>)</li>
 </ul>
 
-<strong>IMPORTANT</strong> - to avoid damage to the boats
+<p align="justify"><strong>IMPORTANT</strong> - to avoid damage to the boats</p>
 <ul>
 <li>When using the rollers on trips to Grantchester, please put the mooring pins (located on chains at the bow/stern of the punts) <strong>inside of the punts, do not keep them inside of their holes</strong>, as they can bend and cause damage to the punts. The mooring pin must be sawn off, and you may be charged for replacement parts and/or labour.</li>
   <li>When using the kayaks, make sure to <strong>pull up their rear rudders</strong> when they are out of the water to avoid damaging the rudder. When in the water, let the rudder down using the pulley on the side of the kayaks to make it easier to steer.</li>
