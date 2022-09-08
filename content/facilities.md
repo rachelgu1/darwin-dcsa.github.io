@@ -9,7 +9,7 @@ image_sliders:
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 <details>
-  <summary><strong>BBQ & Island</strong></summary>
+  <summary>BBQ & Island</summary>
 
 <h3>BBQ & Island</h3>
 
@@ -23,7 +23,7 @@ To book please contact the bursary for terms and conditions at bursary@darwin.ca
 
 
 <details>
-  <summary><strong>DarBar</strong></summary>
+  <summary>DarBar</summary>
 
 <h3>DarBar</h3>
 <p align="justify">
@@ -52,7 +52,7 @@ parts of Darwin College student life or if you have any questions about the bar,
 
 
 <details>
-  <summary><strong>Gym</strong></summary>
+  <summary>Gym</summary>
 
 <h3>Gym</h3>
 <p align="justify">
@@ -94,7 +94,7 @@ To book the gym please click <a href="https://booking.dar.cam.ac.uk/Web/schedule
 </details>
 
 <details>
-	<summary><strong>Music</strong></summary>
+	<summary>Music</summary>
 
 <h3>Music at Darwin</h3>
 
@@ -199,7 +199,7 @@ Francis Knights (Choir): fk240 AT cam.ac.uk<br>
 
 
 <details>
-  <summary><strong>Punting</strong></summary>
+  <summary>Punting</summary>
 
 <h3>Punt Club</h3>
 
