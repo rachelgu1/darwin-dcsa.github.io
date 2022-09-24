@@ -78,7 +78,7 @@ The Admiral of the Punts is responsible for all the vessels the punt club owns, 
     <td style="vertical-align: middle">
         <strong>BAME Officer</strong><br/>
         dcsa_bame AT darwin.cam.ac.uk<br/>
-        Tanyaradzwa MANGOMA<br/>
+        Kang-Lung LEE<br/>
         <p align="justify">
 Kang-Lung Lee is a first-year PhD student in the Department of Radiology. He is a consultant radiologist and a university lecturer at his institution and university in Taiwan. His research focuses on prostate imaging and medical utilization, aiming at reducing the inequalities and barriers to accessing medical services. During his free time, he likes to work out in the gym, swim, and travel.<br><br>
 
