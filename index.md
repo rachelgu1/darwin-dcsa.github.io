@@ -16,7 +16,7 @@ Joining the University of Cambridge and Darwin College is a huge accomplishment,
 
 # Get Connected!
 
-Each year, the DCSA publishes a [Welcome Guide](https://drive.google.com/drive/folders/1YWlWgd3Vif-PWFDuuanZD-YBLBO4CPuL?usp=sharing) for new students that gives some helpful information for those new to Cambridge, details our sports & societies, and outlines the events we offer. You can also stay up-to-date with all of our events throughout the year by subscribing to our <a href="{{site.baseurl | absolute_url}}/events">calendar of events</a>.
+Each year, the DCSA publishes a [Welcome Guide](https://drive.google.com/file/d/1hEej8_-QqilkWVE3pxD03Trh5qC2ycUq/view?usp=sharing) for new students that gives some helpful information for those new to Cambridge, details our sports & societies, and outlines the events we offer. You can also stay up-to-date with all of our events throughout the year by subscribing to our <a href="{{site.baseurl | absolute_url}}/events">calendar of events</a>.
 {: .text-justify}
 
 You are also invited to join the [Darwin College Students Facebook group](https://www.facebook.com/groups/620314237989802/) and the [Darwin College Marketplace](https://www.facebook.com/groups/1034884709909649/). In order to keep it just for us students, though, we require that you include your CamID (the letters/numbers at the beginning of your @cam.ac.uk email address) when requesting to join. For those living in Mount Pleasant Halls, you can join the [MPH WhatsApp Group](https://chat.whatsapp.com/
