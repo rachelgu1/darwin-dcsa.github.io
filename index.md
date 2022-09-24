@@ -19,7 +19,7 @@ Joining the University of Cambridge and Darwin College is a huge accomplishment,
 Each year, the DCSA publishes a [Welcome Guide](https://drive.google.com/drive/folders/1YWlWgd3Vif-PWFDuuanZD-YBLBO4CPuL?usp=sharing) for new students that gives some helpful information for those new to Cambridge, details our sports & societies, and outlines the events we offer. You can also stay up-to-date with all of our events throughout the year by subscribing to our <a href="{{site.baseurl | absolute_url}}/events">calendar of events</a>.
 {: .text-justify}
 
-You are also invited to join the [Darwin College Students WhatsApp group](https://chat.whatsapp.com/
-ExS0xytUBP0HZTsMLoSwTl) and the [Darwin College Marketplace](https://www.facebook.com/groups/1034884709909649/). In order to keep it just for us students, though, we require that you include your CamID (the letters/numbers at the beginning of your @cam.ac.uk email address) when requesting to join. For those living in Mount Pleasant Halls, you can join the [MPH Group](https://www.facebook.com/groups/MPHDarwinians/) to connect with your neighbours.
+You are also invited to join the [Darwin College Students Facebook group](https://www.facebook.com/groups/620314237989802/) and the [Darwin College Marketplace](https://www.facebook.com/groups/1034884709909649/). In order to keep it just for us students, though, we require that you include your CamID (the letters/numbers at the beginning of your @cam.ac.uk email address) when requesting to join. For those living in Mount Pleasant Halls, you can join the [MPH WhatsApp Group](https://chat.whatsapp.com/
+ExS0xytUBP0HZTsMLoSwTl) to connect with your neighbours.
 We also send out a weekly email newsletter, called WhatsUp. Make sure that you [subscribe to it here](https://lists.cam.ac.uk/sympa/subscribe/darwin-whatsup?previous_action=info) using your @cam.ac.uk email!
 {: .text-justify}
