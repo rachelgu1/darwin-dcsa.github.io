@@ -5,7 +5,7 @@ permalink: /welfare/
 # Welfare
 
 Your mental, physical, emotional, intellectual and spiritual well-being are essential for us here at Darwin. The 
-<a href="{{site.baseurl | absolute_url}}/meet-the-dcsa">Welfare team</a> is here to offer you peer-to-peer support, advise you and point you towards helpful resources. It is composed by the Men’s, Women’s and non-binary’s Welfare Officers, the Women’s Officer, the Q+ Officer and the BAME Officer. If you would like to get involved or if you have an idea of how to improve welfare at Darwin email dcsa_welfare@darwin.cam.ac.uk or talk to us. Welfare events can be found on the <a href="{{site.baseurl | absolute_url}}/events">DCSA calendar</a>.
+<a href="{{site.baseurl | absolute_url}}/meet-the-dcsa">Welfare team</a> is here to offer you peer-to-peer support, advise you and point you towards helpful resources. It is composed by the Men’s, Women’s and non-binary’s Welfare Officers, the Women’s Officer, the Q+ Officer, Disabilities' Officer and the BAME Officer. If you would like to get involved or if you have an idea of how to improve welfare at Darwin email dcsa_welfare@darwin.cam.ac.uk or talk to us. Welfare events can be found on the <a href="{{site.baseurl | absolute_url}}/events">DCSA calendar</a>.
 
 ## Resources
 
