@@ -220,9 +220,13 @@ The Families Officer is responsible for representing and furthering the needs of
     <td style="vertical-align: middle">
         <strong>International Officer</strong><br/>
          dcsa_international AT darwin.cam.ac.uk<br/>
-         Fariza ADILBEKOVA<br/>
+         Chike PILGRIM<br/>
         <p align="justify">
-Fariza is a MPhil student in Conservation Leadership, who is interested in finding ways to ensure social equity and justice in wildlife conservation. During her free time, she enjoys swimming and spending time with her friends. You may find her drinking coffee or meditating on the college island – please come say hi!<br><br>
+Hi, I'm Chike, a second year PhD in Archaeology hailing from the
+beautiful twin island republic of Trinidad and Tobago. I enjoy
+punting, playing football, hanging out at DarBar, and grabbing a
+trowel and scrambling to ancient sites all over the globe.
+<br><br>
 
 The International Officer is responsible for representing the needs of international students (e.g. internal collegiate administrative matters - such as testing for international students), providing welfare support and organising events for fellow Darwinians which highlight cultural diversity. They also serve as a chair on the international crisis committee wherein international students speak about pertinent world affairs (e.g. political conflicts within their home countries).
         </p>
