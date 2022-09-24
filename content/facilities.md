@@ -57,7 +57,8 @@ parts of Darwin College student life or if you have any questions about the bar,
 <h3>Gym</h3>
 <p align="justify">
 <strong>The new gym will open at the start of October 2022; more information to follow soon!</strong>
-
+</p>
+<p align="justify">
 Darwin offers access to a fitness room for primary or associated members of the college. The membership is free and allows you to use the gym at any time. In order to gain access to the gym for the first time you will be required to attend a gym induction, which will typically be individually arranged with your Sports & Societies officers (dcsa_sports AT darwin.ac.uk) throughout the year. This induction is important to familiarise yourself with the rules, ask any questions you might have, sign the conditions of use form and finally activate your student card for access to the gym. Please respect the following rules and guidelines:
 </p>
 
@@ -81,6 +82,10 @@ Please be considerate, leave the gym if housekeeping wants to enter the gym for 
 	<summary>Music</summary>
 
 <h3>Music at Darwin</h3>
+
+<p align="justify">
+<strong>A bigger dedicated music room in the main building will be opening in Michaelmas 2022; more information to come!</strong>
+</p>
 
 <p align="justify">
 The Music Society has a range of equipment and facilities to help you with music making.
@@ -117,7 +122,7 @@ We permanently store a small amount of equipment in Bradfield Court - most found
 		an acoustic drum kit + additional percussion (no sticks!)
 	</li>
 	<li>
-		an electric piano
+		an upright piano
 	</li>
 	<li>
 		a Marshall guitar amp (no guitar/ jack leads)
@@ -159,8 +164,8 @@ Finally, we have 3 different pianos throughout the college. Please refer to the 
   </tr>
   <tr>
     <td>Old Library</td>
-    <td>Upright</td>
-    <td>Not currently usable.</td>
+    <td>Grand</td>
+    <td>Usuable</td>
   </tr>
   <tr>
     <td>Dining Hall</td>
@@ -173,6 +178,10 @@ Finally, we have 3 different pianos throughout the college. Please refer to the 
     <td>Yes via domestic.bursars.secretary AT darwin.cam.ac.uk</td>
   </tr>
 </table>
+
+<p align="justify">
+In addition to the above, a small piano practice room in Newnham Terrace 1 will be opening in Michaelmas 2022; more information to come!
+</p>
 
 Music soc committee 2021-2022:<br>
 Huge Ramsden (President): hor20 AT cam.ac.uk<br>
