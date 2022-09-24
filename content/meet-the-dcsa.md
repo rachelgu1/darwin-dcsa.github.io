@@ -115,6 +115,11 @@ The Comms Officer is responsible for sending out the WhatsUp email blasts, maint
         <p align="justify">
 Jenny has been part of Darwin since January 2021 and is working towards a PhD in the Use-Less Group in the Engineering Department (we know, it’s an awful pun). Her PhD is working to understand if net-zero emissions proposals are actually feasible.<br><br>
 
+This is the first time we’ve had a Disabilities’ Officer on the DCSA;
+the aim of the position is to support other DCSA officers and the
+college to improve accessibility for, and inclusivity of, students
+with any disability or long-term health condition. Please get in
+touch if you’d like a one-to-one chat, or just want to say hi!
         </p>
     </td></tr>
     
