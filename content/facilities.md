@@ -56,24 +56,10 @@ parts of Darwin College student life or if you have any questions about the bar,
 
 <h3>Gym</h3>
 <p align="justify">
-Darwin offers access to a fitness room for primary or associated members of the college. The membership is free and allows you to use the gym at any time. In order to gain access to the gym for the first time you will be required to attend a gym induction, which will typically be offered online during freshers’ week or can be individually arranged with your Sports & Societies officers (dcsa_sports AT darwin.ac.uk) throughout the year. This induction is important to familiarise yourself with the rules, ask any questions you might have, sign the conditions of use form and finally activate your student card for access to the gym. Please respect the following rules and guidelines:
-</p>
+<strong>The new gym will open at the start of October 2022; more information to follow soon!</strong>
 
-<strong>COVID Safety Measures</strong><br>
-<ul>
-  <li>The gym has a <strong>maximum capacity of 4 people</strong> (2 weights, 2 cardio) to allow for social distancing.</li>
-  <li>To prevent overcrowding and to comply with track-and-trace you will only be allowed to enter during your<strong> booked slot</strong>. If you do not intent to show up to your booked time, please delete your booking.</li>
-  <li>If you show any <strong>coronavirus symptoms</strong> (high temperature; new, continuous cough; loss or change to your sense of smell or taste) <strong>or feel unwell</strong>, do not book a slot and cancel all pre-existing bookings.</li>
-  <li><strong>Sanitise your hands </strong>with the hand sanitiser provided next to the door when you enter.</li>
-  <li><strong>Open the windows</strong> upon entry to allow for ventilation during your workout. Make sure to sanitise your hands before and after operating the windows.</li>
-  <li><strong>Try not to touch your face</strong> during your visit. Paper towels are provided in case you need but please bin these immediately and sanitise your hands.</li>
-  <li>Please try to <strong>stay in the marked area</strong> for weight training or cardio during your visit.</li>
-  <li><strong>Do not wander around the gym </strong>while resting and keep conversations to a minimum. Try not to touch anything that you do not intend to use for exercise purposes.</li>
-  <li><strong>Wipe down all equipment</strong> you are using with the sanitiser spray in your area. Please do so before and after your workout. Dispose of the paper towels immediately.</li>
-  <li>Due to social distancing guidelines you will not be able to work out together or have a spotter. <strong>Do not use heavy weights</strong> unless you are comfortable to do so and<strong> always use the safety spotter bars</strong> in the power rack. Unfortunately, we cannot allow coached sessions.</li>
-  <li>Please <strong>leave the gym when your time is over</strong> and make sure everything is clean. Check if the outer window is properly locked before you leave.</li>
- </ul>
- 
+Darwin offers access to a fitness room for primary or associated members of the college. The membership is free and allows you to use the gym at any time. In order to gain access to the gym for the first time you will be required to attend a gym induction, which will typically be individually arranged with your Sports & Societies officers (dcsa_sports AT darwin.ac.uk) throughout the year. This induction is important to familiarise yourself with the rules, ask any questions you might have, sign the conditions of use form and finally activate your student card for access to the gym. Please respect the following rules and guidelines:
+</p>
 
 <strong>General Rules</strong><br>
 <ul>
@@ -87,8 +73,6 @@ Darwin offers access to a fitness room for primary or associated members of the 
   <li>If at any time during your workout you feel unwell, please inform anyone who might be present in the gym and report to the Porters.</li>
 </ul>
 Please be considerate, leave the gym if housekeeping wants to enter the gym for cleaning purposes and respect social distancing. There will be routine checks of the gym. If you are caught breaking any of the above-mentioned rules your access might be removed. 
-<br><br>
-To book the gym please click <a href="https://booking.dar.cam.ac.uk/Web/schedule.php?sid=7">here</a>.
 <br>
 
 </details>
