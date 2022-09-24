@@ -200,4 +200,15 @@ Please find all details at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">th
 
 </details>
 
+<details>
+  <summary>Social and Meetings rooms</summary>
+
+There are a range of bookable rooms for both social gatherings and meetings around college.
+For example, for film or video game nights rooms such as Bradfield or Newnham Terrace 1 are ideal; you can even bring some of the beanbags located around the college, as it as allowed to move these around freely within common indoor spaces!
+In addition, the small seminar rooms are ideal for PhD supervisions if you're a PhD student who is teaching.
+
+Booking is performed at https://www.darwin.cam.ac.uk/booking-rooms-darwin.
+
+</details>
+
 
