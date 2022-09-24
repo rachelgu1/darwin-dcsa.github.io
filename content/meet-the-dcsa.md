@@ -65,7 +65,10 @@ The Treasurer is responsible for managing the finances of the DCSA, including dr
         dcsa_punts AT darwin.cam.ac.uk<br/>
         Jonny ITCOVITZ<br/>
         <p align="justify">
-<br><br>
+Hey! I'm a final year PhD student working on planetary evolution
+at the Institute of Astronomy. Outside of my research, I'm
+involved with a bunch of sport and some music around the
+College & University. Feel free to drop me a message!<br><br>
 
 The Admiral of the Punts is responsible for all the vessels the punt club owns, including the punts, kayaks, canoe, paddle boards, and associated equipment. They manage Punt Club membership, finances, and administration, and they work with several trusted Captains to ensure the vessels are maintained and to organize social events throughout the year. Have a look at <a href="https://www.dcsa.darwin.cam.ac.uk/punts/">our website</a> if you’d like to learn more about the Darwin Punt Club.
         </p>
