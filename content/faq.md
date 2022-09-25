@@ -39,7 +39,7 @@ Families and Partners are very welcome at Darwin! Partners are welcome to freely
 </details>
 
 <details>
-  <summary><strong>My qeustion isn't here, who do I contact?</strong></summary>
+  <summary><strong>My question isn't here, who do I contact?</strong></summary>
 
 Check the meet the DCSA page and reach out to the officer most closely linked to your question, or if you're unsure, reach out to Chelsea at <a href="mailto:dcsa_president@darwin.cam.ac.uk">dcsa_president@darwin.cam.ac.uk</a>.
 </details>
