@@ -5,7 +5,7 @@ permalink: /sports-societies/
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 
-This page is currently being updated. For the latest information see the Welcome Guide in the New Students Section.
+<strong>This page is currently being updated. For the latest information see the Welcome Guide in the New Students Section.</strong>
 
 # Sports & Societies
 <br>
