@@ -9,18 +9,33 @@ permalink: /sports-societies/
 
 # Sports & Societies
 <br>
+<!-- APES -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Animal, Plant and Environment Society (APES)</b></summary>
+
+<a href="{{site.baseurl | absolute_url}}/images/Societies/apes.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/apes.png" alt="[APES]" width="200px"/></a><br>
+
+The Animal, Plant and Environment Society (APES) is an informal, fun and inclusive group who enjoy spending time outside in the natural environment. The troop leaders will plan activities to interact with nature in the local area, including tours of local nature reserves, birdwatching, kayak outings, vounteering and day trips. Bananas will be provided.
+<br><br>
+
+<strong>Contact:</strong> <br>
+President: Sarah Maziliauskas, sm2651<br>
+Treasurer: Blanca Piera Pi-Sunyer, bp451<br>
+</details>
+
 <!-- Badminton Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Badminton Club</b></summary>
 
 <a href="{{site.baseurl | absolute_url}}/images/Societies/badminton.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/badminton.jpg" alt="[Badminton Club]" width="200px"/></a><br>
 
-Darwin College Badminton Club welcomes players of all standards, from complete beginners to experienced. We normally hold sessions on Saturday afternoons from 4 pm to 6 pm at Leys Leisure on Trumpington Road, but due to COVID-19, our weekly sessions have been temporarily suspended. We will keep you informed through our Facebook page (“Darwin College Badminton Club”) once we have decided when we will restart. We will ensure this happens as soon as possible. All of our sessions are completely free, there are no membership fees, and shuttles and rackets are provided. We are a friendly and active bunch so come say hi at the freshers’ clubs and societies fair, join our Facebook group, and feel free to get in touch if you have further questions.
+Our club welcomes players of all standards, from complete beginners to experienced. No commitment, no membership fees, and courts are paid for by Darwin. We also provide rackets and shuttlecocks. All we want is for you to enjoy badminton. 
+For the competitive ones amongst you, we have a college team that competes in the intercollegiate league, so stay tuned for trials throughout the year!
+We usually play on Thursdays (6.30-8.15PM) and Sundays (3-5PM) at the Leys Leisure Sports Complex. There may be occasional changes to our sessions so please check your emails and join our Facebook group (https://www.facebook.com/groups/dcbadmintonclub/) for updates. 
 <br><br>
 
 <strong>Contact:</strong> <br>
-President: Bernard Cho, phc37<br>
-Treasurer: Zixuan Tangzt, 235<br>
+President: Kaizhong Xing, kx232<br>
 <a href="https://www.facebook.com/groups/214620622041034">Facebook</a><br>
 </details>
 
@@ -31,14 +46,12 @@ Treasurer: Zixuan Tangzt, 235<br>
 
 <a href="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg" alt="[Basketball Club (men)]" width="200px"/></a><br>
 
-Basketball has a long and successful tradition at Darwin. We participate every year in two Cambridge University intercollegial competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers (Easter term), of which we are the defending champions since 2019! The season kicks off late September and ends around April, but we continue to practice throughout the summer months. We are a friendly and active bunch and always welcome new players at varying skill levels in our teams.
-COVID-19: Practice sessions are currently suspended until further notice, and it is likely that the intercollegial competitions are cancelled for the 2020-21 academic year. We plan to resume practices as soon as it is safe to play. For more information and updates on the situation, get in touch with the team contacts.
-<br><br>
+Basketball has a long and successful tradition at Darwin. We participate every year in two Cambridge University intercollegial competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers (Easter term), of which we are the defending champions since 2019! The season kicks off late September and ends around April, but we continue to practice throughout the summer months. We are a friendly and active bunch and always welcome new players at varying skill levels in our teams.<br><br>
 Practice: Tuesday 8-10 pm at North Cambridge Academy
 <br><br>
 
 <strong>Contact:</strong> <br>
-Aleix Lafita, al859<br>
+Georgios Hadjidemetriou, gh444<br>
 <a href="https://www.facebook.com/groups/darwinbb/">Facebook</a><br>
 </details>
 
@@ -49,12 +62,9 @@ Aleix Lafita, al859<br>
 
 <a href="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png" alt="[Basketball Club (women)]" width="200px"/></a><br>
 
-The Darwin Women’s Basketball Club is the college's most successful sports team having won the college league every year for the last 5 years and most years since its formation in May 2000. As well as the college league, the team ompetes in, and usually wins, the university-wide knock out 'Cuppers' tournament in Lent term. We are fortunate enough to have a dedicated basketball coach who runs our training from early October so we are ready for competitive matches throughout the year. Over the summer we continue to practice with friendly games every week, often joined by members of the university 1st and 2nd (Blues and Panthers) teams! The club is incredibly friendly and welcoming and is known for nurturing enthusiastic beginners. So if you want to come and play a sport that is both physically challenging and mentally stimulating please do join our training
-sessions in October!
-<br><br>
-
+The Darwin Women’s Basketball Club is the college's most successful sports team having won the college league most years since its formation in May 2000. As well as the college league, the team competes in, and usually wins, the university-wide knock out 'Cuppers' tournament in Lent term. We are fortunate enough to have a dedicated basketball coach who runs our training from early October so we are ready for competitive matches throughout the year. Over the summer we practice with friendly games every week, often joined by members of the university 1st and 2nd teams!<br><br>
 <strong>Contact:</strong> <br>
-Daniel Watts, d@nielwatts.com<br>
+Laura Pelligrini, lp563<br>
 <a href="https://www.facebook.com/groups/darwinbb/">Facebook</a><br>
 <a href="https://darwinbasketball.wordpress.com/about/">Website</a><br>
 </details>
