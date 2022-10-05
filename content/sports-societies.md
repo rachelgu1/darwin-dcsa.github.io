@@ -125,21 +125,18 @@ Robert Pinsler, rp586<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Chess Club </b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg" alt="[climbing]" width="200px"/></a><br>
-<a href="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]" width="200px"/></a><br>
-
 A society for all those interested in chess at Darwin College. We have weekly chess sessions, chess theory discussion groups and other events throughout the year.
 <br><br>
 
 <strong>Contact:</strong> <br>
-"Sumit Birwa, skb61<br>
+Sumit Birwa, skb61<br>
 Toby Brann, tb708</br>
        
 <a href="https://www.facebook.com/groups/633268437670231/">Facebook</a><br>
 <a href="https://chat.whatsapp.com/G49qgKaDxVGDXBfls40Pen">WhatsApp</a><br>
 </details>
 
-"
+
 <!-- Climbing -->
 <details align="justify" style="text-align:justify">
   <summary><b>Climbing </b></summary>
