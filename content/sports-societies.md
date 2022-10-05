@@ -72,15 +72,15 @@ Laura Pelligrini, lp563<br>
 
 <!-- Bee Keeping -->
 <details align="justify" style="text-align:justify">
-  <summary><b>Bee Keeping</b></summary>
+  <summary><b>Beekeeping Association</b></summary>
 
   <a href="{{site.baseurl | absolute_url}}/images/Societies/beekeeping.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/beekeeping.jpg" alt="[Beekeeping]" width="200px"/></a><br>
 
-Having BEEn lured in by the sweet idea of collecting our very own honey, the Darwin College Beekeeping Association started our very own DarHives in the Darwin Garden. We learn about and discuss all aspects of beekeeping, but promise not to drone on about it, and welcome new members at any experience level as long as you have a high threshold for bee puns. So, if you are an eco-warrior keen to join the fight against our declining pollinators or just looking for an exciting new hobby, email or join us on a hive visit to find out what all the buzz is about!
+Having BEEn lured in by the sweet idea  of collecting our very own honey, the  Darwin College Beekeeping Association  started our very own DarHives in the  Darwin Garden. We learn about and  discuss all aspects of beekeeping, but  promise not to drone on about it, and  welcome new members at any experience level as long as you have a high  threshold for bee puns. So, if you are an eco-warrior keen to join the fight against our declining pollinators or just looking for an exciting new hobby, email or join us on a hive visit to find out what all the buzz is about! 
 <br><br>
 
 <strong>Contact:</strong> <br>
-Jenaid Rees, jr732<br>
+Michael Schneider (ms2556), Amelia Urry (au255)<br>
 </details>
 
 
@@ -92,19 +92,17 @@ Jenaid Rees, jr732<br>
 
 Darwin College Boat Club (DCBC) is the largest society in Darwin, dedicated to all things rowing! We are one of the most successful graduate boat clubs in Cambridge - just check out the blades in the bar for our previous accomplishments! We are, above all, a friendly, social, and welcoming family. Rowing is a Cambridge tradition, and it is almost impossible to avoid at least one conversation about it during your time here. At DCBC, we believe that everyone should have a go, and encourage anyone to come try out, at least so you can decipher the jargon of the sport!
 <br><br>
-We train year-round (winter and summer), and participate in numerous races, including the main events of Lent (March) and May (June - don’t ask) Bumps. Mays are one of the highest-profile events in the Cambridge calendar, with thousands of people lining the banks over 4 afternoons to watch boats speed down the Cam, attempting to physically crash into one another (a Bump), while avoiding being hit by the crew behind (getting bumped). If you’re not in a boat, you can get the second most enjoyment out of the days by sitting on the banks with your refreshments of choice, and cheering Darwin to victory! We are fortunate enough to enter multiple boats into each Bumps race, so join up to experience the carnage first hand!
+We train year-round (winter and summer) and participate in numerous races both in Cambridge and outside of Cambridge. The main events in our calendar include Lent (in March) and May (in June - don’t ask) Bumps. May Bumps is one of the highest-profile events in the Cambridge calendar, with thousands of people lining the banks over 4 afternoons to watch boats speed down the Cam, attempting to physically crash into one another (a Bump), while avoiding being hit by the crew behind (getting bumped). If you’re not in a boat, you can get the second most enjoyment out of the days by sitting on the banks with your refreshments of choice, and cheering Darwin to victory! We are fortunate enough to enter multiple boats into each Bumps race, so join up to experience the carnage first-hand! 
 <br><br>
-We welcome all levels of rowing, from those who don’t know what a boat looks like, to anyone who’s ever tried the rowing machine (erg) at the gym, to future Olympic hopefuls, and anything in between. We hold taster sessions for both rowers (all on the legs, deadlift the water to go fast) or coxes (loud and in charge, does everything else in the boat). Whichever you feel suits you, you’ll get full coaching and training by our senior club members and experienced coaches. Try a few water sessions (outings) at the beginning of Michaelmas, and with the other novice rowers, you’ll slowly become unstoppable forces of nature, ready to slay the competition out on the river. During Michaelmas, there are typically novice races where you can compete against other colleges (including one in fancy dress), culminating the term with the not-to-be-missed Boat Club Dinner, a chance to regale the Club with your war stories from the term, and just blow off some steam.
+We welcome all levels of rowing - from those who don’t know what a boat looks like or have never used a rowing machine (erg), to future Olympic hopefuls, and anything in between. We hold taster sessions for both rowers and coxes (person in the front of the boat making the rowing calls and steering the boat). Whichever you feel suits you, you’ll get full coaching and training by our senior club members and experienced coaches. Try a few water sessions (outings) at the beginning of Michaelmas, and with the other novice rowers, you’ll slowly become unstoppable forces of nature, ready to slay the competition out on the river. There are plenty of opportunities  for novices to take part in racing in  Michaelmas term where you will have  the chance to dress-up and race against  other colleges. Novice races are fun and  light-hearted, culminating the term with  the not-to-be-missed Boat Club Dinner,  a chance to regale the Club with your  war stories from the term, and just blow  off some steam. 
 <br><br>
-The DCBC Committee is working tirelessly to ensure that we will be able to continue with rowing given the current COVID-19 situation. If you have any concerns, we are happy to discuss our process and commitments to safety with you.
-<br><br>
-Rowing is teamwork at its peak. From our strong tan lines in the summer, our matching kit (free speed), the laughs, the sweat, and the shared exquisite pain, you will come away with some of the closest Darwin friendships and bonds that will be everlasting. Come and chat to us to find out more at the Fresher’s Sports and Societies Fair, and even get started and have a go on the erg!
-<br><br>
+Rowing is teamwork at its peak. From  our strong tan lines in the summer, our  matching kit (free speed), the laughs, the  sweat, and the shared exquisite pain, you  will come away with some of the closest  Darwin friendships and bonds that will  be everlasting. Come and chat to us to  find out more at the Fresher’s Sports and  Societies Fair, and even get started and  have a go on the erg!
+  <br><br>
 
 <strong>Contact:</strong> <br>
-Oli Fleck & Tatjana Kovacevic, darwin.captain@cucbc.org<br>
-Darcy Unson, darwin.women@cucbc.org<br>
-Steve Castellano, darwin.men@cucbc.org<br>
+darwin.captain@cucbc.org<br>
+Poppy Oldroyd, darwin.women@cucbc.org<br>
+Jose Franco, darwin.men@cucbc.org<br>
 <a href="https://www.facebook.com/DarwinCollegeBoatClub/">Facebook</a><br>
 </details>
 
@@ -123,7 +121,25 @@ Robert Pinsler, rp586<br>
 <a href="https://www.facebook.com/groups/dccws">Facebook</a> <br>
 </details>
 
+<!-- Chess -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Chess Club </b></summary>
 
+<a href="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg" alt="[climbing]" width="200px"/></a><br>
+<a href="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]" width="200px"/></a><br>
+
+A society for all those interested in chess at Darwin College. We have weekly chess sessions, chess theory discussion groups and other events throughout the year.
+<br><br>
+
+<strong>Contact:</strong> <br>
+"Sumit Birwa, skb61<br>
+Toby Brann, tb708</br>
+       
+<a href="https://www.facebook.com/groups/633268437670231/">Facebook</a><br>
+<a href="https://chat.whatsapp.com/G49qgKaDxVGDXBfls40Pen">WhatsApp</a><br>
+</details>
+
+"
 <!-- Climbing -->
 <details align="justify" style="text-align:justify">
   <summary><b>Climbing </b></summary>
@@ -131,11 +147,11 @@ Robert Pinsler, rp586<br>
 <a href="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg" alt="[climbing]" width="200px"/></a><br>
 <a href="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]" width="200px"/></a><br>
 
-We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over Whatsapp or over a pint at DarBar or check out what we are up to on Facebook. We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor). 
+We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over Whatsapp or over a pint at DarBar or check out what we are up to on Facebook “Darwin College Climbing Club”. We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor).
 <br><br>
 
 <strong>Contact:</strong> <br>
-Zoë Audra, za274<br>
+Gavin Summers, grs50<br>
 Barney Salsby, bs640<br>
 <a href="https://www.facebook.com/groups/163055867151943/">Facebook</a><br>
 </details>
@@ -160,21 +176,15 @@ Ben Geytenbeek, bg364<br>
   <summary><b>Cuban Salsa </b></summary>
 
 <!-- NB: insert image -->
-Hola amigos! We run the most fun society in Darwin, the Cuban Salsa society. We love dancing and socialising, so if you feel the same come join us. We are a relaxed and friendly group and we focus on having fun as well as becoming competent dancers. So, if you want to meet people or show off your inner dancer come join us. If you are one of those people thinking that you just can’t dance, come give it a go and we’ll make sure to change that!
-<br><br>
-Our usual meeting time is Monday 20:15-22:15 in the dining hall, but make sure to follow our Facebook page or email one of the committee members to be added to our mailing list, so that we can update you on the time and location of all our classes and events.
-<br><br>
-We look forward to dancing with you! Be there or you’ll miss all the fun!
+Hello Darwinians! We are the Cuban Salsa Society and we meet once per week to practice, socialise, meet new people and have fun! Our class is adapted to suit all levels – from complete beginners to advanced dancers, so don’t hesitate to join us, even if you have never tried dancing before! We promise to make you fall in love with Cuban Salsa!
 <br><br>
 Darwin members £1<br>
-Everyone else: £3
+Everyone else: £3<br>
+For any queries, reach out to Aristi Damaskou (ad971). Also, make sure to follow us on facebook for more info about the classes. We can’t wait to see you on board!
 <br><br>
 
 <strong>Contact:</strong><br>
-Miriam Lisci, ml793<br>
-Jyothi Jayaraman, jj329<br>
-Miriam Belmonte, mb2120<br>
-Maria Gkovedarou, magkove@gmail.com<br>
+Aristi Damaskou, ad971<br>
 <a href="https://www.facebook.com/groups/866672656814002/">Facebook</a><br>
 </details>
 
@@ -182,11 +192,34 @@ Maria Gkovedarou, magkove@gmail.com<br>
 <!-- Cycling Club -->
 <details align="justify" style="text-align:justify">
   <summary><b>Cycling Club </b></summary>
-
+  We are the DCCC; an inclusive and Darwin
+ (and Friends) cycling community!!! We
+ run a bunch of different activities from
+ group rides to cycle socials! As part of
+ the DCCC, you’ll have the opportunity to:<br>
+ 1. explore Cambridgeshire together
+ in a social and safe environment
+ (regular within-week rides and joint
+ weekend trips) <br>
+  2. compete within (fun competitions,
+ leaderboards etc.) and outside of
+ Darwin College (e.g., with other
+ colleges)<br>
+ 3. learn how to ride safely and to make
+ sure you bike is properly maintained
+ (e.g., bike maintenance workshops,
+ routes, general training advice etc.)<br>
+ 4. get together with fellow cyclists for
+ a coffee or drink and enjoy being
+ part of a community of like minded
+ people!
 <br><br>
 
 <strong>Contact:</strong><br>
+  Jana Strauss, jls202<br>
+  James Kinch, jik30
 <br>
+  <a ref="https://www.facebook.com/groups/459033982106186/">Facebook</a><br>
 </details>
 
 
