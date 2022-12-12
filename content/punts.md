@@ -142,7 +142,7 @@ To join the Punt Club or renew your membership:
 <!-- Punts. We will open the signup again early next year!</li> -->
 <strong><b>IMPORTANT - make sure to complete the form all the way and press the submit button at the end, after completing the Paypal payment. Without submitting the form, you are not in the data base and we don't have a record of your signup! It can take up to 24hrs before your signup is processed. Until then, you might not be able to make bookings on the booking platform.</b></strong>
 Note that you don't need to have a PayPal account in order to pay for the membership. You can pay on the PayPal portal with a debit card, using the Checkout as Guest button.
-Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLSdROMaTJCwffXdOCvyxVIoTKCjjyYmpyPpQnmP2P2S8cxlXIg/viewform?usp=sf_link">the online registration form</a></ul></li>
+Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLScWtZ6yJ8WqGqS0YGxvjs04xexKmFAp2xpoXkELKj7o1pKXxw/viewform?usp=sf_link">the online registration form</a></ul></li>
 
 <li>For anyone without a Raven account/CRSid:<br>
 Contact the Admiral of the Punts (include your full name, email, and your relationship to the College), please put the Darwin Alumni Relations Office in cc (alumni.relations@darwin.cam.ac.uk).
