@@ -384,22 +384,19 @@ Mauro Velasco, mv459<br>
 
 <!-- NB: insert image -->
 
-The Darwin College Music Society (DCMS) is here to help make your college life musical. We host events throughout the year and provide facilities and support for music making and performance.
+The Darwin College Music Society (DCMS) hosts musical activities and events and maintains facilities for music practice here at Darwin. If you're interested in music at all, whether you want to perform, watch performances, meet other musicians, or just practice on your own, we hope you can get involved!
 <br><br>
-Every Wednesday we usually host casual Jam Sessions in the common room. These are currently on COVID induced hiatus, but hopefully will be back soon! We also host Open Mics in College throughout the year to give you a chance to share your talent in front of a crowd of friendly faces.
+Every year, we host multiple open mics, karaoke nights, and live music events. We host a weekly open-ended jam session every Wednesday at 8 p.m. during term, where musicians of all backgrounds are invited to meet one another and play music. We also have a choir which sings classical and medieval music.
 <br><br>
-To help you make music we can also give you access to the treasure trove that is the Darwin College Bar Cellar. In there we have a drum kit, PA system, amps, music stands - all sorts of goodies that we want you to make use of, and if something’s not there, we have money to buy stuff too! The college also has the common room for use as a rehearsal space, and various pianos dotted around, all to be taken advantage of.
+Our music facilities are available for group and individual practice. For more information, see the <a href="{{site.baseurl | absolute_url}}facilities">music section of the facilities page</a>.
 <br><br>
-For more information about accessing the College instruments and booking rooms for music practice, see the music page on the <a href="https://www.darwin.cam.ac.uk/music">College website</a> and the <a href="{{site.baseurl | absolute_url}}/facilities/">Music section of the facilities page</a>.
-<br><br>
-Keep up to date by joining our email list or Facebook. Any questions whatsoever just contact Hugh, Ben or Nikos – if you want to do something musical here, we want you to too! 
+Keep up to date by joining our <a href="https://lists.cam.ac.uk/sympa/info/darwin-college-music-society">mailing list</a> and <a href="https://www.facebook.com/groups/180145377845">Facebook group</a>. Don't hesitate to contact the committee with any queries at dcms_committee AT darwin.cam.ac.uk.
 <br><br>
 
 <strong>Contact:</strong> <br>
-Hugh Ramsden, hor20<br>
-Ben Hodgekinson, bh490<br>
-Nikos Patikas, np504<br>
-<a href="https://www.facebook.com/groups/180145377845">Facebook</a> <br>
+Julius Cheng (President), jncc3<br>
+Ashley Masing (Treasurer), alm205<br>
+Tammas Slater (Choir), ts789<br>
 </details>
 
 
