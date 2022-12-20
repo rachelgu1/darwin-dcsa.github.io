@@ -84,109 +84,45 @@ Please be considerate, leave the gym if housekeeping wants to enter the gym for 
 <h3>Music at Darwin</h3>
 
 <p align="justify">
-<strong>A bigger dedicated music room in the main building will be opening in Michaelmas 2022; more information to come!</strong>
-</p>
-
-<p align="justify">
-The Music Society has a range of equipment and facilities to help you with music making.
-</p>
-
-<h5>Bradfield Court</h5>
-
-<p align="justify">
-For individual or group practice, you can book Bradfield court.
-</p>
-
-<p align="justify">
-The space is also being used for other events, so you can check its availability using the link below:
-</p>
-
-<p align="justify">
-<a href="https://calendar.google.com/calendar/embed?src=u24932spc82d54jrsvphe2l2d6crc6rb%40import.calendar.google.com&ctz=Europe%2FLondon">This link</a>
-</p>
-
-<p align="justify">
-To make a booking, please send an email to Anna via bursary AT darwin.cam.ac.uk. 
-</p>
-
-<p align="justify">
-More spontaneous bookings can be made by heading to the Porters' lodge and asking to use the room.
-</p>
-
-<p align="justify">
-We permanently store a small amount of equipment in Bradfield Court - most found behind the sliding doors. This includes:
+The Darwin College Music Society (DCMS) maintains a dedicated music practice space in the college for individual and group practice. You can find it near the Old Library and Reading Room, at the bottom of the short flight of stairs. We have a selection of musical equipment for use, including:
 </p>
 
 <ul>
-	<li>
-		an acoustic drum kit + additional percussion (no sticks!)
-	</li>
-	<li>
-		an upright piano
-	</li>
-	<li>
-		a Marshall guitar amp (no guitar/ jack leads)
-	</li>
-	<li>
-		a Black Star bass amp (no guitar/ jack leads)
-	</li>
-	<li>
-		a PA system (including mics and mic stands)
-	</li>
-	<li>
-		a music stand
-	</li>
+  <li>
+    Guitars (acoustic, electric, electric bass), amplifiers
+  </li>
+  <li>
+    Weighted electronic keyboard and keyboard synth
+  </li>
+  <li>
+    Acoustic drum set and sticks (soon: electronic drum set!)
+  </li>
+  <li>
+    Microphones and PA system
+  </li>
+  <li>
+    Various percussion (congas, tamborines, shakers)
+  </li>
 </ul>
 
 <p align="justify">
-These are free for anyone to use, but please look after the equipment, it belongs to you and your fellow Darwinians.
+You are required to complete an induction before gaining card access to the music room, which will familiarize you with the room and the rules surrounding its use. These inductions will take every Wednesday during term at 7:45 p.m., and also several times at the start of each term, which you can find on the <a href="{{site.baseurl | absolute_url}}events">events page</a>. If you need to schedule an alternative time, contact the DCMS committee at dcms_committee AT darwin.cam.ac.uk. Once you've completed the induction, you can book the room at the <a href="https://booking.dar.cam.ac.uk/Web/schedule.php?sid=2">booking website</a>.
 </p>
 
 <p align="justify">
-To keep our relationship with the college positive, please also keep things tidy by putting things back where you found them.
+Darwin also has a few other options for music practice, both of which do not require induction. Bradfield Court has an upright piano is bookable by emailing the bursar at bursary AT darwin.cam.ac.uk or visiting the Porters' Lodge. Its availabilities can be viewed <a href="https://calendar.google.com/calendar/embed?src=u24932spc82d54jrsvphe2l2d6crc6rb%40import.calendar.google.com&ctz=Europe%2FLondon">here</a>. There's also a piano practice room in Newnham Terrace 1, which can be booked at the <a href="https://booking.dar.cam.ac.uk/Web/schedule.php?sid=2">booking website</a>. 
 </p>
 
 <p align="justify">
-If you require additional equipment, e.g. drum sticks, a guitar (bass, acoustic, electric), a mixing desk, please get in touch with a member of the comittee (see below for contact details) and they can arrange access.
+Subscribe to the <a href="https://lists.cam.ac.uk/sympa/info/darwin-college-music-society">DCMS mailing list</a> to receive announcements about the music facilities at Darwin, as well as exciting activities and events! We also have a modest budget for new equipment, so let us know if you have any requests!
 </p>
-
-<h5>Pianos</h5>
 
 <p align="justify">
-Finally, we have 3 different pianos throughout the college. Please refer to the table below for info on where to find them and how/if to book. (Note: Keys for the rooms may be obtained from the Porters’ Lodge and must be returned before 11.30pm.)
+DCMS Committee 2022-2023:<br>
+Julius Cheng (President): jncc3 AT cam.ac.uk<br>
+Ashley Masing (Treasurer): alm205 AT cam.ac.uk<br>
+Tammas Slater (Choir): ts789 AT cam.ac.uk<br>
 </p>
-
-<table style="width:100%">
-  <tr>
-    <th>Location</th>
-    <th>Type</th>
-    <th>Bookable</th>
-  </tr>
-  <tr>
-    <td>Old Library</td>
-    <td>Grand</td>
-    <td>Usuable</td>
-  </tr>
-  <tr>
-    <td>Dining Hall</td>
-    <td>Grand</td>
-    <td>Yes via events AT darwin.cam.ac.uk</td>
-  </tr>
-  <tr>
-    <td>Bradfield Room</td>
-    <td>Electric (with headphones)</td>
-    <td>Yes via domestic.bursars.secretary AT darwin.cam.ac.uk</td>
-  </tr>
-</table>
-
-<p align="justify">
-In addition to the above, a small piano practice room in Newnham Terrace 1 will be opening in Michaelmas 2022; more information to come!
-</p>
-
-Music soc committee 2021-2022:<br>
-Huge Ramsden (President): hor20 AT cam.ac.uk<br>
-Robin Croft (Treasurer): rc634 AT cam.ac.uk<br>
-Francis Knights (Choir): fk240 AT cam.ac.uk<br>
 
 </details>
 
