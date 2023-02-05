@@ -160,9 +160,10 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are re
     <td style="vertical-align: middle">
         <strong>Environmental and Ethical Affairs Officer</strong><br/>
          dcsa_green AT darwin.cam.ac.uk<br/>
-         Megan GROOM<br/>
+         Joshua BICKLER <br/>
         <p align="justify">
-Meg is in her first year of a PhD in Physics, investigating chemical sensing techniques using optical fibres. She is passionate about climate and environmental justice and ending fast fashion. You'll often find her enjoying a coffee in the Darwin garden – come say hi!<br><br>
+Joshua is studying an MPhil in Scientific Computing at the Cavendish, modelling the plasma physics in a Tokamak fusion reactor. Joshua hails from Aotearoa/New Zealand and is passionate about climate justice and sustainable energy. Outside of his studies you’ll see him jamming in the music room or enjoying a drink at the DarBar.
+<br><br>
 
 The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. Please feel free to get in touch and share an issue that you feel passionate about, so that Meg can support you in sharing it with the Darwin community. They oversee the Gardening Society and sit on the Buildings & Grounds, Meals and International Crisis committees.
         </p>
