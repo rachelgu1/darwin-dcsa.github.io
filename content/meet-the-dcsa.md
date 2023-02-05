@@ -301,13 +301,9 @@ Francesca is a first year PhD student in the department of Chemistry, studying e
     <td style="vertical-align: middle">
         dcsa_welfare AT darwin.cam.ac.uk<br/>
         <!-- dcsa_mens_welfare AT darwin.cam.ac.uk<br/> -->
-        Joe COWAN<br/>
+        Ryan SMITH<br/>
         <p align="justify">
-Hey everyone! I'm Joe and I'm the Men's & Non-binary officer.
-I'm a second-year Linguistic student studying things we don't
-say, but imply. Usually, I am reading between the lines, but when
-not, I'm either in the sauna or drinking coffee on the patio'. I'm
-looking forward to meeting you all!
+Ryan is an MPhil student at the Department of Sociology who focuses on issues of marginality and exclusion. When he’s not studying, Ryan enjoys cycling, travelling, and campaigning for a more equitable society. He’s always down for chatting over a cup of tea/coffee so do reach out!
 <br><br>
 
 The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us on Facebook or College, if you need anything or just want to have a chat!
