@@ -177,9 +177,10 @@ The Environmental & Ethical Affairs Officer is responsible for the coordination 
     <td style="vertical-align: middle">
         <strong>Events Officer</strong><br/>
          dcsa_events AT darwin.cam.ac.uk<br/>
-         Magdalena NOWINSKA<br/>
+         Edouard BARRIER<br/>
         <p align="justify">
-Magda is a first-year PhD student in Biophysics in the Department of Chemistry (counterintuitive, we know) working on Parkinson’s Disease. She really believes that social life is as important as academic life (please don’t tell her PI) and loves meeting new people so if you haven’t spoken to her yet please do so! <br><br>
+<!-- TODO -->
+<br><br>
 
 The Events Officer coordinates, organises, and promotes social and entertainment activities in college, including the May Week Garden Party, summer BBQ, and other smaller events throughout the year. They also administer the DCSA’s College Calendar.
         </p>
@@ -318,10 +319,11 @@ The Welfare Officers are the student contact for students who are in need of hel
     <td style="vertical-align: middle">
         <strong>Women's Officer</strong><br/>
         dcsa_women AT darwin.cam.ac.uk<br/>
-        Ceilidh WELSH<br/>
+        Isabelle BIENFAIT<br/>
         <br/>
         <p align="justify">
-Ceilidh is a second-year PhD student in oncology using computational models to predict patient responses to radiotherapy cancer treatment. Outside her studies, she can usually be found on an early morning kayak or enjoying the walk to Grantchester. Please feel free to reach out to her for a coffee in the parlour, a chat in the gardens or as a signpost for more support! <br><br>
+<!-- TODO -->
+<br><br>
 
 The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
