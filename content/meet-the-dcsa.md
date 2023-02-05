@@ -205,9 +205,10 @@ The External Officer is responsible for organising formal swaps with other Colle
     <td style="vertical-align: middle">
         <strong>Families Officer</strong><br/>
          dcsa_families AT darwin.cam.ac.uk<br/>
-         Tash EISNER <br/>
+         Chen YE <br/>
         <p align="justify">
-Tash is an MPhil student in Critical Approaches to Children’s Literature whose research centres on the portrayal of dragons within YA fantasy. Tash has a small baby, a large dog, and a medium sized husband. Somewhat unsurprisingly, Tash really enjoys reading and a good ‘family-size’ (geddit?) bar of dairy milk.  When time permits, Tash is also a barre fitness addict. You will often see Tash dashing around college with her pram.<br><br>
+Chen is a second-year PhD student at the Institute for Manufacturing (IfM) at the Department of Engineering. He worked in the engineering and management of industrial automation and industrial intelligence for over 12 years, mostly in China and Africa and for a short time in the US. Chen lives with his wife and two daughters in Cambridge. His daughters study at a local primary school. They enjoy their stay here. 
+<br><br>
 
 The Families Officer is responsible for representing and furthering the needs of students with families - those with partners and/or children of all ages. They work to involve students with families in college events and organise events aimed at these students. See the <a href="{{site.baseurl | absolute_url}}/documents/booklet_families.pdf">families guide</a> for lots of useful information.
         </p>
