@@ -13,7 +13,9 @@ permalink: /sports-societies/
 <details align="justify" style="text-align:justify">
   <summary><b>Animal, Plant and Environment Society (APES)</b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/apes.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/apes.png" alt="[APES]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/apes.png" alt="[APES]"/>
+</div>
 
 The Animal, Plant and Environment Society (APES) is an informal, fun and inclusive group who enjoy spending time outside in the natural environment. The troop leaders will plan activities to interact with nature in the local area, including tours of local nature reserves, birdwatching, kayak outings, vounteering and day trips. Bananas will be provided.
 <br><br>
@@ -27,7 +29,9 @@ Treasurer: Blanca Piera Pi-Sunyer, bp451<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Badminton Club</b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/badminton.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/badminton.jpg" alt="[Badminton Club]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/badminton.jpg" alt="[Badminton Club]"/>
+</div>
 
 Our club welcomes players of all standards, from complete beginners to experienced. No commitment, no membership fees, and courts are paid for by Darwin. We also provide rackets and shuttlecocks. All we want is for you to enjoy badminton. 
 For the competitive ones amongst you, we have a college team that competes in the intercollegiate league, so stay tuned for trials throughout the year!
@@ -44,7 +48,9 @@ President: Kaizhong Xing, kx232<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Basketball Club (Men) </b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg" alt="[Basketball Club (men)]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/basketball-men.jpg" alt="[Basketball Club (men)]"/>
+</div>
 
 Basketball has a long and successful tradition at Darwin. We participate every year in two Cambridge University intercollegial competitions: Division 1 of the college league (Michaelmas and Lent terms) and the Cuppers (Easter term), of which we are the defending champions since 2019! The season kicks off late September and ends around April, but we continue to practice throughout the summer months. We are a friendly and active bunch and always welcome new players at varying skill levels in our teams.<br><br>
 Practice: Tuesday 8-10 pm at North Cambridge Academy
@@ -60,7 +66,9 @@ Georgios Hadjidemetriou, gh444<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Basketball Club (Women) </b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png" alt="[Basketball Club (women)]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/basketballwomen.png" alt="[Basketball Club (women)]"/>
+</div>
 
 The Darwin Women’s Basketball Club is the college's most successful sports team having won the college league most years since its formation in May 2000. As well as the college league, the team competes in, and usually wins, the university-wide knock out 'Cuppers' tournament in Lent term. We are fortunate enough to have a dedicated basketball coach who runs our training from early October so we are ready for competitive matches throughout the year. Over the summer we practice with friendly games every week, often joined by members of the university 1st and 2nd teams!<br><br>
 <strong>Contact:</strong> <br>
@@ -74,7 +82,9 @@ Laura Pelligrini, lp563<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Beekeeping Association</b></summary>
 
-  <a href="{{site.baseurl | absolute_url}}/images/Societies/beekeeping.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/beekeeping.jpg" alt="[Beekeeping]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/beekeeping.jpg" alt="[Beekeeping]"/>
+</div>
 
 Having BEEn lured in by the sweet idea  of collecting our very own honey, the  Darwin College Beekeeping Association  started our very own DarHives in the  Darwin Garden. We learn about and  discuss all aspects of beekeeping, but  promise not to drone on about it, and  welcome new members at any experience level as long as you have a high  threshold for bee puns. So, if you are an eco-warrior keen to join the fight against our declining pollinators or just looking for an exciting new hobby, email or join us on a hive visit to find out what all the buzz is about! 
 <br><br>
@@ -109,9 +119,11 @@ Jose Franco, darwin.men@cucbc.org<br>
 
 <!-- Cheese and Wine Society-->
 <details align="justify" style="text-align:justify">
-  <summary><b>Cheese and Wine Society </b></summary>
+<summary><b>Cheese and Wine Society </b></summary>
 
-  <a href="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg" alt="[Cheese and Wine]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/cheeseandwine.jpg" alt="[Cheese and Wine]"/>
+</div>
 
 Care to know your Camembert from your Castigliano? Your Burgundy from your Beaujolais? Fancy yourself as an Oenologist, a Sommelier or cheese fancier? The DCCWS is here to introduce your taste buds to a world of winery and creamery delights. There will be tasting events throughout the year. Join the Facebook page for updates.
 <br><br>
@@ -141,8 +153,13 @@ Toby Brann, tb708</br>
 <details align="justify" style="text-align:justify">
   <summary><b>Climbing </b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg" alt="[climbing]" width="200px"/></a><br>
-<a href="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/climbing.jpg" alt="[climbing]"/>
+</div>
+
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]"/>
+</div>
 
 We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over Whatsapp or over a pint at DarBar or check out what we are up to on Facebook “Darwin College Climbing Club”. We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor).
 <br><br>
@@ -158,7 +175,9 @@ Barney Salsby, bs640<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Cricket Club </b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg" alt="[Cricket]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg" alt="[Cricket]"/>
+</div>
 
 Darwin College Cricket Club is a friendly club with a record of success, as we are defending champions of the MCR Cricket League, having been runners up the year before. We welcome players of all abilities, from absolute novices to seasoned veterans and of any gender. All kit and equipment is provided, with winter net sessions taking place once a week starting in the new year. Matches are played in the summer months (May-July).
 <br><br>
@@ -262,17 +281,26 @@ James Luis, jjdl3<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Football (Men's) </b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/footballmen.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/footballmen.png" alt="[Football (men)]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/footballmen.jpg" alt="[Football (men)]"/>
+</div>
 
-Welcome to Darwin College Men’s FC, your new home of football. The college has one men’s team, playing in the Cambridge University JCR league, and we also enter into one of the world’s oldest cup competitions. Last year, the team came a close 2nd place in division 3 and we look forward to pushing onwards in the upcoming season.
+The beautiful game comes to Darwin!
+<br><br>
+Join Chrisopher Bower and his merry band of ballers for another season of the irresistible odyssey that is the Cambridge College football league. Whether you would like to train casually, dive into two footers on the medieval battlefields otherwise known as JCR playing fields, or even brandish some yellow cards under maverick interpretations of the Football Association’s Laws of the Game, Darwin F.C. will have something for you.
+<br><br>
+With (sporadically) floodlit facilities to rival St. Georges Park, training takes place on Wednesday’s from 8pm-10pm at Cambridge’s finest footballing campus - the CASS leisure center - a momentary cycle from the main college site. League AND cup matches are 11 a side and take place at weekends, normally followed by socials consisting of the watery nectar provided by the Darwin Bar.
+<br><br>
+Please don’t be shy, all abilities are welcome (some of the starting 11 are testament to the idea that you don’t need to be technically gifted to play for DFC…)!
+<br><br>
+Email Captain Chris (cab237) with Vice Captain/honorary kitman Kalid (ku230) cc’d for more details!
 <br><br>
 We welcome everyone regardless of playing ability; whether you are a seasoned veteran, an occasional player looking to rekindle your career or a total rookie, Darwin College FC is the place for you! Sign up at the freshers’ fair or get in touch via Facebook or email, and be on the lookout for details of training and matches starting in October.
 <br><br>
 
 <strong>Contact:</strong> <br>
-Stuart Macpherson, sm2275<br>
 Christopher Bower, cab237<br>
-<a href="https://www.facebook.com/groups/2207171229528340">Facebook</a><br>
+Kalid Ulas, ku230<br>
 </details>
 
 
@@ -295,7 +323,9 @@ Barbara Joo, bcj25<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Gardening Society</b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/gardening.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/gardening.png" alt="[Gardening]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/gardening.png" alt="[Gardening]"/>
+</div>
 
 DarGar is the Darwin College student vegetable garden. This little green oasis is cultivated by Darwin college members, usually meeting every Sunday at 4pm. Whether you're a seasoned gardener or a complete beginner, you're welcome to join us in cultivating flowers, vegetables, herbs, and fruit! 
 <br><br> 
@@ -336,7 +366,9 @@ dcsa_green AT darwin DOT cam DOT ac DOT uk<br>
 <details align="justify" style="text-align:justify">
   <summary><b>LGBTQ+</b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/lgbtq.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/lgbtq.jpg" alt="[LGBTQ+]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/lgbtq.jpg" alt="[LGBTQ+]"/>
+</div>
 
 
 Darwin's LGBTQ+ community has regular meet-ups where we do an assortment of activities like arts & crafts, but most often just a simple chat with your friends with drinks and snacks provided. The 'Darwin community only' events are intercalated with social swaps with communities from nearby colleges (bar nights, BBQs).
@@ -539,7 +571,10 @@ Bing-Tao Lee, btl30<br>
 <details align="justify" style="text-align:justify">
   <summary><b>Yoga </b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/yoga.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/yoga.jpg" alt="[Yoga]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/yoga.jpg" alt="[Yoga]"/>
+</div>
+
 Darwin does Yoga!
 <br><br>
 We offer Iyengar yoga classes twice a week with one of Cambridge's most sought-after teachers, Shaili Shafai. All levels are welcome! We run classes twice a week during the whole year: Wednesdays 6-7pm and Saturdays 2:30-3:30pm. These usually happen in the common room, but to keep it safe and ensure social distancing, we have now moved online! You can join our online classes by subscribing to our  "Darwin College Yoga" mailing list to receive the class access details.
@@ -590,7 +625,10 @@ Some clubs we have previously offered are also looking for volunteers to help le
 <details align="justify" style="text-align:justify">
   <summary><b>Aerial Arts</b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/aerial-arts.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/aerial-arts.png" alt="[Aerial Arts]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/aerial-arts.png" alt="[Aerial Arts]"/>
+</div>
+
 Darwin College Aerial Arts is aiming to establish a variety of  increasingly popular sports at Darwin. We currently have the equipment to run beginners pole classes in college. With the purchase of our new trapeze, we are also planning to offer static trapeze classes this year.
 <br><br>
 Aerial Arts are a great way to improve strength, flexibility and overall fitness and the club is open to all students regardless of their age and experience-level. Whether you have previous experience or are just curious about it - please drop by at our sessions and give it a go! You can find out more by joining our Facebook group “Darwin College Aerial Arts” for regular updates.
@@ -626,9 +664,9 @@ Darwin college choir is a non-auditioned SATB choir made up of graduate students
 <details align="justify" style="text-align:justify">
   <summary><b>Families Society </b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/fam1.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/fam1.png" alt="[Family picture 1]" width="200px"/></a><br>
+<a href="{{site.baseurl | absolute_url}}/images/Societies/fam1.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/fam1.png" alt="[Family picture 1]"/></a><br>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/fam2.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/fam2.png" alt="[Family picture 2]" width="200px"/></a><br>
+<a href="{{site.baseurl | absolute_url}}/images/Societies/fam2.png"><img src="{{site.baseurl | absolute_url}}/images/Societies/fam2.png" alt="[Family picture 2]"/></a><br>
 
 Being a postgraduate college, a significant portion of our students arrive with their families. Darwin's Families Society aims to bring together students and families to form a joint community where all are welcomed, as well as promote family issues within the College and the University. We run informal events throughout the year as well as bigger events about once per term, to celebrate special occasions. Our most popular events are a Christmas (and Hanukkah) mulled wine and sing-along event held together with the Darwin choir, and the Easter egg hunt held in the College garden. In addition, the Families Society provides activities for children alongside the College-wide DCSA events, to ensure that all our College community feel welcome at all events wherever possible. The Society owns a number of toys and games for a range of different ages which members can access to help their children have a good time while at College. We encourage students with families and all students that want to be a part of this special community to join our society.
 <br><br>
@@ -716,7 +754,9 @@ Darwinians do care about mental health!
 <details align="justify" style="text-align:justify">
   <summary><b>Open Club for Debate </b></summary>
 
-<a href="{{site.baseurl | absolute_url}}/images/Societies/openclubfordebate.jpg"><img src="{{site.baseurl | absolute_url}}/images/Societies/openclubfordebate.jpg" alt="[Open Club for Debate]" width="200px"/></a><br>
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/openclubfordebate.jpg" alt="[Open Club for Debate]"/>
+</div>
 
 The idea is pretty simple: a room, some wine and a topic no one can agree on. The Darwin Open Club for Debate is an informal non-stuffy club, where Darwinians and other students from the University of Cambridge debate about controversial topics in an open setting with minimal intervention from a moderator.
 <br><br>

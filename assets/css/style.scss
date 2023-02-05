@@ -133,3 +133,19 @@ details p {
   vertical-align: middle;
   min-width: 200px;
 }
+
+// Societies
+.societies--image-container {
+  display: flex;
+  justify-content: center;
+}
+
+.societies--image-container img {
+  max-width: 600px;
+  max-height: 400px;
+  width: auto;
+  height: auto;
+}
+
+
+
