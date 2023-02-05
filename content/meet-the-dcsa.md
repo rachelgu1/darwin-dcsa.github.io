@@ -271,13 +271,10 @@ Hi! I’m an MPhil student in World History focusing on the British Empire. Outs
     </td>
     <td style="vertical-align: middle">
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Sonia UBONG<br/>
+         Kamilė STANKEVIČIŪTĖ<br/>
         <p align="justify">
-Sonia is a MPhil student at the Department of Surgery. Her research interests centre around hip pathologies that affect young adults.
-
-Outside of academia Sonia loves keeping active and competing both regionally and nationally in Rugby and Pole Fitness. She earned her Cambridge Blue in the 2022 Rugby Varsity match at Twickenham. Her combined interest in Orthopaedic surgery and sports has ultimately led to her growing fascination in young adult hip surgery, specifically athletes returning to play.
-
-She is more than happy to discuss any ideas or suggestions on building on Darwin’s already exciting community!<br><br>
+Kamilė is a second-year PhD student in machine learning for medicine. While she's waiting for her models to train, you can find her at the gym, running, or dancing salsa (pictured) ;)
+<br><br>
 
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May.
         </p>
