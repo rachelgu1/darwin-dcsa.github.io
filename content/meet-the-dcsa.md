@@ -257,9 +257,10 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
     <td style="vertical-align: middle">
         <strong>Sports and Societies Officers</strong><br/>
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Kamilė STANKEVIČIŪTĖ<br/>
+         Henry DARAMOLA-MARTIN<br/>
         <p align="justify">
-Kamilė is a second-year PhD student in machine learning for medicine. While she's waiting for her models to train, you can find her at the gym, running, or dancing salsa (pictured) ;)<br><br>
+Hi! I’m an MPhil student in World History focusing on the British Empire. Outside of academia I love playing sports. I have always played football with my career highlight being putting on the historic navy blue of Darwin FC. In the summer you can find me on the course playing some pretty ropey golf.
+<br><br>
 
         </p>
     </td></tr>
