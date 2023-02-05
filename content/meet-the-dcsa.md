@@ -130,10 +130,11 @@ touch if you’d like a one-to-one chat, or just want to say hi!
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Esme SOUTHERN<br/>
+        Katie WORKMAN<br/>
         <p align="justify">
 
-Esme is studying for a PhD, investigating earthquakes associated with magma moving beneath the surface of Icelandic volcanoes. She enjoys sailing, climbing, music, and, of course, bopping in DarBar.<br><br>
+Katie is an MPhil in Politics and International Studies researching online political communication and behavior. She’s a recovering journalist, debater, and ice cream enthusiast who you can find in the Darwin Library, at the bar, or in the gardens for a chat at any time. Her interests include both political and (more importantly) non-political parties.
+<br><br>
 
         </p>
     </td>
