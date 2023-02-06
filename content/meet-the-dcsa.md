@@ -322,7 +322,7 @@ The Welfare Officers are the student contact for students who are in need of hel
         Isabelle BIENFAIT<br/>
         <br/>
         <p align="justify">
-<!-- TODO -->
+Isabelle is studying for her Master of Law (LLM) focusing on international criminal and human rights law. She spends her free time kayaking, swimming, and hanging out with friends. Always up to grab a coffee if you’d like to chat!
 <br><br>
 
 The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
