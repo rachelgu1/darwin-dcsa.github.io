@@ -145,10 +145,10 @@ Katie is an MPhil in Politics and International Studies researching online polit
     </td>
     <td style="vertical-align: middle">
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Niamh HARTLEY<br/>
+        Bea SIMPSON<br/>
         <p align="justify">
 
-Niamh is in her second year of her PhD in Chemistry, investigating electrochemical carbon capture. She enjoys reading, socializing and (of course) planning BOPs! When she’s not in lab, you can find her having a coffee in Darwin gardens or working at Darbar in the evening – come say hi :) <br><br>
+<br><br>
 
 The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
         </p>
@@ -193,9 +193,9 @@ The Events Officer coordinates, organises, and promotes social and entertainment
     <td style="vertical-align: middle">
         <strong>External Officer</strong><br/>
          dcsa_external AT darwin.cam.ac.uk<br/>
-         Naomi VAN DEN BERG <br/>
+         Maroof RAFIQUE<br/>
         <p align="justify">
-Naomi is a second year PhD making mathematical models about the (surprisingly sensational) social lives of microbes. In her free time, she likes to dance, draw, and look at whatever creatures float in the Cam waters through her microscope (a neat pandemic hobby although it may ruin your hobby of swimming in the Cam). You can always approach her for any neat ideas for swaps!.<br><br>
+<br><br>
 
 The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
         </p>
@@ -243,9 +243,9 @@ The International Officer is responsible for representing the needs of internati
     <td style="vertical-align: middle">
         <strong>Q+ Officer</strong><br/>
         dcsa_lgbtq AT darwin.cam.ac.uk<br/>
-        Sarah CARLO<br/>
+        Joe COWAN<br/>
         <p align="justify">
-Sarah is a PhD student at the Institute of Criminology, where she is studying Queer Intimate Partner Violence, specifically the role of morality within decision making. Outside of her studies, Sarah’s favorite lockdown activity is playing video games and is often found with a pint in hand at the pub (socially distanced, of course).<br/><br/>
+<br/><br/>
 
 The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Sarah is always there to chat, advise and help out where possible.
         </p>
@@ -354,9 +354,9 @@ Sarah is a first year PhD student in molecular neuroscience. She spends her free
     </td>
     <td style="vertical-align: middle">
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Daniel KOTTMANN<br/>
+        Michael SCHNEIDER<br/>
         <p align="justify">
-Daniel is a third year PhD student at the Department of Medicine working on new therapeutics to treat lung cancer.<br><br>
+<br><br>
 
 The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May.
         </p>
