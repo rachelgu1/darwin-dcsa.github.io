@@ -245,7 +245,7 @@ The International Officer is responsible for representing the needs of internati
         dcsa_lgbtq AT darwin.cam.ac.uk<br/>
         Joe COWAN<br/>
         <p align="justify">
-<br/><br/>
+Hey everyone! I'm Joe and I'm the Q+ officer. I'm a second-year Linguistic student studying things we don't say, but imply. Usually, I am reading between the lines, but when not, I'm either in the sauna or drinking coffee on the patio.<br/><br/>
 
 The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Sarah is always there to chat, advise and help out where possible.
         </p>
@@ -356,7 +356,7 @@ Sarah is a first year PhD student in molecular neuroscience. She spends her free
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
         Michael SCHNEIDER<br/>
         <p align="justify">
-<br><br>
+Michael is a final year PhD student working in the field of computational oncology. He enjoys the outdoors and student life in Darwin in all its facets.<br><br>
 
 The College Council Reps are elected by the students to represent them in College Council meetings and other college committees. They also report the business of College Council to the DCSA, and provide feedback to college on student interests. One rep is elected in November, and the other is elected in May.
         </p>
