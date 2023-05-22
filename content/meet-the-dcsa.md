@@ -195,7 +195,7 @@ The Events Officer coordinates, organises, and promotes social and entertainment
          dcsa_external AT darwin.cam.ac.uk<br/>
          Maroof RAFIQUE<br/>
         <p align="justify">
-<br><br>
+Maroof Rafique is pursuing Master of Law (LLM) and is an active member of Cambridge community. From arranging the highest number of formal swaps in a single term to hosting other colleges with a short Darwin tour, Maroof is always on the go to help Darwinians in any way he can!<br><br>
 
 The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
         </p>
