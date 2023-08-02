@@ -314,12 +314,7 @@ Hello! I’m Bea, a third-year PhD student in the Department of Materials Scienc
 The Women's Officer is responsible for representing and furthering the needs of students who identify as women/non-binary and promoting issues of gender, inclusivity, and accessibility. The Women’s Officer is responsible for campaigning to ensure that students' bodily autonomy is respected in all areas relevant to their sexual and reproductive health, tackling sexual violence and harassment in education, and working with student activists, officers and sector experts to remove barriers to support and justice for survivors and for institutions to be held accountable for failing to keep students safe. The Office ensures that Darwin is effective in its representation of the community it represents within the University and that the college is sensitive to these students' needs and issues.
         </p>
     </td></tr>
-</table>
 
-
-### Ex officio officers
-
-<table>
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-College-Council-I.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-College-Council-I.jpg" alt="[College Council I picture]" width="300px"/></a>
