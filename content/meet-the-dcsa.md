@@ -6,7 +6,6 @@ permalink: /meet-the-dcsa/
 
 <!-- Trinity -->
 
-<table>
 
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
@@ -358,5 +357,5 @@ Darbar is the college bar and is totally run and staffed by Darwin students. The
         </p>
     </td></tr>
 
-</table>
+
 
