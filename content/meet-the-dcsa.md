@@ -357,6 +357,5 @@ Patrick is a third year PhD student in Classics, he studies the formation of pol
 Darbar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee and the large group of bartenders, and makes sure everyone can enjoy the bar, whilst keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making Darbar even better please get in contact with the email above. The Bar Chair is elected by the Bar Committee annually.
         </p>
     </td></tr>
-</table>
 
 
