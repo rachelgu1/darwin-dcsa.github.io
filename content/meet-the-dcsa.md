@@ -133,7 +133,6 @@ The DCSA is currently lacking one of its Entertainments officers — if you're i
 <br><br>
 
         
-</tr>
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-II.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-Ents-II.jpg" alt="[Ents Officer's II picture]" width="300px"/></a>
@@ -316,7 +315,6 @@ The Women's Officer is responsible for representing and furthering the needs of 
         </p>
     </td></tr>
 
-</table>
 
 ### Ex officio officers
 
