@@ -6,7 +6,7 @@ permalink: /meet-the-dcsa/
 
 <!-- Trinity -->
 
-
+<table>
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/></a>
@@ -279,7 +279,8 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
         Sofia DARTNELL<br/>
         <p align="justify">
 Sofia Dartnell is a Zoology PhD student focused on bumblebee conservation. She is currently studying bumblebee brood parasites, or cuckoos. When she isn’t out catching bees, you can find Sofia singing, salsa dancing, or punting with friends. She is always up for a chat over tea, feel free to reach out!<br><br>
-
+</p>
+</td></tr>
 
 
 <tr>
@@ -356,6 +357,6 @@ Patrick is a third year PhD student in Classics, he studies the formation of pol
 Darbar is the college bar and is totally run and staffed by Darwin students. The Bar Chair presides over the Bar Committee and the large group of bartenders, and makes sure everyone can enjoy the bar, whilst keeping a safe and welcoming space both for customers and staff. If you have any questions or ideas for making Darbar even better please get in contact with the email above. The Bar Chair is elected by the Bar Committee annually.
         </p>
     </td></tr>
-
+</table>
 
 
