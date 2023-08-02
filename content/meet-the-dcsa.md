@@ -126,14 +126,13 @@ touch if you’d like a one-to-one chat, or just want to say hi!
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Katie WORKMAN<br/>
+        <br/>
         <p align="justify">
 
-Katie is an MPhil in Politics and International Studies researching online political communication and behavior. She’s a recovering journalist, debater, and ice cream enthusiast who you can find in the Darwin Library, at the bar, or in the gardens for a chat at any time. Her interests include both political and (more importantly) non-political parties.
+The DCSA is currently lacking one of its Entertainments officers — if you're interested in joining, contact the secretary or president.
 <br><br>
 
-        </p>
-    </td>
+        
 </tr>
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
@@ -254,8 +253,7 @@ The role of the Q+ Officer is to act as a representative for the interests of LG
         <p align="justify">
 Callum is a first year PhD student studying cancer biology, focusing on paediatric lymphoma. An aquatic sports enthusiast, Callum also plays on the university water polo team so you can often find him struggling to stay afloat in one of Cambridge’s many paddling pools.<br><br>
 
-        </p>
-    </td></tr>
+       
 
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
@@ -263,9 +261,9 @@ Callum is a first year PhD student studying cancer biology, focusing on paediatr
     </td>
     <td style="vertical-align: middle">
          dcsa_sports AT darwin.cam.ac.uk<br/>
-         Kamilė STANKEVIČIŪTĖ<br/>
+         <br/>
         <p align="justify">
-Kamilė is a second-year PhD student in machine learning for medicine. While she's waiting for her models to train, you can find her at the gym, running, or dancing salsa (pictured) ;)
+The DCSA is currently lacking a second Sports and Societies officer — if you're interested in joining, contact the secretary or president.
 <br><br>
 
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May.
@@ -284,8 +282,7 @@ The Sports and Societies Officers are responsible for maintaining the gym and fo
         <p align="justify">
 Sofia Dartnell is a Zoology PhD student focused on bumblebee conservation. She is currently studying bumblebee brood parasites, or cuckoos. When she isn’t out catching bees, you can find Sofia singing, salsa dancing, or punting with friends. She is always up for a chat over tea, feel free to reach out!<br><br>
 
-       </p>
-    </td></tr>
+
 
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
@@ -294,9 +291,9 @@ Sofia Dartnell is a Zoology PhD student focused on bumblebee conservation. She i
     <td style="vertical-align: middle">
         dcsa_welfare AT darwin.cam.ac.uk<br/>
         <!-- dcsa_mens_welfare AT darwin.cam.ac.uk<br/> -->
-        Ryan SMITH<br/>
+        <br/>
         <p align="justify">
-Ryan is an MPhil student at the Department of Sociology who focuses on issues of marginality and exclusion. When he’s not studying, Ryan enjoys cycling, travelling, and campaigning for a more equitable society. He’s always down for chatting over a cup of tea/coffee so do reach out!
+The DCSA is currently lacking a Men's Welfare officer — if you're interested in joining, contact the secretary or president.
 <br><br>
 
 The Welfare Officers are the student contact for students who are in need of help or advice. The two can advise you how to deal with any issues you face and who you should contact to get the help you need. Together, they organise welfare events throughout the year, such as Welfare Teas and Welfare Walks. Drop us an email or come find us on Facebook or College, if you need anything or just want to have a chat!
@@ -331,12 +328,11 @@ The Women's Officer is responsible for representing and furthering the needs of 
     <td style="vertical-align: middle">
         <strong>College Council Representatives</strong><br/>
         dcsa_council_reps AT darwin.cam.ac.uk<br/>
-        Sarah MAZILIAUSKAS<br/>
+        Pjotr VAN DER JAGT<br/>
         <p align="justify">
-Sarah is a first year PhD student in molecular neuroscience. She spends her free time kayaking and eating ramen.<br><br>
+Hi all! I'm Pjotr, a PhD student in genetics working on evolution (something with Darwin?). I spend a lot of my free time on the football field with the men's team of Darwin FC, on the river in one of Darwin's kayaks, or in my kitchen trying to cook something fun (36% success rate).<br><br>
 
-        </p>
-    </td></tr>
+      
 
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
