@@ -236,7 +236,7 @@ The International Officer is responsible for representing the needs of internati
         <p align="justify">
 Hey everyone! I'm Joe and I'm the Q+ officer. I'm a second-year Linguistic student studying things we don't say, but imply. Usually, I am reading between the lines, but when not, I'm either in the sauna or drinking coffee on the patio.<br/><br/>
 
-The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Sarah is always there to chat, advise and help out where possible.
+The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Joe is always there to chat, advise and help out where possible.
         </p>
     </td></tr>
 
