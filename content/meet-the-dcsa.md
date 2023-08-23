@@ -156,10 +156,10 @@ The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are re
          dcsa_green AT darwin.cam.ac.uk<br/>
          Joshua BICKLER <br/>
         <p align="justify">
-Joshua is studying an MPhil in Scientific Computing at the Cavendish, modelling the plasma physics in a Tokamak fusion reactor. Joshua hails from Aotearoa/New Zealand and is passionate about climate justice and sustainable energy. Outside of his studies you’ll see him jamming in the music room or enjoying a drink at the DarBar.
+Hi! I’m Joshua, a first year Physics PhD specialising in modelling the plasma physics in a Tokamak fusion reactor. I’m from Aotearoa/New Zealand with a passion for climate justice and sustainable energy. You’ll probably catch me jamming in the music room or enjoying a drink at DarBar!
 <br><br>
 
-The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. Please feel free to get in touch and share an issue that you feel passionate about, so that Meg can support you in sharing it with the Darwin community. They oversee the Gardening Society and sit on the Buildings & Grounds, Meals and International Crisis committees.
+The Environmental & Ethical Affairs Officer is responsible for the coordination and implementation of measures to address environmental and ethical issues, and organises college events promoting awareness of these issues. Please feel free to get in touch and share an issue that you feel passionate about, so that Joshua can support you in sharing it with the Darwin community. They oversee the Gardening Society and sit on the Buildings & Grounds, Meals and International Crisis committees.
         </p>
     </td></tr>
 
@@ -172,7 +172,7 @@ The Environmental & Ethical Affairs Officer is responsible for the coordination 
          dcsa_events AT darwin.cam.ac.uk<br/>
          Edouard BARRIER<br/>
         <p align="justify">
-Hello! I'm Edouard, a first year PhD student studying exoplanet atmospheres at the Institute of Astronomy. Outside work, I enjoy college sport, reading, baking and socialising around Darwin. Come say hi!
+Hello! I'm Edouard, a second year PhD student studying exoplanet atmospheres at the Institute of Astronomy. Outside work, I enjoy college sport, reading, baking and socialising around Darwin. Come say hi!
 <br><br>
 
 The Events Officer coordinates, organises, and promotes social and entertainment activities in college, including the May Week Garden Party, summer BBQ, and other smaller events throughout the year. They also administer the DCSA’s College Calendar.
