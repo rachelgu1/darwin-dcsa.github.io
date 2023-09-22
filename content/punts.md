@@ -65,10 +65,10 @@ A quick summary (not comprehensive), you are still expected to read the full Ter
 <li>Student I.D. card (or any I.D. for Alumni) must be left with the Porters' Lodge in order to receive keys for a booking.</li>
 <li>Punts, kayaks, and paddle boards can be taken out from 08:00am. Everything must be returned at the very latest 15 minutes before sunset.</li>
 <li><strong>No facilities may be used after dark</strong> without the explicit permission of the Admiral of the Punts, who must clear this with the Porters' Lodge.</li>
-<li>For safety, all of our punts carry a strict capacity limit of five persons plus one person punting.</li>
+<li>For safety, all of our punts carry a strict capacity limit of five passengers plus one person punting. The canoe is limited to 4 people. The double kayak is limited to 2 people. All remaining vessels are only meant for one person.</li>
 <li>For students & College members with a Raven log-in: <strong>all bookings need to be entered into the online booking system before the outing starts</strong>. No key will be given out without the online booking. If you don’t have a Raven login (e.g., Alumni) please contact the Alumni Office to make your booking (see website) or request the Porters to make the booking for you.</li>
-<li> Dogs are not permitted on College premises and should not be taken punting </li>
-<li>The person making the booking <strong>must be present at all times during the outing</strong> and is responsible for the behaviour of their guests. You are not allowed to make bookings for other persons.</li>
+<li> Dogs are not permitted on College premises and should not be taken on any of the punt club vessels </li>
+<li>The person making the booking <strong>must be present at all times during the outing</strong> and is responsible for the behaviour of their guests. Members are <strong>not allowed to make bookings for other persons.</strong></li>
 <li>Please do not be late when returning, it's unfair on those who have bookings after. If you are stuck somewhere on the river (e.g., strong winds), please contact the Porters' Lodge and arrangements can be made.</li>
 <li>A booking is void if the boat is not taken within 15 minutes of the booked time. After this time the boat will be available to anyone waiting to take the boat until the end of the unused booking. The rules about maximum booking length per member still apply.</li>
 <li>Please make sure to check the punt, kayaks, and locks for any damage before and after the outing. Report any damage immediately to both the Porters <strong>and</strong> the Admiral of the Punts, so that we're aware of the problem.</li>
