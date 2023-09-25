@@ -35,11 +35,11 @@ The table below gives a brief overview of the membership and booking fees.</p>
   <tr>
     <td>Non-Members/ Individual Outings</td>
     <td>£15 per outing<br> (per single punt, a trip to Grantchester counts at least as two outings)</td>
-    <td>not available<br> (members only)</td>
-    <td>not available<br> (members only)</td>
+    <td>not available<br> (punt club members only)</td>
+    <td>not available<br> (punt club members only)</td>
   </tr>
   <tr>
-    <td>Membership</td>
+    <td>Punt club membership</td>
     <td>£30 membership fee per season<br>+ access to all vessels</td>
     <td></td>
     <td></td>
@@ -94,7 +94,7 @@ A quick summary (not comprehensive), you are still expected to read the full Ter
 <h4 id="bookings">Bookings</h4>
 
 <p align="justify">
-Current members of the College, including Staff and Alumni, can book a single standard outing (see above; e.g., a single punt for up to 3 hours) each day. Punt Club members can book punts for free. Only members can book the canoe, kayaks, or paddle boards.
+Current members of the College, including Staff and Alumni, can book a single standard outing (see above; e.g., a single punt for up to 3 hours) each day. Punt Club members can book punts for free. Only Punt Club members can book the canoe, kayaks, or paddle boards.
 </p>
 
 <p align="justify">
