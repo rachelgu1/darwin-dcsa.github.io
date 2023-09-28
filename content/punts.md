@@ -66,7 +66,7 @@ A quick summary (not comprehensive), you are still expected to read the full Ter
 <li>Punts, kayaks, and paddle boards can be taken out from 08:00am. Everything must be returned at the very latest 15 minutes before sunset.</li>
 <li><strong>No facilities may be used after dark</strong> without the explicit permission of the Admiral of the Punts, who must clear this with the Porters' Lodge.</li>
 <li>For safety, all of our punts carry a strict capacity limit of five passengers plus one person punting. The canoe is limited to 4 people. The double kayak is limited to 2 people. All remaining vessels are only meant for one person.</li>
-<li>For students & College members with a Raven log-in: <strong>all bookings need to be entered into the online booking system before the outing starts</strong>. No key will be given out without the online booking. If you don’t have a Raven login (e.g., Alumni) please contact the Alumni Office to make your booking (see website) or request the Porters to make the booking for you.</li>
+<li>For current students & College members (i.e. not Alumni): <strong>all bookings need to be entered into the online booking system before the outing starts</strong>. No key will be given out without the online booking. If you don’t have a booking system login (i.e. Alumni) please contact the Alumni Office to make your booking (see website) or request the Porters to make the booking for you.</li>
 <li> Dogs are not permitted on College premises and should not be taken on any of the punt club vessels </li>
 <li>The person making the booking <strong>must be present at all times during the outing</strong> and is responsible for the behaviour of their guests. Members are <strong>not allowed to make bookings for other persons.</strong></li>
 <li>Please do not be late when returning, it's unfair on those who have bookings after. If you are stuck somewhere on the river (e.g., strong winds), please contact the Porters' Lodge and arrangements can be made.</li>
@@ -76,7 +76,7 @@ A quick summary (not comprehensive), you are still expected to read the full Ter
 
 <p align="justify"><strong>IMPORTANT</strong> - to avoid damage to the boats</p>
 <ul>
-<li>When using the rollers on trips to Grantchester, please put the mooring pins (located on chains at the bow/stern of the punts) <strong>inside of the punts, do not keep them inside of their holes</strong>, as they can bend and cause damage to the punts. The mooring pin must be sawn off, and you may be charged for replacement parts and/or labour.</li>
+<li>When using the rollers on trips to Grantchester, please put the mooring pins (located on chains at the bow/stern of the punts) <strong>inside of the punts, do not keep them inside of their holes</strong>, as they can bend and cause damage to the punts. We have to saw off bent mooring pins, and you may be charged for replacement parts and/or labour.</li>
   <li>When using the kayaks, make sure to <strong>pull up their rear rudders</strong> when they are out of the water to avoid damaging the rudder. When in the water, let the rudder down using the pulley on the side of the kayaks to make it easier to steer.</li>
 </ul>
 <a href="{{site.baseurl | absolute_url}}/documents/PuntClub-Notices.pdf">This document</a> has more details and explanations on how to avoid common errors.<br><br><br>
@@ -100,7 +100,7 @@ Current members of the College, including Staff and Alumni, can book a single st
 <p align="justify">
 Bookings can be made on the day, or up to seven days in advance, and are allocated on a first-come, first-served basis. Weekends are the busiest and booking in advance is strongly recommended. During the week you will usually be able to take a punt out without booking in advance - but it is still recommended to avoid disappointment.
 <strong>
-For students & College members with a Raven login (CRSid): all bookings need to be made before the outing starts via the online booking system.
+For current students & College members with a CRSid: all bookings need to be made before the outing starts via the <a href="https://booking.dar.cam.ac.uk/Web/view-schedule.php?sid=4">online booking system</a>.
 </strong></p>
 
 <p align="justify">
@@ -113,7 +113,7 @@ Trips down The Backs (to Jesus Green and back, passed the Colleges) typically ta
 <a href="https://booking.dar.cam.ac.uk/Web/view-schedule.php?sid=4">Link to the online booking system</a>
 
 
-<h5>For Alumni Without A Raven Log-In</h5>
+<h5>For Alumni Without A CRSid</h5>
 <p align="justify">
 Alumni must contact the College Development Office at <a href="alumni.relations@darwin.cam.ac.uk">alumni.relations@darwin.cam.ac.uk</a> who will be able to make the booking in your place. Same-day bookings can be made in person at the Porters’ Lodge, but we strongly advise you to make the reservation to avoid disappointments.
 </p>
@@ -144,7 +144,7 @@ To join the Punt Club or renew your membership:
 Note that you don't need to have a PayPal account in order to pay for the membership. You can pay on the PayPal portal with a debit card, using the Checkout as Guest button.
 Sign up through <a href="https://docs.google.com/forms/d/e/1FAIpQLScWtZ6yJ8WqGqS0YGxvjs04xexKmFAp2xpoXkELKj7o1pKXxw/viewform?usp=sf_link">the online registration form</a></ul></li>
 
-<li>For anyone without a Raven account/CRSid:<br>
+<li>For anyone without a booking system account/CRSid:<br>
 Contact the Admiral of the Punts (include your full name, email, and your relationship to the College), please put the Darwin Alumni Relations Office in cc (alumni.relations@darwin.cam.ac.uk).
 </li>
 </ol>
