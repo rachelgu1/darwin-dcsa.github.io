@@ -182,7 +182,7 @@ All equipment (life jackets, punt cushions, punt poles, spare paddle in case you
 
 <strong>What is bailing?</strong>
 <p align="justify">
-If you are using the punts after a period of rain, keep in mind that they are likely to contain water! There is bailing equipment within the Kayak House (looks like a blue dustpan). Please do not take the bailer with you on the river.
+If you are using the punts after a period of rain, keep in mind that they are likely to contain water! There is bailing equipment within the Kayak House (big blue dustpan or smaller orange scoop). Please do not take the bailer with you on the river.
 </p><br>
 
 <strong>What if I am late?</strong>
