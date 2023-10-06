@@ -119,13 +119,13 @@ Alumni must contact the College Development Office at <a href="alumni.relations@
 </p>
 
 <p align="justify">
-Chauffeured punt tour services with experienced student Punt Captains are available. The usual cost is £20 per punt per hour, and is bookable by current College members and Alumni. Please contact the Admiral of the punts at least one to two weeks in advance of your desired tour date.
+Chauffeured punt tour services with experienced student Punt Captains are available. The usual cost is £20 per punt per hour (minimum 2 hours), and is bookable by current College members and Alumni. Please contact the Admiral of the punts at least one to two weeks in advance of your desired tour date.
 </p><br>
 
 <h4 id="joining-the-punt-club">Joining the Punt Club/Renewing membership</h4>
 
 <p align="justify">
-Current members of the college, including Staff and Alumni, can join the Punt Club for a non-refundable £30 fee. Membership is valid for the current season (March-November), or if purchased after Sept. 1st, until the end of next year's season. No discounts or refunds can be given for members arriving mid-season, or leaving before the season ends. The membership entitles you to unlimited, free Standard Outings with the punts, kayaks, canoe, and paddle boards. There is no available subscription programme, so members need to sign up here again every year to renew their membership.
+Current members of the college, including Staff and Alumni, can join the Punt Club for a non-refundable £30 fee. Punt club membership is valid for the current season which generally corresponds to the calendar year, or if purchased after Sept. 1st, until the end of the next calendar year. No discounts or refunds can be given for members arriving mid-season, or leaving before the season ends. The membership entitles you to unlimited, free Standard Outings with the punts, kayaks, canoe, and paddle boards. The punts and paddleboard are not bookable during the winter period (Nov - Feb) without special permission from the Admiral but the kayaks and canoe are available all-year round. There is no available subscription programme, so members need to sign up here again every year to renew their membership.
 </p>
 
 <p align="justify">
@@ -157,7 +157,7 @@ If you have any issues with the registration form or anything else is unclear, p
 <h4 id="activities-and-events">Activities and Events</h4>
 
 <p align="justify">
-Punting has a long tradition in Cambridge and is one of the highlights of what the town has to offer. In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the annual Punt Race, the outings to the Trinity and St John’s May Ball fireworks at night, and to see King‘s choir‘s singing on the river. We will also chauffeur you to some fancy formals, teach you about bats that live in the area around Grantchester, or just have an enjoyable time in summer on a trip to the Grantchester orchard. Many of the pictures you can see at the top of this section have been taken during some of these events. It’s great fun and a good way to experience some of the unique aspects of Cambridge life.
+Punting has a long tradition in Cambridge and is one of the highlights of what the town has to offer. In addition to being able to take your friends and family out when they visit, membership also gives you the opportunity to sign up to special events such as the annual Punt Race, the cardboard boat race, the outings to the Trinity and St John’s May Ball fireworks at night, and to see King‘s choir‘s singing on the river. We will also chauffeur you to some fancy formals, teach you about bats that live in the area around Grantchester, or just have an enjoyable time in summer on a trip to the Grantchester orchard. Many of the photos you can see at the top of this section have been taken during some of these events and more photos can be found on our <a href="https://www.instagram.com/darwinpuntclub/">Instagram</a></ul></li>. Punting is great fun and a good way to experience some of the unique aspects of Cambridge life.
 </p><br>
 
 
