@@ -318,10 +318,10 @@ We play in the inter-college women’s football league throughout Michaelmas, Le
 Current training schedule: <br>
 Training- Monday & Thursday<br>
 Matches- Saturday (variable) <br>
-
+<br><br>
 <strong>Contact:</strong> <br>
 Blanca Piera Pi-Sunyer, bp451<br>
-
+<br><br>
 <strong>Social Media:</strong> <br>
 <a href="https://www.instagram.com/d.e.w.f.c/">Instagram</a><br>
 Find us in the Darwin Whatsapp Community <br>
