@@ -513,21 +513,19 @@ Joshua Maynard, jmm244<br>
   <summary><b>Running Club</b></summary>
 
 <!-- NB: insert image -->
-Darwin College Running Club (DCRC) is the perfect club to join whether you are training for a race, or you just want to go for occasional runs.  Due to the ongoing pandemic situation, the club will operate differently this year, but we will do our best to accommodate everyone. We will meet three times per week (Tuesdays and Thursdays 19.00, and Sundays 9.30 am) and go for short (5k) or longer runs (7k - 10k) depending on the day, with the following considerations:
+The Darwin College Running Club (DCRC) is a great community of people looking to enjoy the sights in and around Cambridge while enjoying fresh air and good company! We like to get out a few times a week for casual runs and tailor our regular sessions depending on the desires of the group. We encourage participation by runners of all abilities and often offer lead route variations to accommodate a variety of distances/paces. Typical runs during the week are around 5K while longer runs will happen on the weekend. Please get in contact with us if you would like to know more about our regular schedule and try out a run!
 <br><br>
-Running in a single line, keeping 3 meters distance (approx).
-<br><br>
-Groups of 3 to 4 people (max) from the same household (by preference).
-<br><br>
-Please contact us to register, and book your place weekly (more instructions coming soon).
-<br><br>
-Join the Darwin Runner Evolution! 
+Members of our club often decide to try out one of the many annual races in Cambridge such as the Town & Gown 10K, Cambridge Half Marathon, the Boundary Run Half/Full Marathon, or the Chariots of Fire Relay. In the past we have also represented at races in London and beyond. As a club, we set up sessions so that we can train together towards these ambitious goals.
 <br><br>
 
 <strong>Contact:</strong> <br>
-Mauro Velasco Castro, mv459<br>
-Oana Kubinyecz, onk23<br>
+Leanne Milburn, lam219 <br>
+Chloe Patman, cep72 <br>
+<br>
+
+<strong>Social Media:</strong> <br>
 <a href="https://www.facebook.com/groups/DCRC2018/">Facebook</a><br>
+Find us in the Darwin Whatsapp Community <br>
 </details>
 
 
