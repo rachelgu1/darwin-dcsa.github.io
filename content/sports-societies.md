@@ -9,21 +9,6 @@ permalink: /sports-societies/
 
 # Sports & Societies
 <br>
-<!-- APES -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Animal, Plant and Environment Society (APES)</b></summary>
-
-<div class="societies--image-container">
-<img src="{{site.baseurl | absolute_url}}/images/Societies/apes.png" alt="[APES]"/>
-</div>
-
-The Animal, Plant and Environment Society (APES) is an informal, fun and inclusive group who enjoy spending time outside in the natural environment. The troop leaders will plan activities to interact with nature in the local area, including tours of local nature reserves, birdwatching, kayak outings, vounteering and day trips. Bananas will be provided.
-<br><br>
-
-<strong>Contact:</strong> <br>
-President: Sarah Maziliauskas, sm2651<br>
-Treasurer: Blanca Piera Pi-Sunyer, bp451<br>
-</details>
 
 <!-- Badminton Club -->
 <details align="justify" style="text-align:justify">
@@ -398,28 +383,6 @@ dcsa_lgbtq AT darwin DOT cam DOT ac DOT uk<br>
 </details>
 
 
-<!-- Minecraft Society -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Minecraft Society </b></summary>
-
-<!-- NB: insert image -->
-The Darwin College Minecraft Club (DCMC) is the college’s only fully online society. At present we have a super relaxed vanilla server online 24/7. Please come and join and build your own virtual home.
-<br><br>
-To spur you on, for Freshers’ Week we are asking you to create something that fits in a 16x16 block space with the theme “COVID-19”. Virtual prizes will be given for the best entries!
-<br><br>
-We allow each Darwin member up to 3 non-Darwin guests. To get access, activate your account at: <br>
-https://darwinminecraftclub.pythonanywhere.com/activate <br>
-and enter your CRSID and access code: <br>
-“Golden Apples 4 Covid” <br>
-Then follow instructions in your email.
-<br><br>
-
-<strong>Contact:</strong> <br>
-Hugh Ramsden, hor20<br>
-Mauro Velasco, mv459<br>
-</details>
-
-
 <!-- Music Society -->
 <details align="justify" style="text-align:justify">
   <summary><b>Music Society </b></summary>
@@ -474,22 +437,6 @@ of the Punts.
 <strong>Contact:</strong> <br>
 Michael Schneider, dcsa_punts AT darwin DOT cam DOT ac DOT uk<br>
 
-</details>
-
-
-<!-- Robotics and Raspberry Pi -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Robotics and Raspberry Pi </b></summary>
-
-<!-- NB: insert image -->
-
-Hi there! Do you like to make things? Do you like to code? Or are you just curious? Then the Darwin College Robotics and Raspberry Pi Society is the perfect place for you! Whether you are a pro or a beginner, join us to help, share and learn together! Although our physical meet-ups schedule will be uncertain this year, we will try to organise small socially-distant gatherings as much as we can. Come to the Freshers’ Fair to find out more about our projects and maybe even suggest your own ;)
-<br><br>
-
-<strong>Contact:</strong> <br>
-Charlotte Tumescheit, ct518<br>
-Aurelia Li, ayl23<br>
-<a href="https://www.facebook.com/groups/2698375053588790/">Facebook</a><br>
 </details>
 
 
@@ -561,20 +508,6 @@ Find us in the Darwin Whatsapp Community <br>
 <br>
 </details>
 
-
-<!-- Waterpolo -->
-<details align="justify" style="text-align:justify">
-  <summary><b>Waterpolo</b></summary>
-
-<!-- NB: insert image -->
-We play waterpolo jointly with Queens, training once a week and playing (winning) college league once a term. All ability and genders welcome. PS: there are no horses involved...
-<br><br>
-
-<strong>Contact:</strong> <br>
-Sian Stockton, ss2459<br>
-Bing-Tao Lee, btl30<br>
-</details>
-
 <!-- Yoga -->
 <details align="justify" style="text-align:justify">
   <summary><b>Yoga </b></summary>
@@ -629,6 +562,19 @@ If there’s a club/society not listed here,  not to worry - you can start it! T
 <br><br>
 Some clubs we have previously offered are also looking for volunteers to help lead them this year, they are listed below. If you're interested in getting involved with one of these clubs or starting a new one, come to the Sports & Societies Fair to pick up the necessary paperwork  or email Jonathan (dcsa_treasurer@darwin.cam.ac.uk) or Poppy and Asmay (dcsa_sports@darwin.cam.ac.uk)
 <br>
+
+<!-- APES -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Animal, Plant and Environment Society (APES)</b></summary>
+
+<div class="societies--image-container">
+<img src="{{site.baseurl | absolute_url}}/images/Societies/apes.png" alt="[APES]"/>
+</div>
+
+The Animal, Plant and Environment Society (APES) is an informal, fun and inclusive group who enjoy spending time outside in the natural environment. The troop leaders will plan activities to interact with nature in the local area, including tours of local nature reserves, birdwatching, kayak outings, vounteering and day trips. Bananas will be provided.
+<br><br>
+</details>
+
 <!-- Aerial Arts -->
 <details align="justify" style="text-align:justify">
   <summary><b>Aerial Arts</b></summary>
@@ -757,6 +703,22 @@ Darwinians do care about mental health!
 <a href="https://www.facebook.com/mindmattersdarwin">Facebook</a><br>
 </details>
 
+<!-- Minecraft Society -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Minecraft Society </b></summary>
+
+<!-- NB: insert image -->
+The Darwin College Minecraft Club (DCMC) is the college’s only fully online society. At present we have a super relaxed vanilla server online 24/7. Please come and join and build your own virtual home.
+<br><br>
+To spur you on, for Freshers’ Week we are asking you to create something that fits in a 16x16 block space with the theme “COVID-19”. Virtual prizes will be given for the best entries!
+<br><br>
+We allow each Darwin member up to 3 non-Darwin guests. To get access, activate your account at: <br>
+https://darwinminecraftclub.pythonanywhere.com/activate <br>
+and enter your CRSID and access code: <br>
+“Golden Apples 4 Covid” <br>
+Then follow instructions in your email.
+<br><br>
+</details>
 
 <!-- Open Club for Debate -->
 <details align="justify" style="text-align:justify">
@@ -787,6 +749,18 @@ The Photo Society is looking for a President and a Treasurer.
 
 </details>
 
+<!-- Robotics and Raspberry Pi -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Robotics and Raspberry Pi </b></summary>
+
+<!-- NB: insert image -->
+
+Hi there! Do you like to make things? Do you like to code? Or are you just curious? Then the Darwin College Robotics and Raspberry Pi Society is the perfect place for you! Whether you are a pro or a beginner, join us to help, share and learn together! Although our physical meet-ups schedule will be uncertain this year, we will try to organise small socially-distant gatherings as much as we can. Come to the Freshers’ Fair to find out more about our projects and maybe even suggest your own ;)
+<br><br>
+
+<strong>Contact:</strong> <br>
+<a href="https://www.facebook.com/groups/2698375053588790/">Facebook</a><br>
+</details>
 
 <!-- Science Society -->
 <details align="justify" style="text-align:justify">
@@ -800,4 +774,13 @@ science pub quizzes, lively debates to movie nights and much more... Nonscience 
 <br><br>
 
 <a href="https://www.facebook.com/darscisoc">Facebook</a> <br>
+</details>
+
+<!-- Waterpolo -->
+<details align="justify" style="text-align:justify">
+  <summary><b>Waterpolo</b></summary>
+
+<!-- NB: insert image -->
+We play waterpolo jointly with Queens, training once a week and playing (winning) college league once a term. All ability and genders welcome. PS: there are no horses involved...
+<br><br>
 </details>
