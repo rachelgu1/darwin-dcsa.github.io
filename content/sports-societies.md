@@ -560,7 +560,7 @@ Chiara Toschi, ct452<br>
 <br>
 If there’s a club/society not listed here,  not to worry - you can start it! To found a new club/society you need to have a President and a Treasurer, and 15 Darwin students need to sign up. Then, you can apply for funding from the DCSA Treasurer.  
 <br><br>
-Some clubs we have previously offered are also looking for volunteers to help lead them this year, they are listed below. If you're interested in getting involved with one of these clubs or starting a new one, come to the Sports & Societies Fair to pick up the necessary paperwork  or email Jonathan (dcsa_treasurer@darwin.cam.ac.uk) or Poppy and Asmay (dcsa_sports@darwin.cam.ac.uk)
+Some clubs we have previously offered are also looking for volunteers to help lead them this year, they are listed below. If you're interested in getting involved with one of these clubs or starting a new one, come to the Sports & Societies Fair to pick up the necessary paperwork  or email Jonathan (dcsa_treasurer@darwin.cam.ac.uk) or Callum (dcsa_sports@darwin.cam.ac.uk)
 <br>
 
 <!-- APES -->
