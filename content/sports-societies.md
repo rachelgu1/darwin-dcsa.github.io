@@ -75,7 +75,8 @@ Having BEEn lured in by the sweet idea  of collecting our very own honey, the  D
 <br><br>
 
 <strong>Contact:</strong> <br>
-Michael Schneider (ms2556), Amelia Urry (au255)<br>
+Michael Schneider (ms2556), Amelia Urry (au255), Sofia Dartnell (skpd2)<br>
+Look for WhatsApp group in Darwin Community
 </details>
 
 
@@ -95,12 +96,23 @@ Rowing is teamwork at its peak. From  our strong tan lines in the summer, our  m
   <br><br>
 
 <strong>Contact:</strong> <br>
-darwin.captain@cucbc.org<br>
-Poppy Oldroyd, darwin.women@cucbc.org<br>
-Jose Franco, darwin.men@cucbc.org<br>
+Poppy Oldroyd, darwin.captain@cucbc.org<br>
+Leah Rosen, darwin.women@cucbc.org<br>
+Sheila Bhatt, darwin.men@cucbc.org<br>
 <a href="https://www.facebook.com/DarwinCollegeBoatClub/">Facebook</a><br>
 </details>
 
+<!-- College Choir -->
+<details align="justify" style="text-align:justify">
+  <summary><b>College Choir </b></summary>
+
+<!-- NB: insert image -->
+
+The College has recently relaunched the college choir, meeting regularly each Tuesday at 1930 in the Old Library. We would love more singers to join us! The choir is open to individuals of all abilities and from throughout the Cambridge community and the music is VERY accessible. You don't have to be a Darwin member, so spouses, significant others, partners, and friends are all welcome. Our rehearsals are fun, rewarding, and take place in a very friendly, welcoming environment. Do come along to de-stress from the pressures of work and help support our emerging musical community.
+<br><br>
+<strong>Contact:</strong> <br>
+Pierre Riley (pprr3)
+</details>
 
 <!-- Cheese and Wine Society-->
 <details align="justify" style="text-align:justify">
@@ -126,7 +138,6 @@ A society for all those interested in chess at Darwin College. We have weekly ch
 <br><br>
 
 <strong>Contact:</strong> <br>
-Sumit Birwa, skb61<br>
 Toby Brann, tb708</br>
        
 <a href="https://www.facebook.com/groups/633268437670231/">Facebook</a><br>
@@ -146,13 +157,12 @@ Toby Brann, tb708</br>
 <img src="{{site.baseurl | absolute_url}}/images/Societies/climbing2.jpg" alt="[Climbing second pic]"/>
 </div>
 
-We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over Whatsapp or over a pint at DarBar or check out what we are up to on Facebook “Darwin College Climbing Club”. We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor).
+We are a group of climbers that simply just want to go climbing. Since there aren't many rocks around we usually meet for an indoor bouldering session at one of the two gyms in town - Rainbow Rocket (RR) or Kelsey Kerridge (KK). We also make the occasional outdoor trip further north or abroad when the weather/season permits. We organise everything over Whatsapp or or via our mailing list. We have bouldering mats, a trad rack, lots of quickdraws, a few spare harnesses, ropes, and belay devices which you can borrow for trips (indoor or outdoor).
 <br><br>
 
 <strong>Contact:</strong> <br>
 Gavin Summers, grs50<br>
-Barney Salsby, bs640<br>
-<a href="https://www.facebook.com/groups/163055867151943/">Facebook</a><br>
+<a href="https://chat.whatsapp.com/CQijXL9MgINJcFVZSgLJU2">WhatsApp</a><br>
 </details>
 
 
@@ -164,11 +174,13 @@ Barney Salsby, bs640<br>
 <img src="{{site.baseurl | absolute_url}}/images/Societies/cricket.jpg" alt="[Cricket]"/>
 </div>
 
-Darwin College Cricket Club is a friendly club with a record of success, as we are defending champions of the MCR Cricket League, having been runners up the year before. We welcome players of all abilities, from absolute novices to seasoned veterans and of any gender. All kit and equipment is provided, with winter net sessions taking place once a week starting in the new year. Matches are played in the summer months (May-July).
+Darwin College Cricket Club (DC3) is a friendly and welcoming sports club whose primary focus is not about winning, but on making sure that as many Darwinians as possible are introduced to the sport, and get a chance to play it competititvely in the Cuppers and the MCR league (usually around April to June). DC3 has a history of being as old as the college itself, although the club was inactive during some intervals. We are the defending champions of the MCR Cricket League in 2008-9 and 2010-11, reaching the finals in 2009-10, thus, being runners up many times throughout the years.
 <br><br>
 
 <strong>Contact:</strong><br>
-Ben Geytenbeek, bg364<br>
+Maroof Rafique (mr928), David Seager (ds993)<br>
+<a href="https://chat.whatsapp.com/L1GNN5gXesj03dbWaedmA9">WhatsApp</a><br>
+<a href="https://instagram.com/darwin_college_cricket_club?igshid=OGQ5ZDc2ODk2ZA">Instagram</a><br>
 </details>
 
 
@@ -186,6 +198,7 @@ For any queries, reach out to Aristi Damaskou (ad971). Also, make sure to follow
 
 <strong>Contact:</strong><br>
 Aristi Damaskou, ad971<br>
+Instagram: @darwin_cuban_salsa <br>
 <a href="https://www.facebook.com/groups/866672656814002/">Facebook</a><br>
 </details>
 
@@ -600,19 +613,6 @@ Aerial Arts are a great way to improve strength, flexibility and overall fitness
 Gears looking orange? Brakes failing? Flat tyre? Do you feel like you're taking your life into your own hands every time you hit the road on your bike? Sign up for the Bike Repair club, and get access to all the tools you'll need to keep a bike in working order around Cambridge! We run the occasional masterclass, so no previous experience is necessary. Find us at the Sports and Societies Fair!
 <br>
 </details>
-
-
-<!-- College Choir -->
-<details align="justify" style="text-align:justify">
-  <summary><b>College Choir </b></summary>
-
-<!-- NB: insert image -->
-
-Darwin college choir is a non-auditioned SATB choir made up of graduate students that meets once a week to rehearse a range of choral pieces from classical to jazz. The choir performs in college for events at Christmas and throughout the year, including formal dinners and garden parties, as well as externally for collaborative concerts with other college choirs. We are fairly relaxed and everyone is welcome! 
-<br><br>
-<a href="https://www.facebook.com/groups/356542008139944">Facebook</a><br>
-</details>
-
 
 <!-- Families Society -->
 <details align="justify" style="text-align:justify">
