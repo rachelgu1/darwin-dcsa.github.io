@@ -172,18 +172,19 @@ Gavin Summers, grs50<br>
 Our mission is to caffeinate college. If you enjoy coffee, want to meet fellow coffeeholics or just learn more about the world's most popular beverage, Darwin Coffee Society is the place to be.<br>
 We are an open and inviting community - you don't even need to know anything about coffee to join in - that seeks to put great coffee in the mouths of our members - simple as that.
 Throughout the year, we …<br>
-- hosttrainings/workshops<br>
+- host trainings/workshops<br>
 - explore Cambridge's vibrant coffee scene<br>
 - organize cycling trips to coffee destinations<br>
 - bring in coffee experts for talks<br>
 - host coffee crawls<br>
 - visit roasteries<br>
-- … your idea?<br>
+- …your idea?<br>
 <br><br>
 
 <strong>Contact:</strong><br>
  Jonas Spengler (js2576), Magda Nowinska (mn561) <br>
 Join our mailing list<br>
+<br><br>
 </details>
 
 
