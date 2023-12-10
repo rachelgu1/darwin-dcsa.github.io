@@ -76,7 +76,6 @@ The Admiral of the Punts is responsible for all the vessels the punt club owns, 
     <td style="vertical-align: middle">
         <strong>BAME Officer</strong><br/>
         dcsa_bame AT darwin.cam.ac.uk<br/>
-        <br/>
         <p align="justify">
 The DCSA is currently lacking a BAME officer — if you're interested in joining, contact the secretary or president.<br><br>
 
@@ -125,7 +124,7 @@ with any disability or long-term health condition.
         dcsa_ents AT darwin.cam.ac.uk<br/>
         Lewis STRACHAN<br/>
 
-Hi! I'm Lewis, a first year PhD student studying malaria parasite genetics at the Cambridge Institute for Medical Research. When I'm not stuck at Addenbrooke's I like cycling, hanging with friends at Darbar, and sometimes just watching the river go by.<br><br>
+Hi! I'm Lewis, a first year PhD student studying malaria parasite genetics at the Cambridge Institute for Medical Research. When I'm not stuck at Addenbrooke's I like cycling, hanging with friends at Darbar, and sometimes just watching the river go by.<br <br>
         <p align="justify">
         </p>
     </td></tr>
@@ -300,7 +299,6 @@ The Welfare Officers are the student contact for students who are in need of hel
         <strong>Women's Officer</strong><br/>
         dcsa_women AT darwin.cam.ac.uk<br/>
         Nicole WILSON<br/>
-        <br/>
         <p align="justify">
 Hi everyone! I’m completing an MPhil in Basic and Translational Neuroscience, investigating the intracellular mechanisms for handling aggregate-prone proteins in the brain. Outside of my studies, I love discovering new cafes and going climbing with friends. Feel free to reach out to me for a chat if you have any questions or concerns!<br><br>
 
