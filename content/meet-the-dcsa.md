@@ -254,7 +254,7 @@ Callum is a PhD student studying cancer biology, focusing on paediatric lymphoma
          dcsa_sports AT darwin.cam.ac.uk<br/>
          Alex BIAS<br/>
         <p align="justify">
-<br><br>
+<br>
 
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May.
         </p>
