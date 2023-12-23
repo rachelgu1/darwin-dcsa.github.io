@@ -136,6 +136,9 @@ Hi! I'm Lewis, a first year PhD student studying malaria parasite genetics at th
     <td style="vertical-align: middle">
         dcsa_ents AT darwin.cam.ac.uk<br/>
          David O'SHEA<br/>
+        
+Hi I'm David (they/them) and I'm a first year Physics PhD student working on defect centers in diamond- in short, I get to shoot lasers at diamonds. I'm from Southend on sea in Essex and love a good costume'd night out In my free time I'm usually playing bass, reading books or learning a language. If anyone has any questions or suggestions for the bops, please do shoot them my way!
+<br>
         <p align="justify">
 
 The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
@@ -183,7 +186,9 @@ The Events Officer coordinates, organises, and promotes social and entertainment
          dcsa_external AT darwin.cam.ac.uk<br/>
          Blake JOSEPH-OLSEN<br/>
         <p align="justify">
-
+Hey! I'm from Minneapolis, Minnesota in the US. I enjoy swimming, playing music, and going on adventures with friends. My favorite place around campus is Coe Fen in the midday sun. I love being at Darwin because of the chill yet focused environment and the dining! I am currently doing an MPhil in the Hebrew Bible researching sacred spaces and generative intersubjectivity with the sacred. If you have any ideas for externals (formal swaps, bar / event swaps, etc.) let me know - input is always welcome!
+<br><br>
+            
 The External Officer is responsible for organising formal swaps with other Colleges, and for hosting other Colleges when they visit Darwin for formal swaps. They also represent the DCSA at Cambridge Students’ Union meetings.
         </p>
     </td></tr>
@@ -255,7 +260,9 @@ Callum is a PhD student studying cancer biology, focusing on paediatric lymphoma
          Alex BIAS<br/>
         <p align="justify">
 <br>
-
+Hi everyone! I’m Alex. I’m completing an MPhil in Engineering for Sustainable Development. I’m a member of the Cambridge Climate Society, working towards increased sustainability education. Feel free to reach out with any questions or say hi if you see me around!
+<br><br>
+            
 The Sports and Societies Officers are responsible for maintaining the gym and for overseeing Darwin’s sports and societies. They are also responsible for organising the Darwin-Wolfson Sports Day, a day of friendly competition against our sister college at Oxford, held every March. One officer is elected in November, and the other is elected in May.
         </p>
     </td></tr>
