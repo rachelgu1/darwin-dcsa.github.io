@@ -15,7 +15,7 @@ permalink: /meet-the-dcsa/
         <strong>President</strong><br/>
         dcsa_president AT darwin.cam.ac.uk<br/>
         Niamh HARTLEY<br/>
-        <p align="justify">
+        <p align="justify"> 
 Hi! I’m Niamh and I’m a PhD student at the Department of Chemistry specialising in developing new carbon capture technology. Outside of my PhD, I enjoy socialising at Darbar, reading in the gardens and taking care of my many plant babies. If you have any ideas or questions for the DCSA and/or college, drop me a message so we can chat over a cup of tea/coffee!<br><br>
 
 The President is the representative of the DCSA to College, voicing the opinions of the students to all College members. They coordinate the committee by chairing DCSA Regular Meetings and General Meetings. The President works very closely with the Secretary, Treasurer, and the rest of the committee to ensure work is completed. The President sits on the College Council as a student representative, attends fortnightly Cambridge Students’ Union meetings, and sits on numerous College committees (including Strategic Planning, PREVENT, Health & Safety, and Wine).
