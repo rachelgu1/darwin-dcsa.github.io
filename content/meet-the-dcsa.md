@@ -122,10 +122,10 @@ with any disability or long-term health condition.
     <td style="vertical-align: middle">
         <strong>Entertainment Officers</strong><br/>
         dcsa_ents AT darwin.cam.ac.uk<br/>
-        Lewis STRACHAN<br/>
-
+        Lewis STRACHAN
+        <br/>
+<p align="justify">
 Hi! I'm Lewis, a first year PhD student studying malaria parasite genetics at the Cambridge Institute for Medical Research. When I'm not stuck at Addenbrooke's I like cycling, hanging with friends at Darbar, and sometimes just watching the river go by.<br <br>
-        <p align="justify">
         </p>
     </td></tr>
     
@@ -135,11 +135,11 @@ Hi! I'm Lewis, a first year PhD student studying malaria parasite genetics at th
     </td>
     <td style="vertical-align: middle">
         dcsa_ents AT darwin.cam.ac.uk<br/>
-         David O'SHEA<br/>
-        
+         David O'SHEA
+        <br/>
+       <p align="justify"> 
 Hi I'm David (they/them) and I'm a first year Physics PhD student working on defect centers in diamond- in short, I get to shoot lasers at diamonds. I'm from Southend on sea in Essex and love a good costume'd night out In my free time I'm usually playing bass, reading books or learning a language. If anyone has any questions or suggestions for the bops, please do shoot them my way!
 <br>
-        <p align="justify">
 
 The Ents Officers coordinate, organise, and promote the Darwin BOPs. They are responsible for the music, decorations, security, and finances. They also work with the Events Officer to host other events throughout the year. Darwin BOPs are known for their vibrant atmosphere and original themes and they always have the most popular Cambridge bands performing. Think live music, themes, drinks, DJs, raffles, good vibes and dancing until the early morning... Reach out to them if you have any ideas! One officer is elected in November, and the other is elected in May.
         </p>
@@ -259,7 +259,6 @@ Callum is a PhD student studying cancer biology, focusing on paediatric lymphoma
          dcsa_sports AT darwin.cam.ac.uk<br/>
          Alex BIAS<br/>
         <p align="justify">
-<br>
 Hi everyone! I’m Alex. I’m completing an MPhil in Engineering for Sustainable Development. I’m a member of the Cambridge Climate Society, working towards increased sustainability education. Feel free to reach out with any questions or say hi if you see me around!
 <br><br>
             
