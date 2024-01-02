@@ -6,7 +6,7 @@ permalink: /meet-the-dcsa/
 
 <!-- Trinity -->
 
-<table>
+<table> 
 <tr>
     <td class="meet-the-dcsa--profile-picture-container">
         <a href="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg"><img src="{{site.baseurl | absolute_url}}/images/DCSA/DCSA-President.jpg" alt="[President's picture]" width="300px"/></a>
