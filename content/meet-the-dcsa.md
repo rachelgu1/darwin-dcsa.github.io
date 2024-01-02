@@ -46,7 +46,7 @@ The Secretary is the administrator of the committee and the Vice President (chai
         dcsa_treasurer AT darwin.cam.ac.uk<br/>
         Jonathan PARKER<br/>
         <p align="justify">
-Jonathan is studying for a PhD in Biochemistry, researching MYC dependent signalling in Pancreatic Ductal Adenocarcinoma. When not working on his PhD or training with the University of Cambridge Ice Hockey Club Men’s Blues, Jonathan can be found enjoying DarBar’s extensive whisky collection.<br><br>
+Jonathan is studying for a PhD in Biochemistry, researching MYC dependent signalling in Pancreatic Ductal Adenocarcinoma. When not working on his PhD or training with the University of Cambridge Ice Hockey Club Men’s Blues, Jonathan can be found enjoying DarBar’s extensive whisky collection.<br><br> 
 
 The Treasurer is responsible for managing the finances of the DCSA, including drafting the annual budget, publishing periodic expense reports, and assessing the financial feasibility of projects. They are responsible for ensuring timely reimbursements and payments of invoices and for maintaining accurate financial records. The Treasurer also sits on the College Finance Committee.
         </p>
