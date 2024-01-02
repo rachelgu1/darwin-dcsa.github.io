@@ -234,6 +234,8 @@ The International Officer is responsible for representing the needs of internati
         Teodor DUDII<br/>
         <p align="justify">
 
+Hi everyone! My name is Theo, and I’m a Digital Humanities MPhil student. Presently I’m working with applying computational methods to analysing metre in Ancient Greek drama. Outside of studying I like watching makeover reality TV shows, reading non-fiction (specifically too-vague essays), writing, playing the guitar really badly and trying not to kill the houseplants I bought to make my room “a little more lively”. <br><br>
+
 The role of the Q+ Officer is to act as a representative for the interests of LGBTQ+ students at the college level, as well as to organise social events, mixers and workshops benefiting the college’s LGBTQ+ community. Importantly, should any student have the slightest concern about their ability to express their gender or sexual identity in college, Joe is always there to chat, advise and help out where possible.
         </p>
     </td></tr>
