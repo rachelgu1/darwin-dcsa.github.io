@@ -56,7 +56,6 @@ parts of Darwin College student life or if you have any questions about the bar,
 
 <h3>Gym</h3>
 <p align="justify">
-<strong>The new gym will open at the start of October 2022; more information to follow soon!</strong>
 </p>
 <p align="justify">
 Darwin offers access to a fitness room for primary or associated members of the college. The membership is free and allows you to use the gym at any time. In order to gain access to the gym for the first time you will be required to attend a gym induction, which will typically be individually arranged with your Sports & Societies officers (dcsa_sports AT darwin.ac.uk) throughout the year. This induction is important to familiarise yourself with the rules, ask any questions you might have, sign the conditions of use form and finally activate your student card for access to the gym. Please respect the following rules and guidelines:
