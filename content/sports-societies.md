@@ -5,7 +5,7 @@ permalink: /sports-societies/
 <!-- NB: Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly. -->
 <!-- NB: Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections. -->
 
-<strong>This page is currently being updated. For the latest information see the Welcome Guide in the New Students Section.</strong>
+<strong> If you'd like to start a new Sport or Society please get in touch with the DCSA Sports & Socities Officers </strong>
 
 # Sports & Societies
 <br>
@@ -220,6 +220,9 @@ For any queries, reach out to Aristi Damaskou (ad971). Also, make sure to follow
 
 <strong>Contact:</strong><br>
 Aristi Damaskou, ad971<br>
+Yasmeen Butt, ycsb2<br>
+Laura Magnani, lm2011<br>
+Andres Alfonso Rojas, afa38<br>
 Instagram: @darwin_cuban_salsa <br>
 <a href="https://www.facebook.com/groups/866672656814002/">Facebook</a><br>
 </details>
