@@ -23,28 +23,7 @@ dcsa_punts@darwin.cam.ac.uk
 
 <strong>Overview</strong><br>
 <p align="justify">
-The table below gives a brief overview of the membership and booking fees.</p>
-
-<table style="width:100%">
-  <tr>
-    <th></th>
-    <th>Punts</th>
-    <th>Kayaks and Canoe</th>
-    <th>Paddle boards</th>
-  </tr>
-  <tr>
-    <td>Non-Members/ Individual Outings</td>
-    <td>£15 per outing<br> (per single punt, a trip to Grantchester counts at least as two outings)</td>
-    <td>not available<br> (punt club members only)</td>
-    <td>not available<br> (punt club members only)</td>
-  </tr>
-  <tr>
-    <td>Punt club membership</td>
-    <td>£30 membership fee per season<br>+ access to all vessels</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+Punt Club membership costs £30 membership per season and gives you access to all our vessels (punts, kayaks, paddleboards and canoe).
 
 A quick summary (not comprehensive), you are still expected to read the full Terms and Conditions before signing up!
 <ul>
