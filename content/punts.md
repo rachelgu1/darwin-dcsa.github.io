@@ -24,8 +24,9 @@ dcsa_punts@darwin.cam.ac.uk
 <strong>Overview</strong><br>
 <p align="justify">
 Punt Club membership costs £30 membership per season and gives you access to all our vessels (punts, kayaks, paddleboards and canoe).
-
-A quick summary (not comprehensive), you are still expected to read the full Terms and Conditions before signing up!
+<br>
+<br>
+A quick summary of the rules is below. However this is not comprehensive and you are still expected to read the full Terms and Conditions before signing up!
 <ul>
 <li>The wearing of a life jacket is compulsory when kayaking and canoeing.</li>
 <li>Paddle boards may not be used by those who cannot swim.</li>
