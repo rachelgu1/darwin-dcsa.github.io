@@ -186,7 +186,7 @@ We have a complete <a href="{{site.baseurl | absolute_url}}/documents/PuntGuide.
 
 <strong>How to make a booking?</strong>
 <p align="justify">
-To book, log in to the portal to see the availability of the vessels (please note that there is one portal for punts only and another portal for other vessels). To make a booking, click on an available time slot. The ‘Create a new reservation’ page will then open. Enter your chosen time, under name of booking enter your full name and CRSID eg Jane Doe (jd42), then ‘Create’. The booking should then appear under the schedule, payment (in case of single outing, we accept only cashless payments) must be made when you arrive at the Porters' Lodge to pick up the keys at the start of the booking.
+To book, log in to the portal to see the availability of the vessels (please note that there is one portal for punts only and another portal for other vessels). To make a booking, click on an available time slot. The ‘Create a new reservation’ page will then open. Enter your chosen time, under name of booking enter your full name and CRSID eg Jane Doe (jd42), then ‘Create’. The booking should then appear under the schedule. If you are an alum of the college you will not be able to access the booking system so bookings must be made by contacting the porters or alumni office.
 </p><br>
 
 
