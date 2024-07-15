@@ -92,7 +92,7 @@ The BAME officer works with college to further the needs of Black, Indigenous, a
          dcsa_coms AT darwin.cam.ac.uk<br/>
          Anna JANSSON<br/>
         <p align="justify">
-Hey Y’all! I am Anna, an MPhil studying Basic and Translational Neuroscience, specifically looking at monoamine GPCRs in Octopus vulgaris. Here at Cambridge I am active in the University Powerlifting Club and the Cambridgeshire Guild of Weavers, Spinners and Dyers (among lots of other random things). I am so excited to serve all of you here at Darwin and keep you up to date on all of the cool and important things you are doing or can do here! Please don't hesitate to reach out to me if you want something shared with the group (no guarantees, but I want to hear everything you think is amazing around college). <br><br>
+Hi everyone, I’m Rachel! I’m currently wrapping up my PGCE in Early Primary to teach 3-7-year-olds. Outside of that, I can be found in Darwin kayaking, beekeeping, quizzing, gardening, or – more commonly– running around the place because I’ve lost my keys somewhere. Come and say hello if you spot me around; I’m always up for a chat! <br><br>
 
 The Comms Officer is responsible for sending out the WhatsUp email blasts, maintaining the website, and otherwise attending to DCSA communication needs such as sitting on the college Information Services Committee. Please get in touch if you’d like to share something in WhatsUp or for any other communication-related needs. Speaking of which don’t forget to sign up for the <a href="https://lists.cam.ac.uk/sympa/subscribe/darwin-whatsup?previous_action=info">mailing list</a>!
         </p>
